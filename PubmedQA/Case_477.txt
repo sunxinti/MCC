@@ -1,0 +1,96 @@
+PMID: 26606599
+Question: Do Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum?
+Correct Answer: maybe
+
+======================= Launch the MCC process =======================
+PMID: 26606599
+Question: Do Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+
+The core question seeks to determine whether surrogates of injury severity influence the occurrence of heterotopic ossification (HO) in patients with acetabular fractures. Specifically, it probes whether factors that indirectly measure injury severity (such as length of stay in the ICU or non-ICU settings) are associated with the development of HO following surgical intervention.
+
+**2. Evidence Evaluation**
+
+The abstract presents a retrospective study involving 241 patients treated for acetabular fractures via a posterior approach. The key findings relevant to the question are:
+
+- **Significant Associations with HO Development:**
+  - **Length of Stay (LOS) in ICU:**
+    - 1-2 days: OR = 4.33
+    - 3-6 days: OR = 4.1
+    - >6 days: OR = 11.7
+  - **Non-ICU LOS >10 days:** OR = 7.6
+  - **HO Prophylaxis with XRT:** Protective factor, OR = 0.29
+
+- **Non-Significant Variables:**
+  - Age, gender, injury severity score, and other clinical factors did not show a significant association with HO development.
+
+The study's multivariate model indicates that longer ICU and non-ICU stays, which serve as proxies for greater injury severity and more complicated recoveries, are significantly associated with an increased likelihood of developing HO. The sample size of 241 patients provides a reasonable basis for the findings, and the use of a multivariate model strengthens the reliability by controlling for potential confounders.
+
+However, being a retrospective study from a single Level 1 trauma center may limit the generalizability of the results. Additionally, retrospective designs are inherently subject to biases such as selection bias and information bias. Despite these limitations, the associations found are statistically significant and biologically plausible, suggesting a meaningful relationship between injury severity surrogates and HO occurrence.
+
+**3. Conclusion**
+
+Based on the evidence presented, surrogates of injury severity, specifically the length of stay in both ICU and non-ICU settings, significantly influence the occurrence of heterotopic ossification in patients with acetabular fractures. While there are limitations related to study design and generalizability, the findings provide a clear association supporting the question.
+
+**4. Final Answer**
+
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether surrogates of injury severity (indirect measures reflecting injury severity) influence the occurrence of heterotopic ossification (HO) in acetabular fractures treated with open reduction internal fixation. Key variables to evaluate include ICU length of stay (LOS), non-ICU LOS, injury severity score (ISS), and other patient factors. The study’s results must clarify if these surrogates are statistically associated with HO development.
+
+**2. Evidence Evaluation**  
+- **Results from the abstract**:  
+  - **ICU LOS** (1-2, 3-6, or >6 days) and **non-ICU LOS >10 days** were **significantly associated** with HO development in multivariate analysis (e.g., OR = 11.7 for >6 days ICU LOS vs. reference).  
+  - **ISS**, mechanism of injury, neurologic injury, fracture type, and other factors were **not significantly associated** with HO.  
+  - **XRT prophylaxis** reduced HO risk (OR = 0.29).  
+
+- **Strength of evidence**:  
+  - The study is retrospective with a large sample (241 patients), providing reasonable statistical power.  
+  - Multivariate analysis adjusted for confounders, strengthening causal inference.  
+  - Explicitly states that ICU LOS and non-ICU LOS are "surrogates of injury severity" linked to HO.  
+
+- **Limitations**:  
+  - Retrospective design may introduce selection or measurement bias.  
+  - ISS (a direct injury severity metric) was not significant, raising questions about the validity of ICU/non-ICU LOS as surrogates. However, the study explicitly defines these variables as surrogates, and their association with HO was statistically robust.  
+
+- **Relevance**:  
+  The question focuses on surrogates, and the study directly tested and confirmed an association between ICU/non-ICU LOS (as surrogates) and HO.  
+
+**3. Conclusion**  
+The study provides clear evidence that **specific surrogates of injury severity (ICU LOS and prolonged non-ICU LOS)** are strongly associated with HO occurrence. While ISS (a direct measure of injury severity) was not significant, the question specifically asks about "surrogates," which the authors define as ICU/non-ICU LOS. Therefore, the evidence supports a "yes" answer. The study’s design limitations (e.g., retrospective nature) do not negate the statistically significant associations reported.  
+
+**4. Final Answer**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether surrogates of injury severity (e.g., ICU/non-ICU length of stay) influence the occurrence of heterotopic ossification (HO) in acetabular fractures. Key evidence to identify includes statistical associations between these surrogates and HO, while noting whether causation or confounding is addressed.
+
+**2. Evidence Evaluation**  
+- **Results**: ICU days and non-ICU LOS >10 days were significantly associated with HO (ORs 4.33–11.7 and 7.6, respectively; 95% CIs excluding 1). XRT prophylaxis reduced HO risk (OR = 0.29).  
+- **Strengths**: Multivariate analysis adjusted for covariates (e.g., age, ISS, operative time). Strong statistical significance for ICU/LOS and XRT.  
+- **Limitations**: Retrospective design (risk of confounding). Injury Severity Score (ISS) itself was not significantly associated with HO, raising questions about whether ICU/LOS truly reflect injury severity or other factors (e.g., complications, care delays). Causality cannot be inferred—longer ICU stays may correlate with systemic inflammation or immobilization, not direct injury severity.  
+- **Conclusion in Abstract**: Authors explicitly state ICU/LOS (surrogates) are associated with HO, but ISS is not. XRT’s protective effect may indirectly relate to injury severity (e.g., severe injuries might preclude prophylaxis).  
+
+**3. Conclusion**  
+The answer is **"yes"** based on the abstract’s reported associations. However, limitations (retrospective design, ISS non-significance, potential confounding) introduce uncertainty about whether ICU/LOS directly reflect injury severity or other unmeasured factors. The authors’ conclusion supports the association, but the lack of ISS correlation and possible confounding justify cautious interpretation.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

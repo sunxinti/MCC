@@ -1,0 +1,70 @@
+PMID: 16392897
+Question: BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?
+Correct Answer: maybe
+
+======================= Launch the MCC process =======================
+PMID: 16392897
+Question: BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content**: The question seeks to determine if BCRABL transcript detection using quantitative real-time PCR yields correlated results when utilizing homebrew assays across different laboratories.
+- **Key Information**: Correlation of results between different laboratories using similar but non-standardized homebrew assays, particularly focusing on quantitative real-time PCR for BCRABL detection in Ph(+) leukemia patients.
+
+**2. Evidence Evaluation**
+- **Research Results**: The study conducted parallel quantitative real-time PCR analyses on 70 clinical specimens at two different institutions using TaqMan-based assays with some methodological differences. The Spearman rank correlation coefficient was 0.9435 (p<0.00001) for 22 BCRABL-positive paired results, indicating a strong correlation. Only one discordant result was noted, attributed to low BCRABL copy number.
+- **Strength and Reliability**: The high correlation coefficient and statistically significant p-value suggest robust and reliable evidence supporting the comparability of results between different laboratories.
+- **Relevance**: The evidence directly addresses the question by demonstrating that with certain standards (same positive control cell line and quality control gene), different homebrew assays can produce correlated results.
+
+**3. Conclusion**
+Based on the strong positive correlation observed in the study, it is feasible for homebrew quantitative real-time PCR assays for BCRABL detection to produce correlated results across different laboratories, provided there is some level of standardization.
+
+**4. Final Answer**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether homebrew (in-house) quantitative real-time PCR assays for detecting BCR-ABL transcripts can produce correlated results between laboratories despite methodological differences. Key factors to evaluate include the study's design, methodology differences between labs, and the statistical correlation of results.  
+
+**2. Evidence Evaluation**  
+- The study compared BCR-ABL detection results from two labs using different methodologies (RNA isolation, cDNA synthesis, primers/probes) but shared controls (K562 cell line and BCR gene).  
+- Of 70 samples, 43 were negative in both labs. For the 22 positive samples, a strong Spearman correlation (rₛ = 0.9435, p < 0.00001) was observed.  
+- One discordant result was attributed to low RNA yield in one lab, suggesting technical variability rather than inherent methodological incompatibility.  
+- The abstract explicitly states that standardized controls (e.g., positive cell line and quality control gene) enable comparability despite differing protocols.  
+
+The high correlation coefficient and the authors' conclusion strongly support the possibility of correlated results when standardized controls are used. The single discordant result is an outlier likely due to technical limitations, not a fundamental flaw in the method's comparability.  
+
+**3. Conclusion**  
+The evidence demonstrates that homebrew assays can yield strongly correlated BCR-ABL results between laboratories if standardized controls are implemented, even with methodological differences. The data (rₛ = 0.94) and the authors' conclusions confirm this. The minor discordance does not negate the overall positive finding.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether homebrew quantitative real-time PCR assays for BCRABL detection can produce correlated results between laboratories despite methodological differences. Key points to evaluate include the study's findings on correlation between assays using different methodologies but shared controls (K562 cell line and BCR gene).  
+
+**2. Evidence Evaluation**  
+- The study compared results from two labs using distinct RNA isolation, cDNA synthesis, primers, and probes but shared controls.  
+- Strong correlation (Spearman \( r_s = 0.9435 \), \( p < 0.00001 \)) was observed for 22 positive samples, with 43/70 negatives concordant.  
+- One discordance occurred due to low RNA yield, not methodological flaws.  
+- The abstract concludes that standardization of controls enables comparability, even with other methodological differences.  
+
+**3. Conclusion**  
+The evidence supports that correlated results are possible if shared controls (positive control cell line and quality control gene) are used, despite homebrew assay differences. The high correlation coefficient and concordance in negatives strongly indicate reliability.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

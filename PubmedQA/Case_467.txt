@@ -1,0 +1,77 @@
+PMID: 12805495
+Question: Can patients be anticoagulated after intracerebral hemorrhage?
+Correct Answer: maybe
+
+======================= Launch the MCC process =======================
+PMID: 12805495
+Question: Can patients be anticoagulated after intracerebral hemorrhage?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+
+The core question is whether patients can be anticoagulated after experiencing an intracerebral hemorrhage (ICH). Specifically, it examines patients with a history of ICH who have a clear indication for anticoagulation, such as nonvalvular atrial fibrillation. Key information to look for includes the impact of anticoagulation on survival and quality of life, differences based on the location of the prior hemorrhage (lobar vs. deep hemispheric), and any conditions under which anticoagulation might be beneficial despite the risks.
+
+**2. Evidence Evaluation**
+
+The abstract presents a decision-analysis model comparing warfarin anticoagulation versus no anticoagulation in patients with prior ICH and atrial fibrillation. 
+
+- **For lobar ICH**: Withholding anticoagulation is strongly preferred, improving quality-adjusted life expectancy by 1.9 QALYs.
+  
+- **For deep hemispheric ICH**: Withholding anticoagulation results in a smaller gain of 0.3 QALYs. However, sensitivity analyses indicate that anticoagulation could be preferred if the patient has a particularly high risk of thromboembolic stroke or a low risk of ICH recurrence.
+
+The evidence is derived from a robust decision-analysis model using literature data and empirical institutional data. While the model provides a general recommendation, it also acknowledges scenarios where anticoagulation may be beneficial, indicating variability based on individual patient risk profiles.
+
+**3. Conclusion**
+
+Based on the evidence, anticoagulation after ICH is generally not recommended, especially for lobar ICH. However, for deep hemispheric ICH, there are specific circumstances where anticoagulation might be beneficial. This nuanced outcome suggests that the decision should be individualized based on patient-specific risk factors.
+
+**4. Final Answer**
+
+**My final choice is: "maybe"**
+GPT selected: maybe
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The core question is whether anticoagulation (e.g., warfarin) is advisable for patients with a history of intracerebral hemorrhage (ICH) and a clear indication for anticoagulation (e.g., nonvalvular atrial fibrillation). Key information to identify in the abstract includes:  
+- The effect of anticoagulation on outcomes (quality-adjusted life years, QALYs) stratified by ICH location (lobar vs. deep hemispheric).  
+- The study’s conclusions regarding treatment preferences for these patient subgroups.  
+
+**2. Evidence Evaluation**  
+The study uses a decision-analytic model to compare anticoagulation vs. no anticoagulation in patients with prior ICH and atrial fibrillation. Results show:  
+- **Lobar ICH**: Withholding anticoagulation improves QALYs by 1.9, strongly favoring no anticoagulation.  
+- **Deep hemispheric ICH**: Withholding anticoagulation yields a smaller QALY gain (0.3). However, sensitivity analyses suggest anticoagulation might be preferred in patients with high thromboembolic risk and low ICH recurrence risk.  
+The abstract explicitly states that most patients with deep ICH should avoid anticoagulation, but a subset with specific risk profiles might benefit. The evidence is model-based, not from a clinical trial, but it systematically evaluates risks and benefits.  
+
+**3. Conclusion**  
+The answer depends on the location of the prior ICH and individual risk profiles. For **lobar ICH**, anticoagulation is contraindicated (strong evidence against). For **deep ICH**, anticoagulation is generally not recommended but may be considered in high-thromboembolism/low-ICH-recurrence cases. Since the question does not specify ICH location and the study allows for exceptions, the answer is conditional. Thus, the response should be **"maybe"**.  
+
+**4. Final Answer:**  
+**My final choice is: "maybe"**
+Qwen selected: maybe
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The core question is whether patients with a history of intracerebral hemorrhage (ICH) and a clear indication for anticoagulation (e.g., atrial fibrillation) should receive anticoagulation. Key factors include hemorrhage location (lobar vs. deep hemispheric), thromboembolic risk, and ICH recurrence risk.  
+
+**2. Evidence Evaluation**  
+The study uses a decision-analysis model to compare anticoagulation (warfarin) vs. no anticoagulation. Findings include:  
+- **Lobar ICH**: Withholding anticoagulation is strongly preferred (1.9 QALY gain).  
+- **Deep Hemispheric ICH**: No anticoagulation provides a smaller benefit (0.3 QALY gain), but anticoagulation *might* be preferred in high thromboembolic risk or low ICH recurrence scenarios.  
+The evidence is derived from modeling, not clinical trials, and relies on sensitivity analyses. While robust within its framework, it highlights conditional recommendations based on individualized risk assessment.  
+
+**3. Conclusion**  
+The answer is **"maybe"** because anticoagulation is generally not recommended for most ICH survivors, particularly lobar ICH. However, select patients with deep ICH and high thromboembolic risk or low recurrence risk *might* benefit. The decision depends on individualized risk stratification.  
+
+**4. Final Answer**  
+**My final choice is: maybe**
+DeepSeek selected: maybe
+
+Initial consensus: All models selected maybe

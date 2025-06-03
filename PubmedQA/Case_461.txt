@@ -1,0 +1,100 @@
+PMID: 26778755
+Question: Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?
+Correct Answer: maybe
+
+======================= Launch the MCC process =======================
+PMID: 26778755
+Question: Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+
+- **Core Content:** The question investigates whether dose-point evaluation is a reliable method for assessing vaginal dose in image-guided brachytherapy (IGBT) for cervical cancer.
+- **Key Information to Look For:** 
+  - Evaluation of dose-point parameters in IGBT.
+  - Reliability and impact of using PIBS points for dose assessment.
+  - Evidence supporting or questioning the dependence on dose-point evaluation.
+  - Limitations or considerations highlighted in the study.
+
+**2. Evidence Evaluation**
+
+- **Research Results and Data:**
+  - The study evaluated doses at PIBS points in 19 patients undergoing IGBT after concurrent radiochemotherapy.
+  - Significant differences in doses at PIBS and PIBS +2 points were observed between patients with and without vaginal involvement.
+  - Delivered doses at PIBS points were strongly correlated with prescribed doses (R² = 0.93 to 0.95).
+  - Applicator movements relative to PIBS points were insignificant, suggesting dose-point stability.
+  - However, the dose at the rectovaginal point showed a significant decrease from planned doses.
+- **Strength and Reliability:**
+  - High correlation coefficients indicate strong reliability of dose-point evaluation at PIBS points.
+  - Small sample size (19 patients) limits the generalizability of findings.
+- **Relevance to the Question:**
+  - Directly assesses the reliability of dose-point evaluation using PIBS points in IGBT.
+- **Limitations:**
+  - Small patient cohort may not capture all variability.
+  - The study calls for further research to link dose-point parameters with actual vaginal morbidity.
+  - Only specific dose points (PIBS and PIBS +2) were evaluated, not a comprehensive dose-volume analysis.
+- **Contradictory Evidence:**
+  - The decrease in dose at the rectovaginal point suggests that dose-point evaluation may not capture all relevant dose distributions.
+- **Alternative Explanations:**
+  - Other anatomical variations or treatment parameters not accounted for could influence dose distribution.
+
+**3. Conclusion**
+
+The study provides supportive evidence that dose-point evaluation at PIBS points is reliable for assessing vaginal dose in IGBT for cervical cancer, as indicated by strong dose correlations and minimal applicator movement impact. However, the small sample size and the observation that some points (e.g., rectovaginal) do not follow this reliability suggest caution. Additionally, the need for further studies to correlate dose points with clinical outcomes like vaginal morbidity indicates that while promising, dose-point evaluation should not be solely relied upon without additional evidence.
+
+**4. Final Answer**
+
+**maybe**
+GPT selected: maybe
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether dose-point evaluation using the posterior-inferior border of the pubic symphysis (PIBS) points is reliable in image-guided brachytherapy for cervical cancer. Key points to evaluate include the correlation between prescribed and delivered doses at PIBS points, applicator movement effects, and the ability to distinguish clinical outcomes (e.g., vaginal infiltration).  
+
+**2. Evidence Evaluation**  
+- **Prescribed vs. Delivered Doses**: The delivered doses at PIBS points (PIBS-2, PIBS, PIBS+2) strongly correlated with prescribed doses (R² 0.93–0.95), with no significant differences between delivered and planned doses.  
+- **Applicator Movement**: Movements did not significantly affect PIBS point doses, as Digital Imaging and Communications in Medicine (DICOM) coordinates showed insignificant shifts.  
+- **Clinical Differentiation**: Patients with vaginal involvement had significantly higher doses at PIBS+2 and PIBS compared to those without, suggesting PIBS points may distinguish clinical subgroups.  
+- **Limitations**:  
+  - Small sample size (19 patients) limits generalizability.  
+  - The International Commission on Radiation Units and Measurements (ICRU) rectovaginal point showed a decrease in delivered dose (1.43 Gy less than planned), implying potential discrepancies at other anatomical points.  
+  - The study did not assess clinical outcomes (e.g., vaginal morbidity), which the authors acknowledge requires further research.  
+
+**3. Conclusion**  
+While the study demonstrates that PIBS points reliably reflect prescribed doses and are unaffected by applicator movement, the limited sample size and lack of clinical outcome data introduce uncertainty. The discrepancy at the ICRU point also suggests that PIBS points may not capture all relevant dose parameters. The authors’ call for further studies to correlate PIBS points with morbidity underscores the need for caution. Thus, while the technical reliability of PIBS points is supported, broader clinical reliance remains uncertain.  
+
+**4. Final Answer:**  
+**My final choice is: "maybe"**
+Qwen selected: maybe
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether dose-point evaluation (specifically PIBS points) can reliably assess vaginal doses in cervical cancer brachytherapy. The abstract evaluates PIBS points' clinical relevance, focusing on dose correlations, applicator movement impact, and differentiation of vaginal infiltration.
+
+**2. Evidence Evaluation**  
+- **Key Findings**:  
+  1. Doses at PIBS points correlated strongly with prescribed doses (R² = 0.93–0.95).  
+  2. No significant dose discrepancies between delivered and prescribed doses at PIBS points.  
+  3. PIBS +2 and PIBS points differentiated patients with/without vaginal infiltration (p = 0.023 and 0.03).  
+  4. Applicator movements relative to PIBS were insignificant.  
+- **Limitations**:  
+  1. Vaginal morbidity outcomes were not assessed; the abstract explicitly states, "Further studies are needed to correlate these parameters with vaginal morbidity."  
+  2. Small sample size (n = 19) and short-term evaluation (Days 2 and 3 scans) limit generalizability.  
+- **Clinical Relevance**: While PIBS points show promise for dose reporting and tumor-specific planning, their reliability for clinical outcomes (e.g., toxicity) remains unproven.  
+
+**3. Conclusion**  
+The evidence supports PIBS points' utility in distinguishing treatment plans and ensuring dose accuracy, but the lack of morbidity data and the need for further validation introduce uncertainty. Thus, reliance on PIBS points for comprehensive vaginal dose assessment (including clinical outcomes) is not yet fully justified.  
+
+**4. Final Answer**  
+**My final choice is: maybe**
+DeepSeek selected: maybe
+
+Initial consensus: All models selected maybe
