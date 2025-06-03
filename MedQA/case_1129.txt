@@ -1,0 +1,168 @@
+Case_id: case_1129
+Case_description: 
+Please refer to the summary above to answer this question
+A cardiologist at another institution is trying to replicate the table in the abstract with a very similar study that he is conducting. After collecting data on changes in plaque volume, LDL-C levels, FEV1/FVC ratio, and ACQ scores from baseline to 12-month follow-up, he is curious if the changes in the aforementioned measurements are statistically significant. Which of the following is the most appropriate statistical method to compare the groups?"
+"Impact of pulmharkimab on asthma control and cardiovascular disease progression in patients with coronary artery disease and comorbid asthma
+Introduction:
+Active asthma has been found to be associated with a more than two-fold increase in the risk of myocardial infarction, even after adjusting for cardiovascular risk factors. It has been suggested that the inflammatory mediators and accelerated atherosclerosis characterizing systemic inflammation may increase the risk of both asthma and cardiovascular disease. This study evaluated the efficacy of the novel IL-1 inhibitor pulmharkimab in improving asthma and cardiovascular disease progression.
+Methods:
+In this double-blind, randomized controlled trial, patients (N=1200) with a history of coronary artery disease, myocardial infarction in the past 2 years, and a diagnosis of comorbid adult-onset asthma were recruited from cardiology clinics at a large academic medical center in Philadelphia, PA. Patients who were immunocompromised or had a history of recurrent infections were excluded.
+Patients were subsequently randomly assigned a 12-month course of pulmharkimab 75 mg/day, pulmharkimab 150 mg/day, or a placebo, with each group containing 400 participants. All participants were included in analysis and analyzed in the groups to which they were randomized regardless of medication adherence. Variables measured included plaque volume, serum LDL-C levels, FEV1/FVC ratio, and Asthma Control Questionnaire (ACQ) scores, which quantified the severity of asthma symptoms. Plaque volume was determined by ultrasound.
+Analyses were performed from baseline to month 12.
+Results:
+At baseline, participants in the two groups did not differ by age, gender, race, plaque volume, serum LDL-C levels, FEV1/FVC ratio, and ACQ scores (p > 0.05 for all). A total of 215 participants (18%) were lost to follow-up. At 12-month follow-up, the groups contained the following numbers of participants:
+Pulmharkimab 75 mg/d: 388 participants
+Pulmharkimab 150 mg/d: 202 participants
+Placebo: 395 participants
+Table 1: Association between pulmharkimab and both pulmonary and cardiovascular outcomes. Models were adjusted for sociodemographic variables and medical comorbidities. All outcome variables were approximately normally distributed.
+Pulmharkimab 75 mg/d, (Mean +/- 2 SE) Pulmharkimab 150 mg/d, (Mean +/- 2 SE) Placebo, (Mean +/- 2 SE) P-value
+Plaque volume (mm3), change from baseline 6.6 ± 2.8 1.2 ± 4.7 15.8 ± 2.9 < 0.01
+LDL-C levels, change from baseline -9.4 ± 3.6 -11.2 ± 14.3 -8.4 ± 3.9 0.28
+FEV1/FVC ratio, change from baseline 0.29 ± 2.21 0.34 ± 5.54 -0.22 ± 3.21 0.27
+ACQ scores, change from baseline 0.31 ± 1.22 0.46 ± 3.25 0.12 ± 1.33 0.43
+Conclusion:
+Pulmharkimab may be effective in reducing plaque volume but does not lead to improved asthma control in patients with a history of myocardial infarction and comorbid asthma.
+Source of funding: Southeast Institute for Advanced Lung and Cardiovascular Studies, American Center for Advancement of Cardiovascular Health"
+Options: 
+1. Pearson correlation analysis
+2. Chi-square test
+3. Analysis of variance
+4. Meta-analysis
+5. Kaplan-Meier analysis
+Correct Answer: Analysis of variance
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 3 (Analysis of variance)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Study Overview:** This case involves a double-blind, randomized controlled trial evaluating the efficacy of the IL-1 inhibitor pulmharkimab in patients with coronary artery disease and comorbid adult-onset asthma.  
+- **Participants:** 1,200 patients were randomized into three groups: pulmharkimab 75 mg/day, pulmharkimab 150 mg/day, and placebo, each initially containing 400 participants.  
+- **Measurements:** Changes from baseline to 12-month follow-up in plaque volume, serum LDL-C levels, FEV1/FVC ratio, and Asthma Control Questionnaire (ACQ) scores.  
+- **Key Outcome:** Determining the statistical significance of the changes in these measurements across the three groups.
+
+**2. Analysis of Clinical Features**  
+- **Variables Measured:** The study assesses both cardiovascular (plaque volume, LDL-C levels) and pulmonary (FEV1/FVC ratio, ACQ scores) parameters.  
+- **Data Characteristics:** All outcome variables are approximately normally distributed, which is essential for selecting appropriate statistical tests.  
+- **Group Comparisons:** The primary objective is to compare the mean changes in each measurement across the three treatment groups to identify any statistically significant differences attributable to the intervention.
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: Pearson Correlation Analysis**  
+  - **Use Case:** Measures the linear relationship between two continuous variables.  
+  - **Relevance:** Not suitable for comparing means across multiple groups.  
+- **Option 2: Chi-square Test**  
+  - **Use Case:** Assesses associations between categorical variables.  
+  - **Relevance:** Inappropriate for continuous outcome variables like plaque volume or LDL-C levels.  
+- **Option 3: Analysis of Variance (ANOVA)**  
+  - **Use Case:** Compares the means of three or more independent groups to determine if at least one group mean is statistically different from the others.  
+  - **Relevance:** Suitable for comparing the continuous outcome variables across the three treatment groups in this study.  
+- **Option 4: Meta-analysis**  
+  - **Use Case:** Combines results from multiple studies to derive a pooled estimate.  
+  - **Relevance:** Not applicable as this is a single study scenario.  
+- **Option 5: Kaplan-Meier Analysis**  
+  - **Use Case:** Estimates survival functions and compares time-to-event data across groups.  
+  - **Relevance:** Irrelevant as the outcomes are not time-to-event data.
+
+**4. Final Selection**  
+**My final selection is: Option 3 (Analysis of variance)(方差分析)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 3 (Analysis of variance)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Basic Information**: A randomized controlled trial with 1,200 participants divided into three groups (pulmharkimab 75 mg/day, pulmharkimab 150 mg/day, placebo) to evaluate the impact of the drug on cardiovascular and pulmonary outcomes in patients with coronary artery disease and comorbid asthma.  
+- **Key Measurements**: Changes in plaque volume, LDL-C levels, FEV1/FVC ratio, and ACQ scores from baseline to 12-month follow-up.  
+- **Decisive Features**: The study aims to compare **continuous outcomes** (plaque volume, LDL-C, FEV1/FVC, ACQ scores) between three independent groups.  
+
+**2. Analysis of Clinical Features**  
+- **Continuous Outcomes**: All variables (plaque volume, LDL-C, FEV1/FVC, ACQ) are continuous and approximately normally distributed, as stated in the results.  
+- **Group Comparison**: The study requires comparing **means** of three independent groups (75 mg, 150 mg, placebo) for each outcome.  
+- **Statistical Need**: The goal is to determine if the **differences in mean changes** between the groups are statistically significant.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1 (Pearson correlation analysis)**:  
+  - **Relevance**: Measures linear relationships between **two continuous variables**, not comparisons between groups.  
+  - **Conclusion**: Inapplicable here.  
+
+- **Option 2 (Chi-square test)**:  
+  - **Relevance**: Used for **categorical data** to assess associations between groups.  
+  - **Conclusion**: Not suitable for continuous outcomes.  
+
+- **Option 3 (Analysis of variance [ANOVA])**:  
+  - **Relevance**: Compares **means of three or more independent groups** for continuous outcomes. Aligns perfectly with the study’s need to assess differences in plaque volume, LDL-C, etc., between the three treatment groups.  
+  - **Conclusion**: Strongly supports this option.  
+
+- **Option 4 (Meta-analysis)**:  
+  - **Relevance**: Combines results from **multiple independent studies**, not applicable for a single trial.  
+  - **Conclusion**: Irrelevant here.  
+
+- **Option 5 (Kaplan-Meier analysis)**:  
+  - **Relevance**: Used for **time-to-event data** (e.g., survival analysis).  
+  - **Conclusion**: Not applicable to continuous outcome comparisons.  
+
+**4. Final Selection**  
+**My final selection is: Option 3 (Analysis of variance)(方差分析)**  
+
+**Key Evidence Supporting the Choice**:  
+- The study involves comparing **continuous outcomes** (plaque volume, LDL-C, FEV1/FVC, ACQ) between **three independent groups**.  
+- ANOVA is specifically designed to test for differences in means across multiple groups, which matches the study’s objective.  
+- The results table includes p-values (e.g., p < 0.01 for plaque volume), which are generated through ANOVA when comparing group means.  
+- Other methods (e.g., Pearson, Chi-square, meta-analysis, Kaplan-Meier) do not align with the study design or data type.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 3 (Analysis of variance)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- This is a statistical analysis question involving a randomized controlled trial (RCT) comparing three groups (two pulmharkimab doses and placebo) to evaluate changes in continuous outcomes (plaque volume, LDL-C levels, FEV1/FVC ratio, ACQ scores) over 12 months.  
+- Key features: Three independent groups, normally distributed continuous outcome variables, and a need to compare mean changes across groups.  
+
+**2. Analysis of Clinical Features**  
+- The study design is a three-arm RCT with continuous, normally distributed outcomes. The goal is to test for statistically significant differences in mean changes across groups.  
+- Pearson correlation (Option 1) is unsuitable as it assesses linear relationships between two variables, not group comparisons.  
+- Chi-square (Option 2) is for categorical data, not continuous outcomes.  
+- Meta-analysis (Option 4) aggregates results from multiple studies, which is irrelevant here.  
+- Kaplan-Meier (Option 5) analyzes survival/time-to-event data, which is absent in this case.  
+- Analysis of variance (ANOVA, Option 3) is designed to compare means across ≥3 groups, aligning with the study’s structure and data type.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1 (Pearson):** Excluded—no correlation analysis required.  
+- **Option 2 (Chi-square):** Excluded—outcomes are continuous, not categorical.  
+- **Option 3 (ANOVA):** Strongly supported—ANOVA is the standard method for comparing means across multiple groups with normally distributed data.  
+- **Option 4 (Meta-analysis):** Irrelevant—single study, not a synthesis of existing studies.  
+- **Option 5 (Kaplan-Meier):** Excluded—no time-to-event outcomes (e.g., survival).  
+
+**4. Final Selection**  
+**My final selection is: Option 3 (Analysis of variance)(方差分析)**  
+- **Key evidence:** The study involves three independent groups, continuous normally distributed outcomes, and a need to compare mean changes. ANOVA is the gold standard for this purpose. The results table in the abstract likely used ANOVA (as indicated by the reported p-values).
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 3 (Analysis of variance)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option3
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option3 - Analysis of variance
+Correct Answer: - Analysis of variance
+
+Is the final diagnosis correct? ✓ Correct
+
