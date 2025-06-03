@@ -1,0 +1,81 @@
+PMID: 16296668
+Question: Can bedside assessment reliably exclude aspiration following acute stroke?
+Correct Answer: no
+
+======================= Launch the MCC process =======================
+PMID: 16296668
+Question: Can bedside assessment reliably exclude aspiration following acute stroke?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content**: The primary question investigates whether bedside swallowing assessments can reliably exclude the presence of aspiration in patients who have recently suffered an acute stroke.
+- **Key Information to Look For**:
+  - **Sensitivity and Specificity** of bedside assessments.
+  - **Negative Predictive Value (NPV)**: Indicates the probability that patients with a negative bedside assessment truly do not have aspiration.
+  - **Comparison with Gold Standard**: How bedside assessment results align with videofluoroscopy findings.
+
+**2. Evidence Evaluation**
+- **Study Results**:
+  - **Speech and Language Therapist Assessment**:
+    - Sensitivity: 47%
+    - Specificity: 86%
+    - NPV: 85%
+  - **Optimized Bedside Assessment Elements**:
+    - Sensitivity: 75%
+    - Specificity: 72%
+    - NPV: 91%
+- **Interpretation**:
+  - **Low Sensitivity**: The bedside assessments miss a significant proportion of patients who are actually aspirating (especially the 47% sensitivity), meaning many cases of aspiration are not detected.
+  - **NPV Consideration**: While an NPV of 85-91% suggests a relatively high probability that a negative assessment truly means no aspiration, the low sensitivity undermines the reliability of confidently excluding aspiration solely based on bedside assessments.
+- **Strength and Reliability**: The study is prospective and includes a standardized approach, enhancing reliability. However, the low sensitivity is a critical limitation.
+- **Relevance**: Directly addresses the ability of bedside assessments to exclude aspiration post-stroke, making the evidence highly relevant to the question.
+
+**3. Conclusion**
+Based on the low sensitivity of bedside swallowing assessments observed in the study, these assessments are not sufficiently reliable to exclude aspiration in acute stroke patients. Although the negative predictive values are relatively high, the risk of missing aspiration cases makes bedside assessments inadequate as sole screening tools.
+
+**4. Final Answer**
+**My final choice is: "no"**
+GPT selected: no
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether bedside swallowing assessments can reliably exclude aspiration in acute stroke patients. The key metrics to evaluate are the diagnostic accuracy parameters (sensitivity, specificity, NPV) of bedside assessments compared to the gold standard (videofluoroscopy). The focus is on whether a negative bedside result can confidently rule out aspiration (i.e., high NPV).
+
+**2. Evidence Evaluation**  
+- **Sensitivity of bedside SLT assessment**: 47%, meaning 53% of actual aspirations were missed at the bedside.  
+- **NPV of bedside SLT assessment**: 85%, indicating that 15% of patients with a negative bedside test still had aspiration.  
+- **Study Conclusion**: The abstract explicitly states that bedside assessments "lack the necessary sensitivity to be used as a screening instrument," despite some predictive value from specific clinical signs (e.g., cough, altered consciousness).  
+- **Limitations**: The videofluoroscopy’s role as the gold standard is questioned, but the data still show substantial missed aspirations (e.g., 10/20 aspirators undetected).  
+
+**3. Conclusion**  
+While the NPV of 85% suggests bedside assessments can partially rule out aspiration, the low sensitivity (47%) and non-negligible false-negative rate (15%) mean they cannot reliably exclude aspiration. The study’s conclusion directly supports this, emphasizing insufficient sensitivity for screening. Thus, the answer is "no."
+
+**4. Final Answer:**  
+**My final choice is: "no"**
+Qwen selected: no
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether bedside swallowing assessments can reliably exclude aspiration (i.e., rule it out with high confidence) in acute stroke patients. Key factors to evaluate include the sensitivity (ability to detect true positives) and negative predictive value (NPV, likelihood that a negative test result truly indicates no aspiration) of bedside assessments compared to videofluoroscopy (the gold standard).
+
+**2. Evidence Evaluation**  
+- The study found that bedside assessment by a speech therapist had **47% sensitivity** and **85% NPV** for aspiration. This means 53% of true aspirators were missed (low sensitivity), and 15% of patients deemed "safe" at bedside actually aspirated.  
+- Even after optimizing bedside criteria (weak cough + altered consciousness), sensitivity improved to 75% and NPV to 91%, but 9% of patients classified as "safe" still aspirated.  
+- The authors explicitly conclude that bedside assessment **lacks sufficient sensitivity** for reliable screening, and videofluoroscopy remains critical for definitive exclusion.  
+
+**3. Conclusion**  
+While optimized bedside assessments improved NPV to 91%, this still leaves a clinically significant risk of undetected aspiration (9%). Given the study’s conclusion that bedside evaluation lacks adequate sensitivity and the persistent risk of false negatives, it cannot "reliably exclude" aspiration.  
+
+**4. Final Answer**  
+**My final choice is: no**
+DeepSeek selected: no
+
+Initial consensus: All models selected no

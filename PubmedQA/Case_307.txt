@@ -1,0 +1,78 @@
+PMID: 27338535
+Question: Do risk calculators accurately predict surgical site occurrences?
+Correct Answer: no
+
+
+
+======================= Launch the MCC process =======================
+PMID: 27338535
+Question:  Do risk calculators accurately predict surgical site occurrences?
+
+
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The question seeks to determine whether risk calculators are effective in accurately predicting surgical site occurrences (SSO).
+- **Key Information to Identify:** Effectiveness and accuracy of existing risk assessment models for SSO as presented in the abstract.
+
+**2. Evidence Evaluation**
+- **Research Results:** The study evaluated five predictive models (VHRS, VHWG, CDC Wound Class, HW-RAT, ACS-NSQIP) using two datasets.
+- **AUC Scores:** For SSO, the Area Under the Curve (AUC) values ranged from 0.50 to 0.69, indicating low to modest predictive accuracy. Typically, an AUC of 0.5 suggests no predictive ability, while values above 0.7 are considered acceptable.
+- **Risk Stratification:** While some models like VHRS and HW-RAT could stratify patients into different risk tiers, the overall predictive performance for SSO was limited.
+- **Overestimation and Underestimation:** The models either overestimated or underestimated the risk of SSO and SSI, further questioning their accuracy.
+- **Limitations:** The abstract mentions limited external validation of the models and suggests that continued refinement is necessary, highlighting the current models' inadequacies.
+
+**3. Conclusion**
+Based on the evidence, existing risk calculators demonstrate limited to low accuracy in predicting surgical site occurrences. The low AUC values and the models' tendency to misestimate risks indicate that these tools are not reliably accurate for SSO prediction.
+
+**4. Final Answer**
+**My final choice is: "no"**
+GPT selected: no
+
+
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether existing risk calculators accurately predict surgical site occurrences (SSOs). The key information to focus on includes the predictive accuracy metrics (AUC values) and risk-stratification success of the models mentioned (VHRS, VHWG, CDC Wound Class, HW-RAT, ACS-NSQIP) for SSO specifically, as well as any overestimation or underestimation of risk in the study populations.  
+
+**2. Evidence Evaluation**  
+- **Predictive Accuracy for SSO**: The abstract reports low AUC values for SSO in both datasets: 0.52–0.60 (Ventral Hernia Outcomes Collaborative, n=795) and 0.50–0.69 (Prospective database, n=88). An AUC <0.7 is generally considered poor predictive accuracy, indicating that none of the models reliably distinguish between patients who will or will not develop SSO.  
+- **Risk Stratification for SSO**: Only the VHRS (P=0.01) and HW-RAT (P<0.01) in the first dataset and ACS-NSQIP (P<0.01) in the second dataset showed statistically significant risk stratification for SSO. However, the AUC values remained low, suggesting that while these models can separate patients into groups with differing SSO rates, their overall accuracy is still limited.  
+- **Over/Underestimation**: All models except HW-RAT and ACS-NSQIP overestimated SSO risk, while HW-RAT and ACS-NSQIP underestimated it. This misalignment between predicted and actual risk further undermines their accuracy.  
+- **Study Limitations**: The Prospective database had a small sample size (n=88), which may reduce the generalizability of its findings. Additionally, the abstract explicitly states that existing models have "limited external validation," raising concerns about their real-world applicability.  
+
+**3. Conclusion**  
+The evidence strongly suggests that risk calculators have **limited ability** to accurately predict SSO. While some models (e.g., VHRS, ACS-NSQIP) showed modest success in risk stratification for surgical site infections (SSI), their predictive accuracy for SSO was poor (AUC <0.7) and they either overestimated or underestimated actual SSO rates. The study’s conclusions directly state that all models are suboptimal for SSO prediction, even in their ability to stratify patients. Thus, there is sufficient evidence to answer **"no"**, given the low AUCs and systematic inaccuracies in risk estimation.  
+
+**4. Final Answer**  
+**My final choice is: "no"**
+Qwen selected: no
+
+
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether existing risk calculators accurately predict surgical site occurrences (SSO) after open ventral hernia repair. The key focus is on the predictive accuracy of models for SSO, distinct from surgical site infections (SSI). The abstract evaluates multiple risk assessment models across two databases, measuring their ability to stratify risk and predict SSO/SSI through statistical metrics like AUC and chi-square tests.
+
+**2. Evidence Evaluation**  
+- **Predictive Accuracy**: For SSO, AUC values across models in both databases were low (0.52–0.63 in the multicenter database and 0.50–0.69 in the prospective database). AUC <0.7 is generally considered poor discrimination.  
+- **Risk Stratification**: Some models (e.g., VHRS, HW-RAT, ACS-NSQIP) significantly stratified patients into risk tiers for SSO (p-values <0.05), but their actual predictive accuracy remained suboptimal.  
+- **Calibration Issues**: Most models overestimated or underestimated SSO risk, indicating poor calibration.  
+- **Abstract Conclusion**: Explicitly states that all models have "limited ability to risk-stratify patients and accurately assess risk of SSO." Modest success was noted only for SSI with VHRS and ACS-NSQIP, not SSO.  
+- **Limitations**: Low AUCs suggest poor discrimination, and external validation is limited. Statistical significance in stratification does not equate to clinical accuracy.  
+
+**3. Conclusion**  
+The evidence strongly indicates that existing risk calculators do **not** accurately predict SSO. While some models achieved statistically significant risk stratification, their predictive accuracy (AUC) was poor, and calibration issues further undermine reliability. The abstract explicitly concludes that current models are inadequate for SSO prediction, supporting a "no" answer.  
+
+**4. Final Answer**  
+**My final choice is: no**
+DeepSeek selected: no
+
+Initial consensus: All models selected no

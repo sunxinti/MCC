@@ -1,0 +1,76 @@
+PMID: 22522271
+Question: Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?
+Correct Answer: no
+
+======================= Launch the MCC process =======================
+PMID: 22522271
+Question: Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The research question seeks to determine whether late-night salivary cortisol is a superior screening test compared to standard screening tests for detecting cortisol excess in obese patients with Type 2 diabetes mellitus (T2DM).
+- **Key Information to Look For:** Specificity of late-night salivary cortisol compared to other standard tests (24-hour urinary free cortisol (UFC) and 1mg dexamethasone suppression test (DST)) in the given patient population.
+
+**2. Evidence Evaluation**
+- **Research Results and Data:** 
+  - Late-night salivary cortisol specificity: 70%
+  - 24-hour UFC specificity: 90%
+  - 1mg DST specificity: 72%
+  - Statistical Significance: Late-night salivary cortisol was significantly less specific than 24-hour UFC (P=0.039) but not significantly different from 1mg DST (P>0.99).
+- **Strength and Reliability:** The study includes a small sample size (40 patients), which may limit the generalizability of the results. However, the direct comparison using the same patient cohort adds reliability to the specificity comparisons.
+- **Relevance to the Question:** The evidence directly addresses the specificity of late-night salivary cortisol relative to standard tests in the target population.
+
+**3. Conclusion**
+Based on the data, late-night salivary cortisol has lower specificity than 24-hour UFC and similar specificity to 1mg DST. Therefore, it is not a better screening test overall compared to the standard tests, particularly when considering 24-hour UFC.
+
+**4. Final Answer:**
+**My final choice is: "no"**
+GPT selected: no
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether late-night salivary cortisol is a better screening test for cortisol excess compared to standard tests (24hr UFC and 1mg DST) in obese patients with Type 2 diabetes. Key factors to evaluate include specificity values and statistical comparisons between the tests.  
+
+**2. Evidence Evaluation**  
+- **Specificity Results**:  
+  - Late-night salivary cortisol: 70% (95% CI 53-83%).  
+  - 24hr UFC: 90% (95% CI 76-97%).  
+  - 1mg DST: 72% (95% CI 55-85%).  
+- **Statistical Comparisons**:  
+  - Late-night salivary cortisol had **significantly lower specificity** than 24hr UFC (P=0.039).  
+  - Its specificity was **not significantly different** from 1mg DST (P>0.99).  
+- **Study Conclusion**: The abstract explicitly states that **24hr UFC has significantly better specificity**, making late-night salivary cortisol inferior for this population.  
+
+**3. Conclusion**  
+The data shows that late-night salivary cortisol has lower specificity than 24hr UFC (a standard test) and comparable specificity to 1mg DST. Since the question asks if it is **better** than standard tests, the answer is "no," as it underperforms relative to at least one standard test (24hr UFC).  
+
+**4. Final Answer:**  
+**My final choice is: "no"**
+Qwen selected: no
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether late-night salivary cortisol (LNSC) is superior to standard screening tests (24-hour urinary free cortisol [UFC], 1mg dexamethasone suppression test [DST]) for detecting cortisol excess in obese patients with Type 2 diabetes (T2DM). Key information to evaluate includes the specificity of LNSC compared to other tests in this population.  
+
+**2. Evidence Evaluation**  
+- The study included 40 obese T2DM patients without clinical Cushing’s syndrome.  
+- Specificities were calculated assuming no hypercortisolism: LNSC (70%, cutoff 10 nmol/L), UFC (90%), and DST (72%).  
+- LNSC specificity was significantly lower than UFC (*P=0.039*) but comparable to DST (*P>0.99*).  
+- The abstract concludes that 24-hour UFC has significantly better specificity than LNSC in this population.  
+
+**3. Conclusion**  
+The data show that LNSC has poorer specificity than UFC, making it less reliable for ruling out false positives. While LNSC and DST have similar specificity, neither outperforms UFC. Thus, LNSC is not a better screening test than standard tests (specifically UFC) in this context.  
+
+**4. Final Answer**  
+**My final choice is: no**
+DeepSeek selected: no
+
+Initial consensus: All models selected no
