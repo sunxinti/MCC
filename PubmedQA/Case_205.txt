@@ -1,0 +1,94 @@
+PMID: 22720085
+Question: Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 22720085
+Question: Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+
+The core question is whether insulin resistance is the underlying factor that drives the relationship between hyperglycemia (high blood glucose levels) and cardiovascular risk. Key information to look for in the abstract includes the relationship between insulin resistance, hyperglycemia, and cardiovascular risk indicators (e.g., Framingham risk score), as well as how adjusting for insulin resistance affects the association between hyperglycemia and cardiovascular risk.
+
+**2. Evidence Evaluation**
+
+The study involved 60 middle-aged individuals without diabetes. It assessed fasting plasma glucose, 2-hour post-oral glucose tolerance test glucose levels, insulin sensitivity (measured by glucose infusion rate), and body fat percentage. The Framingham risk score was used to estimate cardiovascular risk.
+
+Key findings include:
+- Both fasting and 2-hour plasma glucose levels were initially associated with higher cardiovascular risk.
+- Insulin sensitivity was inversely associated with cardiovascular risk.
+- When adjusting for insulin sensitivity and 2-hour glucose, the association between fasting glucose and cardiovascular risk became non-significant.
+- Similarly, adjusting for insulin sensitivity and fasting glucose nullified the association between 2-hour glucose and cardiovascular risk.
+- Insulin sensitivity remained significantly associated with cardiovascular risk even after adjusting for glucose levels.
+- Body fat percentage was not associated with cardiovascular risk when accounting for insulin sensitivity.
+
+The evidence is robust within the study's design, demonstrating that insulin resistance plays a key role in mediating the relationship between hyperglycemia and cardiovascular risk.
+
+**3. Conclusion**
+
+Based on the evidence, insulin resistance appears to largely explain the association between hyperglycemia and increased cardiovascular risk. Adjusting for insulin sensitivity diminishes the direct impact of blood glucose levels on cardiovascular risk, indicating that insulin resistance is a driving factor.
+
+**4. Final Answer**
+
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether insulin resistance is the underlying mechanism explaining the observed association between hyperglycemia (elevated blood glucose levels) and cardiovascular disease (CVD) risk. Key information to evaluate includes:  
+- Whether hyperglycemia-CVD associations remain significant after adjusting for insulin resistance.  
+- The strength of insulin sensitivity (inverse of resistance) as an independent predictor of CVD risk.  
+- Whether glucose levels lose their association with CVD risk when insulin resistance is accounted for.  
+
+**2. Evidence Evaluation**  
+The study found:  
+- Fasting and 2-hour glucose levels were independently associated with higher Framingham risk scores (r² = 0.21 and 0.24, respectively).  
+- Insulin sensitivity (measured via euglycemic clamp) strongly inversely correlated with CVD risk (r² = 0.36).  
+- Adjusting for insulin sensitivity **eliminated the statistical significance of fasting and 2-hour glucose** in predicting CVD risk.  
+- Insulin sensitivity remained a significant predictor of CVD risk even after adjusting for glucose levels.  
+- Body fat, a potential confounder, did not independently influence CVD risk when insulin sensitivity was considered.  
+
+The results suggest that insulin resistance (low insulin sensitivity) is the primary mediator of the hyperglycemia-CVD association. The study’s use of a gold-standard measure for insulin sensitivity (clamp technique) and adjustment for confounders (e.g., body fat) strengthens the evidence. However, the sample size (60 individuals without diabetes) and lack of diabetes patients limit generalizability.  
+
+**3. Conclusion**  
+The data indicate that insulin resistance explains the observed links between hyperglycemia and CVD risk. When insulin resistance is accounted for, hyperglycemia (fasting/2-hour glucose) loses its statistical association with CVD risk. Since insulin sensitivity remained independently predictive of CVD risk even after adjusting for glucose levels, the evidence strongly supports that insulin resistance drives the association.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether insulin resistance is the primary factor explaining the link between hyperglycemia and cardiovascular (CVD) risk. Key elements to evaluate include:  
+- Whether hyperglycemia-CVD associations persist after adjusting for insulin resistance.  
+- Whether insulin resistance independently predicts CVD risk when glucose levels are accounted for.  
+
+**2. Evidence Evaluation**  
+- **Key findings**:  
+  - Fasting and 2-hour glucose levels correlated with higher Framingham risk scores (*r² = 0.21–0.24, P < 0.001*).  
+  - Insulin sensitivity (inversely reflecting insulin resistance) showed a stronger association with lower CVD risk (*r² = 0.36, P < 0.001*).  
+  - After adjusting for insulin sensitivity and 2-hour glucose, fasting glucose lost significance (*P = 0.060*). Similarly, 2-hour glucose lost significance when adjusted for insulin sensitivity and fasting glucose (*P = 0.143*).  
+  - Insulin sensitivity remained significant even after adjusting for glucose levels (*P < 0.001*).  
+- **Strengths/limitations**:  
+  - Direct measurement of insulin sensitivity (via gold-standard clamp method) strengthens validity.  
+  - Small sample size (*n = 60*) and use of a surrogate CVD risk score (Framingham) limit generalizability to clinical outcomes.  
+- **Relevance**:  
+  - The attenuation of glucose-CVD associations after adjusting for insulin resistance supports the hypothesis that insulin resistance drives the relationship.  
+
+**3. Conclusion**  
+The evidence suggests insulin resistance mediates the association between hyperglycemia and CVD risk, as glucose-CVD links disappeared when insulin resistance was accounted for, while insulin resistance remained independently predictive. However, the small sample and surrogate endpoint warrant cautious interpretation.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

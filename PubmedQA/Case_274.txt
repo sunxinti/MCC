@@ -1,0 +1,71 @@
+PMID: 18928979
+Question: Can myometrial electrical activity identify patients in preterm labor?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 18928979
+Question: Can myometrial electrical activity identify patients in preterm labor?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content Understanding:** The question aims to determine whether myometrial electrical activity (measured via Electrical Uterine Myography, EUM) can effectively identify patients experiencing true preterm labor as opposed to false labor.
+- **Key Information to Look For:** Evidence that EUM differentiates between true and false preterm labor, the predictive accuracy of EUM indices, statistical significance of the results, and comparisons with other diagnostic methods like fetal fibronectin (fFN) and cervical length (CL).
+
+**2. Evidence Evaluation**
+- **Research Results and Data Analysis:** The study involved 87 women with gestational ages less than 35 weeks. An EUM index score (ranging from 1-5) was developed based on specific electrical activity parameters. Patients who delivered within 14 days of testing had significantly higher index scores and mean RMS values (P = .000). Notably, no patients with EUM index scores of 1-2 experienced delivery within this timeframe. Additionally, combining EUM with CL or fFN improved predictive accuracy. Logistic regression indicated that both a history of preterm delivery and the EUM index were strong predictors of preterm delivery, while other factors like gestational age at testing, BMI, fFN, and CL were not significant.
+- **Strength and Reliability of Evidence:** The results show a highly significant association (P = .000), suggesting strong statistical reliability. The prospective measurement and the use of logistic regression add to the methodological robustness. However, the sample size of 87, while reasonable, may limit the generalizability of the findings.
+- **Relevance to the Question:** The evidence directly addresses the ability of myometrial electrical activity to predict true preterm labor, demonstrating that EUM can effectively differentiate between true and false labor scenarios.
+
+**3. Conclusion**
+Based on the study's findings, myometrial electrical activity, as measured by EUM, shows a strong potential to identify patients in true preterm labor. The significant association between higher EUM index scores and actual preterm deliveries, along with the improved predictive power when combined with other methods, supports the effectiveness of EUM in this context.
+
+**4. Final Answer**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether myometrial electrical activity (measured via EUM) can identify patients in true preterm labor versus false labor. Key information to assess includes:  
+- Whether the EUM-derived index distinguished between women who delivered preterm within 14 days and those who did not.  
+- Statistical significance, comparison with other tests (fFN, CL), and the study’s conclusion.  
+
+**2. Evidence Evaluation**  
+- **Results**: Patients who delivered within 14 days had significantly higher EUM index scores and RMS values (P = 0.000). No patients with scores 1–2 delivered in this timeframe.  
+- **Predictive Value**: Combining EUM with CL or fFN improved predictability. Logistic regression confirmed that the EUM index (along with prior PTD history) was a strong, independent predictor of PTD (4–5-fold increased risk).  
+- **Reliability**: The study was prospective, included objective metrics (index, RMS), and controlled for confounders (e.g., gestational age, BMI, fFN, CL). The absence of deliveries in the lowest EUM score group suggests high specificity.  
+- **Relevance**: The study directly addresses the question by comparing EUM’s ability to differentiate true vs. false preterm labor.  
+
+**3. Conclusion**  
+The evidence strongly supports that myometrial electrical activity (via EUM) can identify patients in true preterm labor. The index reliably distinguished women who delivered preterm within 14 days, with no false positives in the lowest score group. The statistical significance and predictive power, even when compared to established markers like fFN and CL, further validate its utility.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether myometrial electrical activity (measured via EUM) can identify patients in true preterm labor. Key elements to evaluate include the study's ability to differentiate false from true preterm labor and predictive performance compared to established markers (fFN and CL).  
+
+**2. Evidence Evaluation**  
+- The study prospectively tested EUM in 87 women (<35 weeks gestation).  
+- Higher EUM index scores and RMS values were strongly associated with delivery within 14 days (*P* = .000).  
+- No deliveries occurred in patients with low EUM scores (1-2), demonstrating high negative predictive value.  
+- EUM outperformed fFN and CL in logistic regression, with its index and prior PTD history being the only significant predictors.  
+- The abstract concludes EUM enhances identification of true preterm labor, supported by statistical significance and clinical relevance.  
+
+**3. Conclusion**  
+The evidence strongly supports that EUM identifies true preterm labor, with clear differentiation between patients delivering or not within 14 days. The combination of predictive accuracy, statistical significance, and comparison to existing biomarkers justifies a "yes" answer.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes
