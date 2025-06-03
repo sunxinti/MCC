@@ -1,0 +1,127 @@
+Case_id: case_95
+Case_description: 
+A 40-year-old man presents to his primary-care doctor for a follow-up of his hypertension. He is asymptomatic at his office visit and denies any new complaints. He has a 10-year history of hypertension that remains poorly controlled on maximum doses of lisinopril, hydrochlorothiazide, and amlodipine. His past medical history is otherwise unremarkable. He has no smoking history, drinks alcohol occasionally, and denies any illicit drug use. His father required a kidney transplant in his forties. The physical exam is notable for palpable flank masses bilaterally. Laboratory studies show a creatinine of 2.5. The physician orders a renal ultrasound, and the results are shown. Which of the following is the most appropriate test to screen for additional complications of this patient's condition?
+Options: 
+1. Colonoscopy
+2. Esophagogastroduodenoscopy
+3. Liver function tests
+4. MR angiography of the brain
+5. Serum amylase and lipase
+Correct Answer: MR angiography of the brain
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 4 (MR angiography of the brain)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 40-year-old male presents for a follow-up of poorly controlled hypertension, remaining asymptomatic without new complaints.  
+- He has a 10-year history of hypertension, managed with lisinopril, hydrochlorothiazide, and amlodipine at maximum doses.  
+- Notable family history includes his father requiring a kidney transplant in his forties.  
+- Physical examination reveals bilateral palpable flank masses.  
+- Laboratory findings show an elevated creatinine level of 2.5 mg/dL.  
+- Renal ultrasound was performed, suggesting renal abnormalities.
+
+**2. Analysis of Clinical Features**  
+- **Hypertension History:** Long-standing hypertension, especially when poorly controlled despite multiple medications, raises concern for secondary causes.  
+- **Family History:** The father's history of kidney transplant in his forties suggests a possible hereditary kidney disease, such as autosomal dominant polycystic kidney disease (ADPKD).  
+- **Physical Exam:** Bilateral palpable flank masses are indicative of enlarged kidneys, commonly seen in ADPKD due to multiple renal cysts.  
+- **Renal Function:** Elevated creatinine indicates impaired renal function, consistent with chronic kidney disease possibly arising from ADPKD.  
+- **Renal Ultrasound:** While not shown, the presence of bilateral flank masses on ultrasound likely reflects enlarged polycystic kidneys, supporting the diagnosis of ADPKD.
+
+**3. Differential Diagnosis Analysis**  
+- **Autosomal Dominant Polycystic Kidney Disease (ADPKD):** Highly likely given the combination of family history, bilateral palpable kidney masses, and chronic kidney disease. ADPKD is associated with several extrarenal manifestations.  
+- **Renal Cell Carcinoma:** Less likely given the bilateral nature of the masses and the patient's age. Renal cell carcinoma typically presents unilaterally.  
+- **Medications-Induced Hypertension:** The patient is already on maximum doses, and the presence of renal masses points towards a secondary cause rather than medication-induced hypertension.  
+- **Other Cystic Kidney Diseases:** Conditions like autosomal recessive polycystic kidney disease are less likely in a 40-year-old presenting in adulthood.
+
+**4. Final Selection**  
+Considering ADPKD as the most probable diagnosis, it is essential to screen for its known complications. One significant complication is the development of intracranial aneurysms, which can lead to subarachnoid hemorrhage. Screening for these aneurysms is crucial, especially given the potential for familial transmission and severe consequences.
+
+**My final selection is: Option 4. MR angiography of the brain (脑部磁共振血管造影)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 4 (MR angiography of the brain)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 40-year-old male with a 10-year history of poorly controlled hypertension (despite triple therapy: lisinopril, hydrochlorothiazide, amlodipine) presents for follow-up.  
+- Asymptomatic, no new complaints, and no significant past medical history except elevated creatinine (2.5 mg/dL) and palpable bilateral flank masses.  
+- Family history: Father required a kidney transplant in his forties.  
+- **Key findings**: Bilateral flank masses, resistant hypertension, elevated creatinine, and familial renal disease.  
+
+**2. Analysis of Clinical Features**  
+- **Poorly controlled hypertension**: Suggests secondary causes (e.g., renal disease) rather than essential hypertension, as it is refractory to standard therapy.  
+- **Bilateral flank masses**: Strongly suggestive of **polycystic kidney disease (PKD)**, a hereditary condition characterized by bilateral renal cysts leading to enlarged kidneys and progressive renal failure.  
+- **Family history**: Early renal failure in the father supports an inherited disorder like autosomal dominant PKD (ADPKD).  
+- **Elevated creatinine**: Indicates chronic kidney disease (CKD), likely related to progressive renal damage from PKD.  
+- **No gastrointestinal, hepatic, or pancreatic symptoms** (e.g., abdominal pain, jaundice, vomiting) rule out acute issues requiring colonoscopy, upper endoscopy, or amylase/lipase testing.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: Colonoscopy**: Unrelated to the patient’s renal findings or hypertension. No gastrointestinal symptoms or risk factors (e.g., bleeding, mass effect) necessitate this test.  
+- **Option 2: Esophagogastroduodenoscopy**: Similarly irrelevant, as no evidence of upper GI pathology (e.g., dysphagia, hematemesis).  
+- **Option 3: Liver function tests (LFTs)**: While ADPKD can rarely cause hepatic cysts, LFTs would not screen for complications of hypertension or renal disease. Elevated creatinine already indicates CKD.  
+- **Option 4: MR angiography of the brain**: **Critical in ADPKD**, as up to 10% of patients develop intracranial aneurysms. The patient’s presentation (flank masses + family history) strongly suggests ADPKD, and screening for cerebral aneurysms is standard in these cases to prevent life-threatening hemorrhage.  
+- **Option 5: Serum amylase/lipase**: No clinical or laboratory evidence of pancreatitis (e.g., abdominal pain, elevated enzymes).  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (MR angiography of the brain) (磁共振脑血管造影)**  
+
+**Key evidence supporting this choice**:  
+- The patient’s bilateral flank masses, resistant hypertension, elevated creatinine, and family history of early renal failure strongly suggest **autosomal dominant polycystic kidney disease (ADPKD)**.  
+- ADPKD is associated with an increased risk of **intracranial berry aneurysms**, which can rupture and cause subarachnoid hemorrhage.  
+- **MR angiography of the brain** is the gold standard for screening cerebral aneurysms in ADPKD patients, as recommended by clinical guidelines (e.g., National Institute for Health and Care Excellence).  
+- Other options are unrelated to the patient’s primary diagnosis or its complications.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 4 (MR angiography of the brain)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Profile**: 40-year-old man with 10-year history of poorly controlled hypertension (on max-dose lisinopril, hydrochlorothiazide, and amlodipine), family history of paternal kidney transplant in his 40s.  
+- **Key Findings**: Asymptomatic at presentation, bilateral palpable flank masses, elevated creatinine (2.5 mg/dL). Renal ultrasound likely reveals bilateral renal cysts, suggesting autosomal dominant polycystic kidney disease (ADPKD).  
+
+**2. Analysis of Clinical Features**  
+- **Resistant Hypertension**: Poor control despite triple therapy raises suspicion of secondary hypertension, often linked to renal parenchymal disease (e.g., ADPKD).  
+- **Flank Masses + Elevated Creatinine**: Classic for ADPKD, characterized by progressive cystic kidney enlargement and renal dysfunction.  
+- **Family History**: Paternal kidney transplant aligns with ADPKD’s autosomal dominant inheritance.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Colonoscopy**: Screens for colorectal cancer or polyps, unrelated to ADPKD complications.  
+2. **Esophagogastroduodenoscopy (EGD)**: Evaluates upper GI pathology (e.g., ulcers, varices), not relevant here.  
+3. **Liver Function Tests (LFTs)**: ADPKD often associates with hepatic cysts, but these are typically asymptomatic; LFTs are not a priority unless symptoms suggest liver dysfunction.  
+4. **MR Angiography of the Brain**: ADPKD patients have a 5–10% lifetime risk of intracranial aneurysms, which can cause catastrophic hemorrhage. Screening is recommended for high-risk individuals (family history of aneurysms/hemorrhage).  
+5. **Serum Amylase/Lipase**: Screens for pancreatitis, not a recognized complication of ADPKD.  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (MR angiography of the brain) (脑部磁共振血管成像)**  
+- **Key Evidence**: ADPKD is strongly associated with intracranial aneurysms, and screening with MR angiography is advised in high-risk patients (e.g., family history of aneurysms, young age). This patient’s family history (paternal kidney failure) and ADPKD diagnosis warrant evaluation for this life-threatening complication.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 4 (MR angiography of the brain)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option4
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option4 - MR angiography of the brain
+Correct Answer: - MR angiography of the brain
+
+Is the final diagnosis correct? ✓ Correct
+
