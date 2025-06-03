@@ -1,0 +1,158 @@
+Case_id: case_608
+Case_description: 
+A 10-year-old boy is brought to the emergency room by his grandparents. He is in a wheelchair with soft restraints because he has been violent and had been trying to hurt himself that day. The child’s parents died in a car accident 1 month ago. His grandparents also brought the medications he stopped taking after his parents’ death, including multivitamins, allopurinol, and diazepam. They say that their grandson has been using these medications for many years; however, they are unable to provide any medical history and claim that their grandson has been behaving strangely, exhibiting facial grimacing, irregular involuntary contractions, and writhing movements for the past few days. They also note that he has had no teeth since the time they first met him at the age of 2. An intramuscular medication is administered to calm the boy down prior to drawing blood from him for laboratory tests. Which of the following biochemical pathway abnormalities is the most likely cause of this patient’s condition?
+Options: 
+1. Hypoxanthine-guanine phosphoribosyl transferase of the pyrimidine metabolism pathway
+2. Aminolevulinic acid synthetase of the heme metabolism pathway
+3. Adenosine deaminase of the purine metabolism pathway
+4. Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway
+5. Thymidylate synthetase of the pyrimidine metabolism pathway
+Correct Answer: Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**
+- **Patient Information:** A 10-year-old male child.
+- **Chief Complaint:** Presented to the emergency room by grandparents due to violent behavior and self-harm attempts.
+- **Key Clinical Manifestations:**
+  - **Behavioral Changes:** Exhibiting violent behavior and attempted self-injury.
+  - **Neurological Symptoms:** Facial grimacing, irregular involuntary contractions, and writhing movements over the past few days.
+  - **Medication History:** Chronic use of multivitamins, allopurinol, and diazepam for many years, which were recently discontinued following the death of his parents one month ago.
+  - **Developmental History:** Absence of teeth since age 2, indicating longstanding behavioral issues.
+
+**2. Analysis of Clinical Features**
+- **Timeline:** The onset of violent and self-injurious behavior coincides with the discontinuation of chronic medications one month ago, suggesting a potential withdrawal or metabolic imbalance.
+- **Neurological Findings:** Involuntary movements such as facial grimacing and contractions are indicative of a neurological disorder, possibly related to neurotransmitter imbalances or metabolic abnormalities.
+- **Absence of Teeth:** Chronic self-mutilation, such as biting, is a hallmark of certain genetic disorders, most notably Lesch-Nyhan Syndrome.
+- **Medication Role:** Allopurinol is a xanthine oxidase inhibitor used to manage hyperuricemia, which is elevated in conditions like Lesch-Nyhan Syndrome due to purine metabolism dysfunction.
+- **Psychosocial Factors:** The recent loss of his parents may have exacerbated underlying neurological or psychiatric conditions, leading to the observed behavioral changes.
+
+**3. Differential Diagnosis Analysis**
+- **Option 1:** *Hypoxanthine-guanine phosphoribosyl transferase of the pyrimidine metabolism pathway*
+  - **Analysis:** Incorrect pathway classification. HGPRT is involved in purine metabolism, not pyrimidine.
+  - **Relevance:** While HGPRT deficiency is relevant to Lesch-Nyhan Syndrome, the pathway is misidentified.
+
+- **Option 2:** *Aminolevulinic acid synthetase of the heme metabolism pathway*
+  - **Analysis:** This enzyme is associated with acute intermittent porphyria.
+  - **Relevance:** Symptoms of porphyria do not align well with the patient's behavioral and neurological presentation.
+
+- **Option 3:** *Adenosine deaminase of the purine metabolism pathway*
+  - **Analysis:** Deficiency leads to severe combined immunodeficiency (SCID).
+  - **Relevance:** The patient's presentation lacks signs of immunodeficiency, making this option unlikely.
+
+- **Option 4:** *Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway*
+  - **Analysis:** Correct enzyme and pathway. HGPRT deficiency is the cause of Lesch-Nyhan Syndrome.
+  - **Relevance:** Lesch-Nyhan Syndrome presents with hyperuricemia (managed by allopurinol), self-mutilating behaviors (absence of teeth since age 2), and neurological symptoms, all of which align with the patient's presentation.
+
+- **Option 5:** *Thymidylate synthetase of the pyrimidine metabolism pathway*
+  - **Analysis:** Involved in DNA synthesis; deficiencies are linked to megaloblastic anemia.
+  - **Relevance:** Does not correlate with the patient's neurological and behavioral symptoms.
+
+**4. Final Selection**
+**My final selection is: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)(嘌呤代谢途径中的次黄嘌呤-鸟嘌呤磷酸核糖转移酶)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient:** 10-year-old boy with violent behavior, self-harm, and involuntary movements (facial grimacing, irregular contractions, writhing).  
+- **Key Symptoms:**  
+  - **Movement disorders:** Irregular involuntary contractions, writhing movements, and facial grimacing.  
+  - **Self-injurious behavior:** Attempting to hurt himself, consistent with Lesch-Nyhan syndrome.  
+  - **No teeth since age 2:** Suggests congenital or early-onset developmental abnormality.  
+  - **Medication history:** Long-term use of allopurinol (for hyperuricemia) and diazepam (for sedation), abruptly stopped after parental death.  
+
+**2. Analysis of Clinical Features**  
+- **Movement Disorders:** The involuntary movements (chorea, dystonia, athetosis) and self-injurious behavior are hallmark features of Lesch-Nyhan syndrome, caused by hypoxanthine-guanine phosphoribosyltransferase (HPRT) deficiency. These movements often worsen with stress or emotional distress, which may explain the exacerbation after parental loss.  
+- **No Teeth Since Age 2:** While not directly pathognomonic, early-onset dental abnormalities may reflect systemic metabolic disturbances (e.g., chronic hyperuricemia causing tissue damage) or secondary effects of self-injury.  
+- **Medication Context:** Allopurinol is used to manage hyperuricemia in HPRT deficiency. Stopping it could exacerbate urate crystal deposition, but the primary movement disorder stems from the underlying enzymatic defect. Diazepam’s use aligns with attempts to control hyperkinetic movements.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1:** HPRT in pyrimidine metabolism → **Incorrect.** HPRT is part of **purine** metabolism. This is a mislabeled option.  
+- **Option 2:** Aminolevulinic acid synthetase (ALAS) deficiency → **Unlikely.** ALAS defects cause porphyrias (e.g., acute intermittent porphyria), which present with abdominal pain, neuropsychiatric symptoms, and photosensitivity—not chronic choreoathetosis or self-injury.  
+- **Option 3:** Adenosine deaminase (ADA) deficiency → **Unlikely.** ADA deficiency causes severe combined immunodeficiency (SCID), not movement disorders.  
+- **Option 4:** HPRT in purine metabolism → **Most Likely.** HPRT deficiency (Lesch-Nyhan syndrome) explains hyperuricemia (allopurinol use), self-injury, and the characteristic choreoathetoid movements. The dental abnormality may be secondary to chronic inflammation or self-mutilation.  
+- **Option 5:** Thymidylate synthetase deficiency → **Unlikely.** This enzyme is involved in DNA synthesis and causes immunodeficiency or developmental delay, not hyperkinetic movements.  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)(磷酸核糖转移酶缺乏症(嘌呤代谢途径))**  
+
+**Key Evidence Supporting the Choice:**  
+- **Lesch-Nyhan syndrome (HPRT deficiency)** is characterized by hyperuricemia (explaining allopurinol use), choreoathetosis, and severe self-injurious behavior.  
+- The abrupt cessation of allopurinol may have worsened urate crystal deposition but does not negate the underlying enzymatic defect.  
+- The movement disorder and self-harm are hallmark features of HPRT deficiency, strongly aligning with the clinical presentation.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Basic Information**: 10-year-old boy with recent violent/self-harm behavior, no teeth since age 2, and abrupt cessation of long-term medications (multivitamins, allopurinol, diazepam) after parental death.  
+- **Key Symptoms**:  
+  - Acute neuropsychiatric symptoms: aggression, self-injury.  
+  - Movement abnormalities: facial grimacing, irregular involuntary contractions, writhing movements (choreoathetosis).  
+  - Dental anomaly: complete absence of teeth since early childhood.  
+- **Decisive Clues**:  
+  - Self-injurious behavior + choreoathetosis.  
+  - Dental agenesis (likely due to self-mutilation).  
+  - Allopurinol use (indicates prior management of hyperuricemia).  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**: Chronic medication use (years) followed by abrupt withdrawal, triggering acute neurological/behavioral deterioration.  
+- **Symptom Interrelationships**:  
+  - Choreoathetosis and self-harm are hallmark features of **Lesch-Nyhan syndrome (LNS)**.  
+  - Dental agenesis aligns with self-mutilation (e.g., biting lips/fingers in LNS).  
+  - Allopurinol treats hyperuricemia in LNS; withdrawal exacerbates symptoms.  
+- **Contradictions**:  
+  - No mention of anemia/immunodeficiency (excludes adenosine deaminase deficiency).  
+  - Absence of photosensitivity/abdominal pain (excludes porphyria).  
+
+**3. Differential Diagnosis Analysis**  
+1. **Option 1 (HGPRT in pyrimidine metabolism)**: Incorrect. HGPRT is specific to **purine** metabolism.  
+2. **Option 2 (Aminolevulinic acid synthetase)**: Porphyria causes neurovisceral crises (abdominal pain, neuropathy) but not choreoathetosis/self-harm.  
+3. **Option 3 (Adenosine deaminase)**: Causes SCID (severe infections), not movement disorders.  
+4. **Option 4 (HGPRT in purine metabolism)**: Matches LNS:  
+  - HGPRT deficiency → impaired purine salvage → hyperuricemia + basal ganglia dysfunction → choreoathetosis, self-injury.  
+  - Allopurinol use confirms prior hyperuricemia management.  
+5. **Option 5 (Thymidylate synthetase)**: Deficiency causes megaloblastic anemia/DNA replication defects, not neurobehavioral symptoms.  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)**  
+**支持选择的证据**：  
+- **Self-injurious behavior + choreoathetosis** are pathognomonic for Lesch-Nyhan syndrome.  
+- **Allopurinol use** directly links to HGPRT deficiency (purine salvage defect → hyperuricemia).  
+- **Dental agenesis** reflects lifelong self-mutilation, a hallmark of LNS.  
+- Biochemical pathway alignment: HGPRT is unequivocally part of **purine** metabolism (not pyrimidine).
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 4 (Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option4
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option4 - Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway
+Correct Answer: - Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway
+
+Is the final diagnosis correct? ✓ Correct
+

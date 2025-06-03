@@ -1,0 +1,161 @@
+Case_id: case_653
+Case_description: 
+A 45-year-old woman is brought to the emergency department by her husband due to upper abdominal pain, nausea, and vomiting for the past couple of hours. She had similar episodes in the past, which were often precipitated by food but resolved spontaneously. Her temperature is 38.3°C (101.0°F), heart rate is 96/min, blood pressure is 118/76 mm Hg, and respiratory rate is 16/min. Physical examination reveals tenderness over the right upper quadrant that is severe enough to make her stop breathing when deeply palpated in the area. Lab results show:
+Leukocyte count 18,000/mm3 with 79% neutrophils
+Aspartate aminotransferase 67 IU/L
+Alanine aminotransferase 71 IU/L
+Serum amylase 46 U/L
+Serum Lipase 55 U/L
+Serum calcium 8.9 mg/dL
+Ultrasonography of the abdomen is shown below. During the ultrasound exam, the patient complains of tenderness when the probe presses down on her right upper quadrant. Which of the following is the most likely cause of her pain?
+Options: 
+1. Acute calculous cholecystitis
+2. Acute acalculous cholecystitis
+3. Biliary colic
+4. Acute pancreatitis
+5. Ascending cholangitis
+Correct Answer: Acute calculous cholecystitis
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 1 (Acute calculous cholecystitis)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**
+- **Patient Information:** A 45-year-old woman presents to the emergency department with upper abdominal pain, nausea, and vomiting lasting for the past few hours.
+- **Chief Complaint:** Acute onset of upper abdominal pain.
+- **Key Clinical Manifestations:**
+  - **History of Present Illness:** Similar previous episodes triggered by food intake, resolving spontaneously.
+  - **Vital Signs:** Fever (38.3°C), slight tachycardia (HR 96/min), normal blood pressure and respiratory rate.
+  - **Physical Examination:** Significant right upper quadrant (RUQ) tenderness, severe enough to inhibit deep breathing.
+  - **Laboratory Findings:**
+    - Elevated leukocyte count (18,000/mm³) with neutrophilia (79%).
+    - Mildly elevated liver enzymes (AST 67 IU/L, ALT 71 IU/L).
+    - Normal pancreatic enzymes (amylase 46 U/L, lipase 55 U/L).
+    - Normal serum calcium (8.9 mg/dL).
+  - **Ultrasonography:** Indicated RUQ tenderness upon probe pressure, suggesting gallbladder involvement.
+
+**2. Analysis of Clinical Features**
+- **Timeline and Symptom Characteristics:** Acute presentation with a history of recurrent, postprandial upper abdominal pain suggests a biliary etiology.
+- **Fever and Leukocytosis:** Indicative of an inflammatory or infectious process.
+- **Mild Elevation of Liver Enzymes:** Suggests possible biliary obstruction or liver involvement.
+- **Normal Pancreatic Enzymes:** Makes pancreatitis less likely.
+- **Ultrasound Findings:** RUQ tenderness during ultrasound probe pressure points towards gallbladder pathology.
+- **Interrelationship of Symptoms:** The combination of acute pain, fever, leukocytosis, and RUQ tenderness aligns with an acute inflammatory condition of the gallbladder rather than a transient biliary colic.
+
+**3. Differential Diagnosis Analysis**
+- **Option 1: Acute Calculous Cholecystitis**
+  - **Alignment:** Fits with acute RUQ pain, fever, leukocytosis, and previous biliary colic history. Ultrasound findings support gallbladder inflammation.
+  - **Support:** Presence of gallstones (implied by history) causing gallbladder obstruction and subsequent inflammation.
+- **Option 2: Acute Acalculous Cholecystitis**
+  - **Less Likely:** Typically occurs in critically ill patients without gallstones, which does not align with the patient’s presentation.
+- **Option 3: Biliary Colic**
+  - **Less Likely:** While the history suggests biliary colic, the presence of fever and leukocytosis indicates an inflammatory process beyond simple colic.
+- **Option 4: Acute Pancreatitis**
+  - **Unlikely:** Normal amylase and lipase levels do not support this diagnosis.
+- **Option 5: Ascending Cholangitis**
+  - **Possible but Less Likely:** Usually presents with Charcot’s triad (RUQ pain, jaundice, fever). Jaundice is not mentioned, making this diagnosis less probable.
+
+**4. Final Selection**
+**My final selection is: Option 1 (Acute calculous cholecystitis)(急性结石性胆囊炎)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 1 (Acute calculous cholecystitis)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 45-year-old woman presents with acute upper abdominal pain, nausea, vomiting, fever (38.3°C), and leukocytosis (18,000/mm³ with 79% neutrophils).  
+- Severe right upper quadrant tenderness, including pain so intense it stops breathing during deep palpation (suggestive of **Murphy’s sign**).  
+- Elevated liver enzymes (AST 67 IU/L, ALT 71 IU/L), normal serum amylase/lipase, and hypercalcemia (8.9 mg/dL).  
+- History of similar episodes triggered by food but self-resolving, now with more severe symptoms.  
+
+**2. Analysis of Clinical Features**  
+- **Fever and leukocytosis** indicate systemic inflammation or infection, pointing toward an infectious/inflammatory process rather than simple obstruction (e.g., biliary colic).  
+- **Murphy’s sign** is highly specific for acute cholecystitis, as it reflects gallbladder inflammation.  
+- **Hypercalcemia** could be secondary to gallbladder disease (e.g., malignancy) but is more commonly associated with pancreatitis. However, normal amylase/lipase levels make pancreatitis less likely.  
+- **Elevated liver enzymes** are mild, suggesting localized inflammation (e.g., cholecystitis) rather than hepatocellular injury.  
+- **Previous episodes** suggest recurrent biliary pathology (e.g., gallstones) that may have progressed to acute cholecystitis in this presentation.  
+
+**3. Differential Diagnosis Analysis**  
+- **1. Acute calculous cholecystitis**:  
+  - **Supporting**: Murphy’s sign, fever, leukocytosis, history of biliary episodes, elevated neutrophils.  
+  - **Likely**: Classic presentation of calculous cholecystitis, with gallstones obstructing the cystic duct and causing inflammation.  
+- **2. Acute acalculous cholecystitis**:  
+  - **Unlikely**: Typically occurs in critically ill patients (e.g., sepsis, prolonged fasting, post-surgery), which is not described here.  
+- **3. Biliary colic**:  
+  - **Unlikely**: Pain is episodic and non-inflammatory (no fever/leukocytosis). The current severity and labs suggest inflammation, not simple obstruction.  
+- **4. Acute pancreatitis**:  
+  - **Unlikely**: Normal amylase/lipase levels and lack of epigastric pain/radiation. Hypercalcemia could be a red herring but does not compensate for other findings.  
+- **5. Ascending cholangitis**:  
+  - **Unlikely**: Requires Charcot’s triad (RUQ pain, fever, jaundice). No jaundice is mentioned, and Murphy’s sign is more indicative of cholecystitis.  
+
+**4. Final Selection**  
+**My final selection is: Option 1 (Acute calculous cholecystitis)(急性胆囊炎伴结石)**
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 1 (Acute calculous cholecystitis)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient**: 45-year-old woman with recurrent upper abdominal pain, nausea, and vomiting, now acute.  
+- **Key Symptoms/Signs**:  
+  - Fever (38.3°C), leukocytosis (18,000/mm³, 79% neutrophils).  
+  - Severe right upper quadrant (RUQ) tenderness with *Murphy’s sign* (pain on deep palpation causing inspiratory arrest).  
+  - Mildly elevated AST (67 IU/L) and ALT (71 IU/L); **normal amylase (46 U/L) and lipase (55 U/L)**.  
+  - RUQ tenderness during ultrasound probe pressure.  
+
+**2. Analysis of Clinical Features**  
+- **Timeline/Triggers**: Recurrent episodes linked to food, now acute with systemic inflammation (fever, leukocytosis).  
+- **Supporting Acute Cholecystitis**:  
+  - **Murphy’s sign** and RUQ tenderness are hallmark signs of gallbladder inflammation.  
+  - Fever and neutrophilia indicate infection/inflammation.  
+  - Prior food-triggered episodes suggest gallstone-related pathology.  
+- **Against Other Diagnoses**:  
+  - **Normal amylase/lipase** rules out acute pancreatitis (Option 4).  
+  - No jaundice, severe hyperbilirubinemia, or sepsis to support ascending cholangitis (Option 5).  
+  - Biliary colic (Option 3) lacks fever and resolves spontaneously; this case shows persistent inflammation.  
+  - Acalculous cholecystitis (Option 2) typically occurs in critically ill patients without gallstones.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Acute calculous cholecystitis**:  
+   - Aligns with RUQ pain, Murphy’s sign, fever, leukocytosis, and history of postprandial episodes. Ultrasound likely shows gallstones/gallbladder wall thickening.  
+2. **Acute acalculous cholecystitis**: Unlikely in a non-critically ill patient without risk factors (e.g., trauma, prolonged fasting).  
+3. **Biliary colic**: Episodic pain without inflammation (normal WBC/temperature between attacks). Current fever/leukocytosis indicate progression to cholecystitis.  
+4. **Acute pancreatitis**: Excluded by normal pancreatic enzymes.  
+5. **Ascending cholangitis**: Requires biliary obstruction with jaundice and Charcot’s triad (pain, fever, jaundice); absent here.  
+
+**4. Final Selection**  
+**My final selection is: Option 1 (Acute calculous cholecystitis)(急性结石性胆囊炎)**  
+- **Key Evidence**:  
+  - Murphy’s sign, fever, leukocytosis, and RUQ tenderness confirm gallbladder inflammation.  
+  - History of food-triggered episodes and normal pancreatic enzymes exclude pancreatitis/biliary colic.  
+  - Ultrasound findings (implied by RUQ probe tenderness) likely demonstrate gallstones, supporting calculous etiology.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 1 (Acute calculous cholecystitis)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option1
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option1 - Acute calculous cholecystitis
+Correct Answer: - Acute calculous cholecystitis
+
+Is the final diagnosis correct? ✓ Correct
+
