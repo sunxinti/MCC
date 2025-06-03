@@ -1,0 +1,173 @@
+Case_id: case_916
+Case_description: 
+A 52-year-old man with hypertension and hyperlipidemia comes to the emergency department 30 minutes after the sudden onset of substernal chest pain while sitting in a chair at home. He reports drinking 2 glasses of whiskey earlier that day, after a stressful day at work. Current medications include hydrochlorothiazide and atorvastatin. He has smoked one pack of cigarettes daily for the past 20 years. His pulse is 102/min, and blood pressure is 135/88 mm Hg. Cardiopulmonary examination shows normal heart sounds. An ECG obtained on arrival at the emergency department shows ST-segment elevations in the anterior leads. 15 minutes later, the patient's chest pain has resolved and a repeat ECG shows no abnormalities. Which of the following is the most likely underlying mechanism of this patient’s chest pain?
+Options: 
+1. Coronary artery vasospasm
+2. Coronary artery vasodilation
+3. Atherosclerotic coronary artery narrowing
+4. Atherosclerotic plaque rupture
+5. Pericardial inflammation
+Correct Answer: Coronary artery vasospasm
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 1 (Coronary artery vasospasm)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information:** A 52-year-old male with a history of hypertension, hyperlipidemia, and a 20-pack-year smoking history.  
+- **Chief Complaint:** Sudden onset of substernal chest pain experienced while at rest.  
+- **Key Clinical Manifestations:**  
+  - Chest pain onset 30 minutes prior to arrival, occurring while sitting.  
+  - Consumption of 2 glasses of whiskey earlier in the day after a stressful workday.  
+  - Vital signs: Pulse 102/min, Blood Pressure 135/88 mm Hg.  
+  - Cardiopulmonary exam: Normal heart sounds.  
+  - **Initial ECG:** ST-segment elevations in the anterior leads.  
+  - **Follow-up:** Chest pain resolved after 15 minutes, and repeat ECG showed no abnormalities.
+
+**2. Analysis of Clinical Features**  
+- **Chest Pain Characteristics:** The patient's chest pain was sudden in onset, substernal, and occurred at rest, which can be indicative of both ischemic and non-ischemic causes.  
+- **ECG Findings:** Initial ST-segment elevations in the anterior leads suggest acute myocardial injury, commonly seen in ST-elevation myocardial infarction (STEMI).  
+- **Resolution and ECG Normalization:** The transient nature of both chest pain and ECG changes is atypical for sustained myocardial infarction and suggests a reversible cause of myocardial ischemia.  
+- **Risk Factors:** Hypertension, hyperlipidemia, and smoking are significant risk factors for atherosclerotic coronary artery disease.  
+- **Contextual Factors:** Consumption of alcohol and stress can precipitate coronary vasospasm.
+
+**3. Differential Diagnosis Analysis**  
+1. **Coronary artery vasospasm (Prinzmetal's Angina):**  
+   - **Alignment with Presentation:** Sudden chest pain at rest with transient ST-segment elevation, resolving spontaneously, is characteristic.  
+   - **Supporting Factors:** History of smoking and stress as precipitating factors; alcohol can also induce vasospasm.  
+   - **Medical Knowledge:** Prinzmetal's angina involves reversible coronary artery spasm leading to transient myocardial ischemia.
+
+2. **Coronary artery vasodilation:**  
+   - **Opposition:** Vasodilation would typically not cause ST-segment elevations; more likely associated with hypotension or reflex tachycardia.
+
+3. **Atherosclerotic coronary artery narrowing:**  
+   - **Partial Alignment:** While the patient has risk factors, atherosclerotic narrowing usually leads to stable angina or fixed ST changes unless complicated by plaque rupture.
+
+4. **Atherosclerotic plaque rupture:**  
+   - **Partial Alignment:** Can cause STEMI; however, the transient nature of ECG changes and chest pain resolution without intervention is atypical for plaque rupture, which usually leads to persistent infarction unless spontaneously reperfused.
+
+5. **Pericardial inflammation (Pericarditis):**  
+   - **Opposition:** Typically presents with diffuse ST-segment elevation across multiple leads, often with a positional component to pain (e.g., relief when leaning forward), which is not described here.
+
+**4. Final Selection**  
+My final selection is: Option 1 (Coronary artery vasospasm)(冠状动脉痉挛)
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 1 (Coronary artery vasospasm)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient:** 52-year-old male with hypertension, hyperlipidemia, and a 20-year smoking history.  
+- **Chief Complaint:** Sudden substernal chest pain 30 minutes prior to arrival, resolving 15 minutes post-ECG.  
+- **Key Symptoms/Signs:**  
+  - Sudden onset of chest pain at rest (while sitting).  
+  - Initial ECG showed ST-segment elevations in anterior leads, resolving after symptom resolution.  
+  - Triggers: Alcohol intake (2 glasses of whiskey) and stress.  
+  - Normal heart sounds on exam.  
+
+**2. Analysis of Clinical Features**  
+- **Timeline:**  
+  - Chest pain began abruptly at rest, peaked within minutes, and resolved completely within 15 minutes.  
+  - ECG abnormalities (ST elevations) coincided with pain and normalized afterward.  
+- **Symptom Characteristics:**  
+  - Substernal location, sudden onset, and rapid resolution suggest a transient ischemic event.  
+  - Triggers (alcohol, stress) are known to precipitate coronary vasospasm.  
+- **ECG Changes:**  
+  - Transient ST elevations in anterior leads indicate transient ischemia.  
+  - Resolution of ECG abnormalities aligns with a reversible mechanism (e.g., vasospasm) rather than fixed obstruction.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: Coronary artery vasospasm**  
+  - **Support:**  
+    - Sudden onset of pain at rest, rapid resolution, and transient ST elevations are classic for vasospasm.  
+    - Triggers (alcohol, stress) are strongly associated with vasospasm.  
+    - No evidence of fixed obstruction (ECG reverted to normal).  
+  - **Evidence:** Vasospasm can mimic STEMI but resolves when the spasm relieves, often with nitroglycerin or spontaneously.  
+
+- **Option 2: Coronary artery vasodilation**  
+  - **Opposition:** Vasodilation would not cause ST elevations or chest pain. It is unrelated to ischemia.  
+
+- **Option 3: Atherosclerotic narrowing**  
+  - **Opposition:** Chronic narrowing would cause persistent or exertional ischemia, not transient ST elevations.  
+
+- **Option 4: Atherosclerotic plaque rupture**  
+  - **Opposition:** Plaque rupture leads to acute coronary syndrome (e.g., STEMI) with persistent ECG changes and elevated cardiac enzymes. The rapid normalization of ECG argues against this.  
+
+- **Option 5: Pericardial inflammation**  
+  - **Opposition:** Pericarditis typically causes pleuritic chest pain (worse with inspiration/lying supine) and diffuse ST elevations with concave morphology, which were not described here.  
+
+**4. Final Selection**  
+**My final selection is: Option 1 (Coronary artery vasospasm)(冠状动脉痉挛)**  
+
+**Key Evidence Supporting Choice:**  
+- The transient nature of symptoms and ECG changes strongly favor a reversible mechanism like vasospasm.  
+- Alcohol and stress are well-documented triggers for coronary vasospasm.  
+- Fixed atherosclerotic disease or plaque rupture would not explain the rapid resolution of ischemia.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 1 (Coronary artery vasospasm)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Profile**: 52-year-old man with hypertension, hyperlipidemia, 20-pack-year smoking history.  
+- **Chief Complaint**: Sudden substernal chest pain 30 minutes prior, resolved after 15 minutes.  
+- **Key Features**:  
+  - Transient ST-segment elevations in anterior leads (resolved on repeat ECG).  
+  - Risk factors: Smoking, alcohol (whiskey), stress.  
+  - Normal heart sounds, no pericardial friction rub.  
+
+**2. Analysis of Clinical Features**  
+- **Transient ST Elevations**: Indicate temporary coronary occlusion. Persistent ST elevations (e.g., STEMI) typically require intervention; rapid resolution suggests reversible ischemia.  
+- **Triggers**: Alcohol, stress, and smoking are known precipitants of coronary vasospasm.  
+- **Resolution of Pain and ECG**: Inconsistent with fixed atherosclerotic narrowing (stable angina) or plaque rupture (STEMI).  
+- **Absence of Pericarditis Signs**: Diffuse ST elevations, PR depressions, or positional pain absent.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Coronary Artery Vasospasm (Prinzmetal’s angina)**:  
+   - Strongly supported by transient ST elevations, rest pain, and risk factors (smoking, alcohol).  
+   - Classic for episodic vasospasm causing transient occlusion.  
+2. **Coronary Artery Vasodilation**:  
+   - Implausible; vasodilation improves flow, unlikely to cause ischemia.  
+3. **Atherosclerotic Coronary Artery Narrowing**:  
+   - Fixed stenosis causes exertional angina, not rest pain with transient ECG changes.  
+4. **Atherosclerotic Plaque Rupture**:  
+   - Plausible but unlikely without persistent ST elevations or elevated cardiac biomarkers. Spontaneous thrombolysis is rare without intervention.  
+5. **Pericardial Inflammation**:  
+   - Diffuse ST elevations, PR depressions, or friction rub expected; inconsistent with rapid resolution.  
+
+**4. Final Selection**  
+**My final selection is: Option 1 (Coronary artery vasospasm)(冠状动脉血管痉挛)**  
+- **Key Evidence**:  
+  - Transient ST elevations and pain resolution align with reversible ischemia.  
+  - Risk factors (smoking, alcohol, stress) strongly predispose to vasospasm.  
+  - Absence of persistent ECG changes or pericarditis signs excludes alternatives.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 1 (Coronary artery vasospasm)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option1
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option1 - Coronary artery vasospasm
+Correct Answer: - Coronary artery vasospasm
+
+Is the final diagnosis correct? ✓ Correct
+
