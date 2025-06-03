@@ -1,0 +1,144 @@
+Case_id: case_30
+Case_description: 
+A 42-year-old woman comes to the emergency department because of a 2-day history of right upper abdominal pain and nausea. She is 163 cm (5 ft 4 in) tall and weighs 91 kg (200 lb); her BMI is 34 kg/m2. Her temperature is 38.5°C (101.3°F). Physical examination shows a distended abdomen and right upper quadrant tenderness with normal bowel sounds. Laboratory studies show:
+Leukocyte count 14,000/mm3
+Serum
+Total bilirubin 1.1 mg/dL
+AST 32 U/L
+ALT 40 U/L
+Alkaline phosphatase 68 U/L
+Abdominal ultrasonography is performed, but the results are inconclusive. Cholescintigraphy shows the intrahepatic bile ducts, hepatic ducts, common bile duct, and proximal small bowel. Which of the following is the most likely cause of this patient's symptoms?"
+Options: 
+1. Autodigestion of pancreatic parenchyma
+2. Hypomotility of the gallbadder
+3. Fistula between the gallbladder and small intestine
+4. Infection with a hepatotropic virus
+5. Obstruction of the cystic duct
+Correct Answer: Obstruction of the cystic duct
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 5 (Obstruction of the cystic duct)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**
+- **Patient Demographics:** 42-year-old obese woman (BMI 34 kg/m²).
+- **Chief Complaint:** Right upper abdominal pain and nausea lasting 2 days.
+- **Vital Signs:** Elevated temperature of 38.5°C (101.3°F).
+- **Physical Examination:** Distended abdomen with right upper quadrant tenderness; normal bowel sounds.
+- **Laboratory Findings:** Leukocytosis (14,000/mm³), slight elevation in AST and ALT; normal bilirubin and alkaline phosphatase.
+- **Imaging Studies:** Abdominal ultrasonography inconclusive; cholescintigraphy (HIDA scan) shows visualization of intrahepatic bile ducts, hepatic ducts, common bile duct, and proximal small bowel.
+
+**2. Analysis of Clinical Features**
+- **Duration and Onset:** Acute presentation over 2 days suggests an acute abdominal process.
+- **Location of Pain:** Right upper quadrant pain is commonly associated with hepatobiliary conditions such as cholecystitis or biliary colic.
+- **Systemic Signs:** Fever and leukocytosis indicate an inflammatory or infectious process.
+- **Imaging Interpretation:** The HIDA scan showing visualization of all biliary structures and proximal small bowel suggests that there is no complete obstruction in the common bile duct or hepatic ducts, allowing tracer passage into the intestine.
+- **Laboratory Values:** Mild elevations in liver enzymes may accompany biliary pathology but are non-specific.
+
+**3. Differential Diagnosis Analysis**
+1. **Autodigestion of pancreatic parenchyma:** Typically associated with pancreatitis, presenting with epigastric pain radiating to the back, which is not the primary presentation here.
+2. **Hypomotility of the gallbladder:** Can lead to stasis and chronic cholecystitis, but the acute presentation with fever and leukocytosis leans more towards an obstructive process.
+3. **Fistula between the gallbladder and small intestine:** Rare and usually secondary to chronic inflammation; presents with more complex symptoms like gallstone ileus, which are not evident here.
+4. **Infection with a hepatotropic virus:** Would expect more systemic hepatic dysfunction, such as elevated bilirubin or specific viral markers, which are not present.
+5. **Obstruction of the cystic duct:** Acute cholecystitis is often caused by cystic duct obstruction, typically presenting with right upper quadrant pain, fever, and leukocytosis. Although the HIDA scan shows biliary ducts filled with tracer, obstruction at the cystic duct can prevent tracer from entering the gallbladder, which may not have been clearly visualized on ultrasonography.
+
+**4. Final Selection**
+**My final selection is: Option 5 (Obstruction of the cystic duct)(胆囊管梗阻)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 5 (Obstruction of the cystic duct)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 42-year-old obese woman (BMI 34) presents with 2 days of right upper abdominal pain, nausea, and fever (38.5°C).  
+- Physical exam reveals distended abdomen, right upper quadrant tenderness, and normal bowel sounds.  
+- Labs show leukocytosis (14,000/mm³), mild hyperbilirubinemia (1.1 mg/dL), and normal/only slightly elevated liver enzymes (AST 32 U/L, ALT 40 U/L, alkaline phosphatase 68 U/L).  
+- Cholescintigraphy demonstrates intrahepatic bile ducts, hepatic ducts, common bile duct, and proximal small bowel but does not visualize the gallbladder.  
+
+**2. Analysis of Clinical Features**  
+- **Right upper quadrant pain and tenderness**: Classic for biliary pathology (e.g., cholecystitis) or pancreatic issues.  
+- **Fever and leukocytosis**: Suggest infection or inflammation, such as cholecystitis or pancreatitis.  
+- **Mild hyperbilirubinemia**: Indicates biliary obstruction but not hepatocellular injury (normal AST/ALT).  
+- **Cholescintigraphy findings**: The absence of gallbladder visualization with patent common bile duct and small bowel is consistent with **cystic duct obstruction** (e.g., acute cholecystitis). The tracer entering the proximal small bowel confirms no distal obstruction (e.g., ampullary tumor or choledocholithiasis).  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1 (Autodigestion of pancreatic parenchyma/pancreatitis)**: Unlikely. Amylase/lipase levels are not mentioned, and pancreatic inflammation typically causes more marked elevation in transaminases and alkaline phosphatase. Bowel sounds are normal, reducing suspicion for paralytic ileus.  
+- **Option 2 (Hypomotility of the gallbladder)**: Could contribute but does not explain the inflammatory markers (leukocytosis, fever) or cholecsintigraphy findings. Cystic duct obstruction (Option 5) is a more direct cause of gallbladder non-visualization.  
+- **Option 3 (Fistula between gallbladder and small intestine)**: Rare and typically associated with gallstone ileus (intestinal obstruction, colicky pain, and visible ectopic activity on imaging). The normal bowel sounds and lack of intestinal obstruction make this less likely.  
+- **Option 4 (Hepatotropic viral infection)**: Unlikely. Viral hepatitis usually causes marked transaminase elevation (AST/ALT >5x upper limit). The mild abnormalities and absence of jaundice (mild bilirubin) are inconsistent.  
+- **Option 5 (Obstruction of the cystic duct)**: Strongly supported. The HIDA scan’s failure to visualize the gallbladder with patent common bile duct and small bowel is pathognomonic for cystic duct obstruction (acute cholecystitis). The patient’s obesity (risk factor for gallstones) and clinical features (fever, leukocytosis) align with this diagnosis.  
+
+**4. Final Selection**  
+**My final selection is: Option 5 (Obstruction of the cystic duct)(胆囊管阻塞)**
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 5 (Obstruction of the cystic duct)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Basic Information**: 42-year-old woman, BMI 34 kg/m² (obese), presenting with 2-day history of **right upper quadrant (RUQ) abdominal pain**, nausea, and fever (38.5°C).  
+- **Key Clinical Manifestations**:  
+  - RUQ tenderness, distended abdomen, leukocytosis (14,000/mm³).  
+  - Normal bilirubin, AST, ALT, and alkaline phosphatase.  
+  - **Cholescintigraphy**: Visualization of intrahepatic bile ducts, common bile duct, and proximal small bowel (no mention of gallbladder filling).  
+
+**2. Analysis of Clinical Features**  
+- **Clinical Timeline**: Acute onset (2 days) of RUQ pain, nausea, and fever.  
+- **Supporting Features for Biliary Pathology**:  
+  - **Obesity**: Major risk factor for gallstones.  
+  - **RUQ pain + fever + leukocytosis**: Classic triad for acute cholecystitis.  
+  - **Cholescintigraphy findings**: Absent gallbladder visualization implies **cystic duct obstruction** (tracer cannot enter the gallbladder).  
+- **Contradictory Features**:  
+  - Normal liver enzymes and bilirubin exclude choledocholithiasis or hepatitis.  
+  - No epigastric pain or elevated pancreatic enzymes to support pancreatitis.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Autodigestion of pancreatic parenchyma (Pancreatitis)**:  
+   - Unlikely. RUQ pain (vs. epigastric), normal pancreatic enzymes, and no risk factors (e.g., alcohol use) oppose this.  
+2. **Hypomotility of the gallbladder (Biliary dyskinesia)**:  
+   - Unlikely. Fever and leukocytosis suggest acute inflammation, not chronic motility issues.  
+3. **Fistula between gallbladder and small intestine (Gallstone ileus)**:  
+   - Unlikely. No bowel obstruction symptoms or abnormal tracer pathway on cholescintigraphy.  
+4. **Infection with a hepatotropic virus (Hepatitis)**:  
+   - Excluded. Normal AST/ALT and lack of jaundice contradict viral hepatitis.  
+5. **Obstruction of the cystic duct (Acute cholecystitis)**:  
+   - **Strongly Supported**:  
+     - Non-visualization of gallbladder on cholescintigraphy confirms cystic duct obstruction.  
+     - RUQ pain, fever, leukocytosis, and obesity align with acute cholecystitis.  
+
+**4. Final Selection**  
+**My final selection is: Option 5 (Obstruction of the cystic duct)(胆囊管梗阻)**  
+- **Key Evidence**:  
+  - **Cholescintigraphy**: Absent gallbladder filling confirms cystic duct obstruction.  
+  - **Clinical Triad**: RUQ pain, fever, leukocytosis.  
+  - **Risk Factor**: Obesity predisposes to gallstone formation and subsequent cystic duct obstruction.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 5 (Obstruction of the cystic duct)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option5
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option5 - Obstruction of the cystic duct
+Correct Answer: - Obstruction of the cystic duct
+
+Is the final diagnosis correct? ✓ Correct
+
