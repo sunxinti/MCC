@@ -1,0 +1,67 @@
+PMID: 24507422
+Question: Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 24507422
+Question: Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+The core question is whether shape analysis can effectively distinguish between free-floating internal carotid artery thrombus (FFT) and atherosclerotic plaque in patients undergoing computed tomography angiography (CTA) for stroke or transient ischemic attack (TIA). Key information to look for includes the study's methodology for shape analysis, the results regarding differentiation accuracy, and the reliability of these findings.
+
+**2. Evidence Evaluation**
+The study involved 23 patients with suspected carotid FFT assessed via CTA. Five quantitative shape descriptors were identified to differentiate FFT from atherosclerotic plaque. The logistic regression model using these descriptors achieved a sensitivity of 87.5%, specificity of 71.4%, and an area under the ROC curve of 0.85 ± 0.09, indicating good discriminatory power. Additionally, machine-learning classifiers showed average accuracy ranging from 65.2% to 76.4%. These results suggest that shape analysis provides a reliable method for differentiation, though the sample size is relatively small.
+
+**3. Conclusion**
+Based on the study’s findings, shape analysis shows potential and demonstrates a reasonable level of accuracy, sensitivity, and specificity in differentiating FFT from atherosclerotic plaque. While the evidence is promising, larger studies would further validate these results.
+
+**4. Final Answer**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether shape analysis can distinguish free-floating internal carotid artery thrombus (FFT) from atherosclerotic plaque in CTA scans for stroke/TIA. The key evidence to evaluate includes the study's methodology, statistical results (e.g., sensitivity, specificity, accuracy), and conclusions about shape descriptors' discriminative ability.
+
+**2. Evidence Evaluation**  
+The study analyzed 23 cases (16 FFT+, 7 FFT-) using five shape descriptors. The logistic regression model achieved:  
+- **Sensitivity of 87.5%**: Correctly identified 7/8 FFT+ cases (if 16 FFT+ and 7 FFT-, but cross-validation may vary).  
+- **Specificity of 71.4%**: Correctly identified 5/7 FFT- cases.  
+- **AUC of 0.85 (±0.09)**: Indicates good discriminative performance.  
+- **Classifier accuracies ranged from 65.2% to 76.4%**, which are moderate but not perfect.  
+
+The abstract emphasizes that the shape "signature" has **potential** to supplement conventional methods. While not perfect, the results suggest shape analysis can contribute to differentiation, though it may not replace clinical judgment or other modalities entirely.
+
+**3. Conclusion**  
+The study demonstrates that shape analysis can *partially* differentiate FFT from plaque with reasonable sensitivity and specificity, supported by an AUC of 0.85. However, the lower specificity and accuracy ranges (65–76%) indicate limitations. The authors conclude it "shows potential," suggesting it is useful but not definitive. Thus, the answer is **"yes"** because the analysis provides statistically significant discriminative capability, even if not perfect.
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether quantitative shape analysis of vascular lesions on CTA can distinguish free-floating thrombus (FFT) from atherosclerotic plaque in stroke/TIA patients. Key information needed includes: (1) evidence of distinct shape features between FFT+ (confirmed thrombus) and FFT- (plaque), and (2) diagnostic performance metrics (e.g., sensitivity, specificity, AUC).
+
+**2. Evidence Evaluation**  
+- The study identified **five shape descriptors** that significantly differentiated FFT+ from FFT- cases.  
+- A logistic regression model combining these features achieved **87.5% sensitivity, 71.4% specificity, and an AUC of 0.85**, indicating strong discriminative ability.  
+- Machine-learning classifiers achieved **65.2–76.4% accuracy**, with the authors concluding the shape "signature" has potential for clinical use.  
+- Limitations include a small sample size (23 cases) and cross-validation without external validation, which may affect generalizability.  
+
+**3. Conclusion**  
+The study demonstrates that shape analysis can differentiate FFT from plaque with statistically significant accuracy, supported by robust metrics (AUC = 0.85). While further validation is needed, the evidence supports a "yes" answer.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

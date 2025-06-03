@@ -1,0 +1,75 @@
+PMID: 26864326
+Question: Predicting admission at triage: are nurses better than a simple objective score?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 26864326
+Question: Predicting admission at triage: are nurses better than a simple objective score?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+   
+The core question is whether triage nurses are more effective than a simple objective score (GAPS) in predicting patient admissions during the triage process. Key information to identify includes the comparative performance metrics of nurses versus the GAPS score in terms of calibration, discrimination (AUC), and accuracy, as well as situations where one method outperforms the other.
+
+**2. Evidence Evaluation**
+   
+The study involved 1,829 attendances, with 745 admissions (40.7%). The GAPS score predicted 750 admissions (41.0%), showing no significant difference from actual admissions (p=0.678). Nurses’ estimates using the VAS predicted 865 admissions (47.3%), which significantly overestimated actual admissions (p<0.0001). The Area Under the Receiver Operating Characteristic Curve (AUC) for GAPS was 0.876 compared to 0.875 for nurses, showing no significant difference (p=0.93). When used as a binary predictor, GAPS had an accuracy of 80.6% versus nurses' 79.0% (p=0.18), which is not statistically significant. However, in cases where nurses were less than 95% certain, GAPS outperformed nurses in calibration, discrimination, and accuracy with significant p-values. When combining GAPS with nurse judgment at ≥95% certainty, the performance improved further (AUC 0.891 and accuracy 82.5%).
+
+The evidence suggests that overall, the GAPS score performs on par or slightly better than nurses' estimates, except in cases where nurses are highly certain about the admission outcome.
+
+**3. Conclusion**
+   
+Based on the evidence, nurses are generally not better than the GAPS score in predicting admissions, except in specific circumstances where they are highly certain. Therefore, the simple objective score is generally preferable, but nurse judgment remains valuable when confidence is high.
+
+**4. Final Answer**
+
+**My final choice is: "no"**
+GPT selected: no
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether triage nurses using a visual analogue scale (VAS) are better than the GAPS score at predicting patient admission. Key metrics to evaluate include calibration (how predictions align with actual admissions), discrimination (AUC), and accuracy. The study compares these metrics between nurses and GAPS.
+
+**2. Evidence Evaluation**  
+- **Calibration**: GAPS accurately predicted the admission rate (41.0% vs. actual 40.7%, p=0.678). Nurses overestimated admissions (47.3% vs. actual 40.7%, p<0.0001).  
+- **Discrimination (AUC)**: GAPS (0.876) and VAS (0.875) had nearly identical AUCs (p=0.93), indicating no significant difference.  
+- **Accuracy**: Both were comparable overall (80.6% vs. 79.0%, p=0.18). However, in cases where nurses were *not* 95% certain, GAPS outperformed VAS in calibration (+1.2% vs. +9.2%), discrimination (AUC 0.810 vs. 0.759), and accuracy (75.1% vs. 68.9%). Only when nurses were ≥95% certain of the outcome did VAS achieve high accuracy (92.4%).  
+
+The abstract concludes that **GAPS is a better predictor overall**, except in cases where nurses express extreme clinical certainty. The combination of GAPS with nurse overrides in such cases yielded the best performance.
+
+**3. Conclusion**  
+The study shows that nurses (VAS) are **not better than GAPS** in most scenarios. While nurses excel *only when highly certain*, GAPS outperforms VAS in the majority of cases. Since the question asks whether nurses are better *in general*, the answer is "no," as GAPS is superior overall. The exception (high certainty) does not negate the broader conclusion.
+
+**4. Final Answer:**  
+**My final choice is: "no"**
+Qwen selected: no
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether triage nurses outperform a simple objective score (GAPS) in predicting hospital admission. Key information to evaluate includes comparison metrics (calibration, discrimination, accuracy) between nurses' predictions (via VAS) and GAPS, as well as the study's conclusion.
+
+**2. Evidence Evaluation**  
+- **Calibration**: GAPS predicted 41.0% admissions (vs. actual 40.7%, p=0.678), while nurses overestimated (47.3%, p<0.0001).  
+- **Discrimination**: AUC for GAPS (0.876) and nurses (0.875) were statistically equivalent (p=0.93).  
+- **Accuracy**: GAPS (80.6%) and nurses (79.0%) were comparable (p=0.18).  
+- **Nurses’ certainty**: When nurses were ≥95% certain (minority of cases), their accuracy was 92.4%. However, in the majority of cases (lower certainty), GAPS significantly outperformed nurses in calibration, discrimination (AUC 0.810 vs. 0.759, p=0.001), and accuracy (75.1% vs. 68.9%, p=0.0009).  
+- **Combined approach**: Using GAPS but overriding it when nurses were ≥95% certain yielded the best performance (AUC 0.891, accuracy 82.5%).  
+
+The study concludes GAPS is generally superior unless nurses express high certainty, where their judgment should take precedence.
+
+**3. Conclusion**  
+The evidence shows GAPS performs as well as or better than nurses in most scenarios. Nurses’ predictions are only superior when they have ≥95% certainty (a minority of cases). Thus, the answer to whether nurses are **overall** better than GAPS is **no**, though exceptions exist in high-certainty cases.  
+
+**4. Final Answer**  
+**My final choice is: no**
+DeepSeek selected: no
+
+Initial consensus: All models selected no

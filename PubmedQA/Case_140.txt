@@ -1,0 +1,66 @@
+PMID: 15943725
+Question: Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 15943725
+Question: Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+The core question is whether serum pancreatic lipase should replace serum amylase as a biomarker for diagnosing acute pancreatitis. Key information to look for includes comparative diagnostic accuracy, sensitivity, specificity, and any statistical significance indicating one biomarker's superiority over the other.
+
+**2. Evidence Evaluation**
+The study analyzed 17,531 measurements from 10,931 patients, with a focus on 8,937 treated in the Emergency Department. The results showed that serum pancreatic lipase had a higher area under the curve (AUC) of 0.948 compared to serum amylase's AUC of 0.906, with the difference being statistically significant (P<0.05). Additionally, serum pancreatic lipase demonstrated higher sensitivity (90.3% vs. 76.8%) while maintaining comparable specificity (93% vs. 92.6%). Notably, fewer acute pancreatitis patients (2.9%) did not have elevated serum pancreatic lipase compared to those who did not have elevated serum amylase (18.8%). These findings suggest that serum pancreatic lipase is more reliable and accurate in diagnosing acute pancreatitis.
+
+**3. Conclusion**
+Based on the significant improvement in diagnostic accuracy, higher sensitivity, and similar specificity, the evidence supports replacing serum amylase with serum pancreatic lipase as a biomarker for acute pancreatitis.
+
+**4. Final Answer:**
+**yes**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether serum pancreatic lipase should replace serum amylase as the preferred biomarker for diagnosing acute pancreatitis. Key information to evaluate includes the diagnostic accuracy, sensitivity, specificity, and clinical utility of both enzymes as reported in the study.  
+
+**2. Evidence Evaluation**  
+- **Diagnostic Accuracy**: The study reports an AUC of 0.948 for serum pancreatic lipase versus 0.906 for serum amylase (p<0.05), indicating statistically significant superior diagnostic accuracy for lipase.  
+- **Sensitivity and Specificity**: At their respective cutoff points, pancreatic lipase had higher sensitivity (90.3% vs. 76.8%) but comparable specificity (93% vs. 92.6%) compared to amylase.  
+- **Clinical Utility**: Only 2.9% of acute pancreatitis patients had normal lipase levels, whereas 18.8% had normal amylase levels, suggesting lipase is less likely to miss cases.  
+- **Study Strengths**: The large sample size (n=10,931 patients), use of radiological confirmation of pancreatitis, and direct comparison of both enzymes strengthen the evidence.  
+
+**3. Conclusion**  
+The study provides robust evidence that serum pancreatic lipase is more accurate and sensitive than serum amylase for diagnosing acute pancreatitis. The higher AUC, sensitivity, and lower rate of false negatives support replacing amylase with lipase as the preferred biomarker.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether serum pancreatic lipase (PL) should replace serum amylase (AMY) as the preferred biomarker for diagnosing acute pancreatitis (AP). Key information to evaluate includes diagnostic accuracy (sensitivity/specificity), receiver operator characteristic (ROC) analysis (AUC values), and the proportion of missed AP cases with each biomarker.  
+
+**2. Evidence Evaluation**  
+- **Diagnostic Accuracy**: PL demonstrated higher sensitivity (90.3% vs. 76.8%) and comparable specificity (93% vs. 92.6%) compared to AMY.  
+- **ROC Analysis**: PL had a significantly larger AUC (0.948 vs. 0.906, *P<0.05*), indicating superior overall diagnostic performance.  
+- **Missed Cases**: 18.8% of AP patients had normal AMY levels, versus only 2.9% with normal PL levels.  
+- **Sample Size**: Robust dataset (10,931 patients, 320 confirmed AP cases) strengthens reliability.  
+- **Conclusion**: The study explicitly states PL is more accurate than AMY for diagnosing AP.  
+
+**3. Conclusion**  
+The evidence strongly supports replacing AMY with PL. PL’s higher sensitivity, fewer missed diagnoses, and statistically superior AUC make it a more reliable biomarker. No conflicting data or limitations undermining these findings are mentioned in the abstract.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

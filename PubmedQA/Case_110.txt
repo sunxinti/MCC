@@ -1,0 +1,80 @@
+PMID: 15841770
+Question: Do inhaled steroids differ from cromones in terms of hospital admission rates for asthma in children?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 15841770
+Question: Do inhaled steroids differ from cromones in terms of hospital admission rates for asthma in children?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The question seeks to determine whether inhaled steroids differ from cromones regarding hospital admission rates for asthma in children.
+- **Key Information to Look For:** Comparative data on hospital admission rates for asthma between children treated with inhaled steroids versus those treated with cromones.
+
+**2. Evidence Evaluation**
+- **Research Results and Data:**
+  - In the Kuopio province (higher use of cromones), there were higher rates of hospital admissions:
+    - Average annual total admissions: 1.2/1000
+    - First admissions: 1.0/1000
+    - Readmissions: 19.3%
+    - Hospital days: 3.8/1000
+  - In the Oulu province (higher use of inhaled steroids), admission rates were significantly lower:
+    - Average annual total admissions: 0.3/1000
+    - First admissions: 0.2/1000
+    - Readmissions: 6.3%
+    - Hospital days: 0.7/1000
+- **Strength and Reliability:** The study uses annual data collected over five years from patient-specific medical records, providing a robust dataset. The statistical significance is indicated (p-values), strengthening the reliability of the findings.
+- **Relevance:** The data directly compare hospital admission rates between regions with differing usage of inhaled steroids and cromones, making it highly relevant to the question.
+
+**3. Conclusion**
+Based on the evidence presented, inhaled steroids are associated with significantly lower hospital admission rates for asthma in children compared to cromones.
+
+**4. Final Answer:**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether inhaled steroids and cromones differ in their effect on hospital admission rates for asthma in children. Key information to identify includes:  
+- Comparison of hospital admission rates between provinces with different medication practices (steroids vs. cromones).  
+- Statistical significance of differences in admission rates.  
+
+**2. Evidence Evaluation**  
+The abstract compares two provinces:  
+- **Kuopio**: 23% of children used cromones, 51% inhaled steroids. Hospital admissions were significantly higher (e.g., 1.2/1000 total admissions vs. Oulu’s 0.3/1000 for children ≥6 years, *p*<0.001).  
+- **Oulu**: 93% used inhaled steroids, 5% cromones. Hospital admissions, readmissions, and hospital days were all lower.  
+The study concludes that inhaled steroids are superior to cromones in preventing admissions. The data shows statistically significant differences (e.g., *p*<0.001), and the comparison directly addresses the question. The provinces’ differing medication practices provide a natural experimental setup, though potential confounders (e.g., regional disparities) are not discussed.  
+
+**3. Conclusion**  
+The evidence strongly suggests that inhaled steroids reduce hospital admissions more effectively than cromones. The statistically significant lower admission rates in Oulu (high steroid use) versus Kuopio (higher cromone use) directly support this conclusion.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether inhaled steroids differ from cromones in reducing hospital admission rates for asthma in children. Key information to evaluate includes comparative data on hospital admissions (total/first admissions, readmissions, hospital days) between populations using these medications and the study's conclusion regarding their efficacy.  
+
+**2. Evidence Evaluation**  
+- The study compares two provinces with differing maintenance medication practices: Oulu (93% inhaled steroids) vs. Kuopio (23% cromones, 51% inhaled steroids).  
+- Oulu province, with higher inhaled steroid use, had significantly lower total admissions (0.3/1000 vs. 1.2/1000), first admissions (0.2/1000 vs. 1.0/1000), readmission proportions (6.3% vs. 19.3%), and hospital days (0.7/1000 vs. 3.8/1000) in children aged ≥6 years (all p-values statistically significant). Similar trends were observed in younger children.  
+- The authors explicitly conclude inhaled steroids are superior to cromones in preventing admissions.  
+- While the study is observational (not randomized), the large effect size and consistent directionality across multiple metrics strengthen the evidence.  
+
+**3. Conclusion**  
+The data strongly supports that inhaled steroids reduce hospital admissions more effectively than cromones in children with asthma. The abstract explicitly states this conclusion, and the statistically significant differences in admission-related outcomes between provinces with divergent treatment practices align with the authors’ interpretation.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

@@ -1,0 +1,82 @@
+PMID: 18399830
+Question: Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 18399830
+Question: Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content**: The primary question examines whether robotically assisted laparoscopic radical prostatectomy (RALP) is less invasive compared to retropubic radical prostatectomy (RRP).
+- **Key Information to Look For**:
+  - Comparative measures of invasiveness between RALP and RRP.
+  - Indicators of tissue trauma or surgical impact, such as levels of specific biomarkers (IL-6, CRP, lactate).
+  - Statistical significance of the differences observed.
+
+**2. Evidence Evaluation**
+- **Research Results and Data**:
+  - The study assessed 35 patients undergoing RALP and 26 undergoing RRP.
+  - Baseline biomarker levels were comparable between both groups.
+  - Post-surgery, levels of IL-6 and CRP were consistently higher in the RRP group at multiple time points (T1 to T4) with statistical significance (P-values < 0.05).
+  - Lactate levels were also higher in the RRP group at certain time points, though within normal ranges.
+  - IL-1 alpha levels remained unchanged across both groups.
+- **Strength and Reliability**:
+  - The study used appropriate statistical tests (Mann-Whitney U, Student's t-tests, etc.) with a significance threshold of P<0.05.
+  - The prospective assessment design enhances reliability.
+  - However, the sample size is relatively small, which may affect the generalizability of the findings.
+- **Relevance to the Question**:
+  - The biomarkers selected are relevant indicators of tissue trauma and invasiveness.
+  - The consistent findings across multiple biomarkers support the conclusion.
+
+**3. Conclusion**
+Based on the provided abstract, the evidence suggests that RALP is associated with lower levels of biomarkers indicative of tissue trauma compared to RRP. Despite the small sample size, the statistically significant differences across multiple measures support the conclusion that RALP is less invasive.
+
+**4. Final Answer**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether robotically assisted laparoscopic radical prostatectomy (RALP) is less invasive than retropubic radical prostatectomy (RRP). The key evidence to evaluate is whether RALP causes less tissue trauma, as indicated by biomarkers of inflammation and stress (IL-6, CRP, lactate) compared to RRP.  
+
+**2. Evidence Evaluation**  
+- **Results**: The study found significantly higher levels of IL-6, CRP, and lactate in the RRP group at multiple time points (T1–T4) compared to RALP. For example, IL-6 and CRP were higher in RRP at all postoperative time points (T1–T4), and lactate was also higher in RRP at T2–T4.  
+- **Relevance**: Elevated IL-6, CRP, and lactate reflect greater tissue damage and systemic inflammatory response, which align with the concept of invasiveness.  
+- **Study Strengths**: The study was prospective, used objective biomarkers, and controlled for baseline differences (e.g., comparable T0 levels). The statistical significance (p-values <0.05) supports the findings.  
+- **Limitations**: The sample sizes were moderate (35 vs. 26 patients), and there was a significant age difference between groups (younger in RALP). However, baseline biomarkers were similar, reducing concerns about confounding.  
+
+**3. Conclusion**  
+The data show that RALP is associated with lower postoperative inflammatory markers (IL-6, CRP, lactate) compared to RRP, indicating less tissue trauma. The abstract explicitly states this conclusion, making the evidence strong and directly relevant. Thus, the answer is "yes."  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether robotically assisted laparoscopic radical prostatectomy (RALP) is less invasive than retropubic radical prostatectomy (RRP). Key information to evaluate includes biomarkers of tissue trauma (e.g., IL-6, CRP, lactate) and their comparative levels between the two surgical approaches.
+
+**2. Evidence Evaluation**  
+- The study measured inflammatory markers (IL-6, CRP, lactate) and found significantly lower levels in RALP patients at multiple time points (T1–T4) compared to RRP.  
+- IL-6 and CRP, key indicators of acute tissue damage, were consistently elevated in RRP (with statistically significant *P*-values: <0.001–0.02).  
+- Lactate levels, reflecting metabolic stress, were also higher in RRP but within normal ranges.  
+- The authors explicitly concluded that RALP induces "lower tissue trauma" than RRP.  
+- The study design (prospective, controlled comparisons) and statistical rigor (appropriate tests, significance thresholds) strengthen reliability. However, the age difference between groups (median 62 vs. 68.5 years, *P*<0.009) introduces a potential confounder, though baseline biomarker levels were comparable.  
+
+**3. Conclusion**  
+The evidence supports that RALP is less invasive than RRP based on reduced inflammatory and metabolic stress markers, which correlate with tissue damage. While age differences warrant caution, the biomarker findings are robust and directly answer the question.  
+
+**4. Final Answer**  
+**My final choice is: "yes"**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

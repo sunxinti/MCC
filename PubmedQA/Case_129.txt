@@ -1,0 +1,70 @@
+PMID: 10548670
+Question: Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 10548670
+Question: Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The question seeks to determine whether the National Institutes of Health Stroke Scale (NIHSS) is biased in favor of left hemisphere strokes.
+- **Key Information to Identify:** 
+  - The distribution of NIHSS points related to different neurological deficits.
+  - Comparative lesion volumes for left versus right hemisphere strokes at equivalent NIHSS scores.
+  - Any evidence suggesting a bias or favorability in the scale towards strokes in one hemisphere over the other.
+
+**2. Evidence Evaluation**
+- **Research Results:** The study found that for the same NIHSS score, right hemisphere strokes have significantly larger lesion volumes compared to left hemisphere strokes. Specifically, patients with right hemisphere strokes had median lesion volumes approximately double those of left hemisphere strokes within the same NIHSS category.
+- **Strength and Reliability:** The study utilizes a robust sample from the placebo arm of the NINDS t-PA stroke trial, employs computerized image analysis for accurate lesion volume measurement, and uses appropriate statistical methods (logistic regression and Spearman rank correlation) to ensure reliable results.
+- **Relevance to the Question:** The fact that the NIHSS assigns more points to language deficits (typically associated with the left hemisphere) and fewer to neglect (often related to the right hemisphere) suggests that the scale may be more sensitive or "favor" left hemisphere strokes in its scoring system.
+
+**3. Conclusion**
+Based on the evidence, the NIHSS appears to assign more weight to deficits commonly associated with left hemisphere strokes (e.g., language), resulting in smaller lesion volumes being scored equally to larger right hemisphere lesions. This indicates a potential bias favoring the detection and scoring of left hemisphere strokes over right hemisphere strokes.
+
+**4. Final Answer**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether the NIH Stroke Scale (NIHSS) "favors" left hemisphere strokes. This likely refers to whether the NIHSS scores are systematically higher or more sensitive to deficits caused by left hemisphere strokes compared to right hemisphere strokes of similar lesion volumes. Key evidence to evaluate includes comparisons of lesion volumes and NIHSS scores between hemispheres.  
+
+**2. Evidence Evaluation**  
+The study found that for the same NIHSS score, right hemisphere strokes had significantly larger median lesion volumes than left hemisphere strokes (e.g., 133 mL vs. 48 mL at an NIHSS score of 16–20). This suggests that left hemisphere strokes achieve the same NIHSS score with smaller lesions, implying the NIHSS may overrepresent the severity of left hemisphere deficits relative to their lesion size. The strong correlation (Spearman rank) between NIHSS and lesion volume (0.71–0.72) for both hemispheres indicates the scale is valid, but the disparity in volume per score suggests a hemispheric bias. The study’s conclusion also explicitly states that right hemisphere strokes have larger volumes for equivalent NIHSS scores, supporting the idea of a left hemisphere "favoring" bias.  
+
+**3. Conclusion**  
+The NIHSS appears to assign similar scores to smaller left hemisphere lesions compared to right hemisphere lesions of the same score. This indicates the scale may favor left hemisphere strokes by reflecting greater neurological deficits (via higher scores) for equivalent or smaller lesion volumes. The evidence is robust and directly addresses the question.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether the NIH Stroke Scale (NIHSS) systematically favors left hemisphere strokes by assigning higher scores to left-sided deficits, potentially underestimating the severity of right hemisphere strokes. Key points to evaluate include:  
+- NIHSS scoring distribution (language vs. neglect).  
+- Relationship between NIHSS scores and lesion volume in left vs. right hemisphere strokes.  
+
+**2. Evidence Evaluation**  
+- The NIHSS allocates 7 points to language (typically left hemisphere) and 2 points to neglect (typically right hemisphere).  
+- For comparable NIHSS scores, right hemisphere strokes had **double the median lesion volume** of left hemisphere strokes (e.g., 133 mL vs. 48 mL for NIHSS 16–20).  
+- Statistical analysis confirmed that right hemisphere strokes required significantly larger infarcts to achieve the same NIHSS score (*P*<0.001).  
+- The correlation between NIHSS and lesion volume was similar for both hemispheres (Spearman 0.72 vs. 0.71), indicating the scale does not inherently correlate better with left hemisphere damage.  
+
+**3. Conclusion**  
+The NIHSS assigns fewer points to neglect (a right hemisphere deficit), leading to disproportionately lower scores for right hemisphere strokes despite larger infarct volumes. This structural bias suggests the NIHSS "favors" left hemisphere strokes by design, as left-sided deficits (e.g., language) contribute more to total scores.  
+
+**4. Final Answer**  
+**My final choice is: "yes"**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

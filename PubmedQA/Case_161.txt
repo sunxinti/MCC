@@ -1,0 +1,75 @@
+PMID: 25499207
+Question: Is neck pain associated with worse health-related quality of life 6 months later?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 25499207
+Question: Is neck pain associated with worse health-related quality of life 6 months later?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The question investigates whether neck pain is linked to a decline in health-related quality of life (HRQoL) six months later.
+- **Key Information to Identify:** Longitudinal associations between neck pain severity and subsequent HRQoL, specifically changes in physical and mental components of HRQoL over a six-month period.
+
+**2. Evidence Evaluation**
+- **Research Results:** The study demonstrates a clear exposure-response relationship between neck pain severity and worse physical HRQoL after six months. Participants with mild, intense, or disabling neck pain experienced progressively greater declines in physical HRQoL compared to those without neck pain. However, no significant association was found between neck pain and mental HRQoL.
+- **Strength and Reliability:** The study employs a robust population-based cohort design with a sizable sample of 1,100 adults and a high follow-up rate of 74.9%. Validated measurement tools (Chronic Pain Questionnaire and SF-36) were used, and multivariable linear regression controlled for potential confounders, enhancing the reliability of the findings.
+- **Relevance to the Question:** The evidence directly addresses the longitudinal impact of neck pain on HRQoL, particularly the physical aspect, which is central to the research question.
+
+**3. Conclusion**
+Based on the evidence, neck pain is associated with a decline in physical health-related quality of life six months later. While the study did not find an association with mental HRQoL, the significant impact on the physical component suggests that neck pain negatively affects overall health outcomes related to physical well-being.
+
+**4. Final Answer:**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether neck pain is associated with worse health-related quality of life (HRQoL) 6 months later. Key elements to assess include:  
+- Directionality (cause-effect over time).  
+- The study's design (longitudinal).  
+- Specific outcomes: physical and mental HRQoL components (PCS and MCS scores).  
+
+**2. Evidence Evaluation**  
+The study used a longitudinal cohort design with 1,100 participants and found:  
+- **Physical HRQoL (PCS):** Neck pain severity at baseline was associated with worse physical HRQoL 6 months later, even after adjusting for confounders. Participants with disabling neck pain had the largest decrease in PCS scores (β = -8.55).  
+- **Mental HRQoL (MCS):** No association was found between neck pain and mental HRQoL.  
+- The study explicitly states a "negative association" between neck pain and **physical** HRQoL, which is a component of overall HRQoL.  
+
+The evidence is strong because it uses a longitudinal design, controls for confounders, and reports statistically significant results (confidence intervals exclude zero for physical HRQoL). However, the mental component shows no association.  
+
+**3. Conclusion**  
+Since HRQoL encompasses both physical and mental domains, the study confirms worse physical HRQoL but not mental HRQoL. The question does not specify a domain, so the answer hinges on whether the physical component alone constitutes "worse HRQoL." The abstract’s conclusion explicitly states that neck pain contributes to future poor **physical** HRQoL, which is part of overall HRQoL. Thus, the answer is **yes**.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether neck pain is associated with worse health-related quality of life (HRQoL) 6 months later. Key information to evaluate includes longitudinal associations between neck pain severity and physical/mental HRQoL outcomes, adjustment for confounders, and statistical significance of findings.  
+
+**2. Evidence Evaluation**  
+- The study found a dose-response relationship: higher baseline neck pain severity (mild, intense, disabling) predicted worse *physical* HRQoL (PCS) at 6 months (β-values: -1.53 to -8.55, all statistically significant).  
+- No association was observed between neck pain and *mental* HRQoL (MCS).  
+- Trajectories of neck pain (worsening/persistent) were linked to worse physical HRQoL.  
+- Results were adjusted for confounders (e.g., age, arthritis, depressive symptoms), strengthening validity.  
+- The 74.9% follow-up rate and cohort design support longitudinal inference, though attrition may slightly weaken reliability.  
+
+**3. Conclusion**  
+The study demonstrates a clear negative association between neck pain and *physical* HRQoL at 6 months, with no effect on mental HRQoL. Since the question broadly references HRQoL without specifying components, the physical domain’s significant decline supports an overall "yes" answer.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes
+

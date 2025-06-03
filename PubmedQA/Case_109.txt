@@ -1,0 +1,75 @@
+PMID: 26923375
+Question: Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 26923375
+Question: Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+
+The core question is whether duplex Doppler ultrasonography can serve as a non-invasive method for diagnosing esophageal varices in patients with compensated hepatic cirrhosis (Child-Pugh class A). Key information to look for in the abstract includes the accuracy, sensitivity, specificity, and predictive values of duplex Doppler ultrasonography compared to the reference standard (endoscopy) in detecting esophageal varices.
+
+**2. Evidence Evaluation**
+
+The study evaluated 56 patients with compensated cirrhosis using duplex Doppler ultrasonography followed by endoscopy. The Splenoportal Index (SPI) was identified as the most accurate parameter for predicting esophageal varices. Specifically:
+
+- **Accuracy:** SPI offered an overall diagnostic accuracy of 88%.
+- **Negative Predictive Value (NPV) and Sensitivity:** For patients with SPI <5.0, the absence of varices was correctly diagnosed in 27 out of 28 patients (96% NPV and sensitivity).
+- **Positive Predictive Value (PPV) and Specificity:** For patients with SPI ≥5.0, the presence of varices was correctly diagnosed in 22 out of 28 patients (79% PPV and 82% specificity).
+
+These results indicate that SPI via duplex Doppler ultrasonography is highly effective in both ruling out and identifying esophageal varices in this patient population. However, the study's sample size is relatively small (56 patients), which may affect the generalizability of the findings.
+
+**3. Conclusion**
+
+Based on the abstract, duplex Doppler ultrasonography, specifically using the Splenoportal Index, demonstrates high accuracy, sensitivity, and specificity for diagnosing esophageal varices in patients with compensated hepatic cirrhosis. While the results are promising, the limited sample size suggests that further research may be necessary to confirm these findings robustly.
+
+**4. Final Answer**
+
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether non-invasive diagnosis of esophageal varices in compensated hepatic cirrhosis (Child-Pugh class A) is possible using duplex Doppler ultrasonography. Key points to assess include the study's methodology, the diagnostic accuracy of the Doppler indices (especially SPI), and whether the results support replacing endoscopy with this non-invasive method in some cases.
+
+**2. Evidence Evaluation**  
+The study enrolled 56 patients with compensated cirrhosis and compared Doppler indices (mean portal vein velocity, splenic index, splenoportal index [SPI], and arterial resistive/pulsatility indices) against endoscopy. Results showed that SPI was the most accurate parameter, with a cut-off of 5.0 achieving 88% diagnostic accuracy. At this threshold:  
+- **Sensitivity (96%)** and **negative predictive value (NPV, 96%)** were very high, meaning SPI <5.0 reliably ruled out varices in most patients.  
+- **Specificity (82%)** and **positive predictive value (PPV, 79%)** were also substantial but slightly lower, indicating SPI ≥5.0 correctly identified most but not all cases of varices.  
+The abstract explicitly states that SPI "accurately predicted the presence or absence of esophageal varices," supporting its utility as a non-invasive tool.  
+
+**3. Conclusion**  
+The study demonstrates that duplex Doppler ultrasonography, particularly using the SPI, can reliably diagnose esophageal varices non-invasively in compensated cirrhosis. The high sensitivity and NPV suggest it can safely avoid endoscopy in patients with SPI <5.0, while SPI ≥5.0 warrants further evaluation. Thus, the evidence supports the feasibility of non-invasive diagnosis in this setting.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether duplex Doppler ultrasonography can non-invasively diagnose esophageal varices in compensated hepatic cirrhosis (Child-Pugh A) patients. The key information to evaluate includes the diagnostic accuracy of Doppler indices (e.g., SPI) compared to endoscopy, predictive values, and specificity/sensitivity reported in the study.
+
+**2. Evidence Evaluation**  
+- The study (n=56) identified SPI as the most accurate Doppler parameter, with 88% diagnostic accuracy at a cutoff of 5.0.  
+- SPI <5.0 had a 96% negative predictive value (NPV) and sensitivity, correctly excluding varices in 27/28 patients. SPI ≥5.0 had a 79% positive predictive value (PPV) and 82% specificity, correctly diagnosing varices in 22/28 patients.  
+- Other indices (HARI, HAPI, SARI, SAPI) were non-predictive.  
+- Strengths: High NPV/sensitivity for SPI <5.0 suggests utility in ruling out varices non-invasively. Limitations: Small sample size, single-center design, and imperfect PPV/specificity for SPI ≥5.0 (22% false positives).  
+
+**3. Conclusion**  
+The evidence supports that SPI via Doppler ultrasonography can **predict the absence of varices** with high confidence (96% NPV) in compensated cirrhosis, potentially avoiding endoscopy in ~50% of patients. However, its ability to confirm varices (79% PPV) is less definitive. While not perfect, the study demonstrates feasibility for non-invasive screening in select cases. Thus, the answer is **"yes"**, as the method shows clinically meaningful accuracy for ruling out varices, aligning with the abstract’s conclusion.
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes

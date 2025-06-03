@@ -1,0 +1,76 @@
+PMID: 28056802
+Question: Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?
+Correct Answer: yes
+
+======================= Launch the MCC process =======================
+PMID: 28056802
+Question: Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+
+
+**1. Question Analysis**
+- **Core Content:** The research question investigates whether non-HDL-cholesterol (non-HDL-C) is a superior predictor of long-term outcomes in patients who have experienced an acute myocardial infarction (AMI) compared to low-density lipoprotein cholesterol (LDL-C).
+- **Key Information to Look For:** 
+  - Comparative predictive value of non-HDL-C and LDL-C for major adverse cardiovascular events (MACE).
+  - Statistical significance and reliability of the findings.
+  - Study design and population relevance.
+
+**2. Evidence Evaluation**
+- **Research Results:** The study found that patients who did not achieve the non-HDL-C target (<100 mg/dl) had a significantly higher incidence of MACE (HR 3.15, P=0.003). In contrast, not achieving the LDL-C target (>100 mg/dl) was associated with a reduced risk of MACE compared to achieving an LDL-C <70 mg/dl (HR 0.42, P=0.046).
+- **Strength and Reliability:** The study is retrospective and based on data from a single hospital over several years, involving 868 patients. While the size is reasonable, retrospective studies can have inherent biases. The statistical significance of non-HDL-C as a predictor is strong (P=0.003).
+- **Relevance:** The findings directly address the research question, indicating that non-HDL-C is a more reliable predictor of long-term outcomes post-AMI in the studied population.
+
+**3. Conclusion**
+Based on the abstract, non-HDL-C demonstrates a stronger and more significant association with long-term adverse outcomes compared to LDL-C in patients after AMI. Therefore, the evidence supports the notion that non-HDL-C is a better predictor in this context.
+
+**4. Final Answer:**
+**My final choice is: "yes"**
+GPT selected: yes
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+
+
+**1. Question Analysis**  
+The question asks whether non-HDL-cholesterol (non-HDL-C) is a better predictor of long-term outcomes (MACE) in patients after acute myocardial infarction (AMI) compared to LDL-cholesterol (LDL-C). Key information to evaluate includes the study's design, outcomes, and statistical comparisons between non-HDL-C and LDL-C in predicting MACE.  
+
+**2. Evidence Evaluation**  
+- **Results**: The study found that non-attainment of the non-HDL-C target (<100 mg/dL) was associated with a significantly higher risk of MACE (HR 3.15, 95% CI 1.46–6.80, *P* = 0.003). In contrast, non-attainment of the LDL-C target (<70 mg/dL) was **not** associated with increased MACE risk. Strikingly, patients with LDL-C >100 mg/dL had a **lower** MACE risk compared to those with LDL-C <70 mg/dL (HR 0.42, 95% CI 0.18–0.98, *P* = 0.046).  
+- **Strengths**: The study used a Cox regression model to directly compare non-HDL-C and LDL-C, included a large cohort (868 patients), and defined MACE comprehensively.  
+- **Limitations**: The inverse association between higher LDL-C and lower MACE is counterintuitive and may reflect confounding (e.g., reverse causality, residual disease severity, or measurement bias). However, the primary conclusion aligns with the hypothesis: non-HDL-C was a stronger predictor of MACE than LDL-C.  
+
+**3. Conclusion**  
+The study provides direct evidence that non-HDL-C was a significant and independent predictor of MACE in Thai AMI patients, whereas LDL-C was not. The unexpected inverse LDL-C finding likely does not undermine this conclusion, as the study explicitly states that non-HDL-C was a better target. Thus, the answer is **yes**.  
+
+**4. Final Answer:**  
+**My final choice is: "yes"**
+Qwen selected: yes
+
+----- Deepseek's initial response -----
+DeepSeek is reasoning the answer...
+
+**1. Question Analysis**  
+The question asks whether non-HDL-C is a superior predictor of long-term outcomes (MACE) post-AMI compared to LDL-C. Key information to evaluate includes:  
+- Comparative hazard ratios (HRs) for MACE linked to non-HDL-C vs. LDL-C targets.  
+- Statistical significance and directionality of associations.  
+- Study design and population relevance.  
+
+**2. Evidence Evaluation**  
+- **Results**:  
+  - Non-HDL-C >130 mg/dL vs. <100 mg/dL: HR 3.15 (95% CI 1.46–6.80, *P* = 0.003), indicating significant risk increase.  
+  - LDL-C >100 mg/dL vs. <70 mg/dL: HR 0.42 (95% CI 0.18–0.98, *P* = 0.046), paradoxically associated with reduced MACE risk.  
+  - Only non-HDL-C target non-attainment predicted MACE; LDL-C did not.  
+- **Strengths**: Direct comparison via Cox regression, reasonable sample size (*n* = 868), and multi-year follow-up.  
+- **Limitations**: Retrospective design, single-center Thai cohort (ethnicity-specific findings may limit generalizability), and unexplained inverse LDL-C association.  
+- **Relevance**: Directly addresses the question, showing non-HDL-C’s predictive superiority over LDL-C in this cohort.  
+
+**3. Conclusion**  
+The study provides statistically significant evidence that non-HDL-C predicts MACE post-AMI, whereas LDL-C does not (even showing counterintuitive results). While limitations exist (retrospective design, population specificity), the abstract’s conclusion aligns with the data. Thus, the answer is **"yes"** based on the provided evidence.  
+
+**4. Final Answer**  
+**My final choice is: yes**
+DeepSeek selected: yes
+
+Initial consensus: All models selected yes
