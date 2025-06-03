@@ -1,0 +1,141 @@
+Case_id: case_528
+Case_description: 
+A 56-year-old woman presents to a physician with severe pain and swelling of the left inguinal area for 3 days. She has a fever and malaise. Last week she noted several painless red papules on her left thigh when she was on a summer trip to Madagascar. She has no history of serious illnesses and is on no medications. There has been no recent contact with any animals or pets. The temperature is 38.6℃ (101.5℉), the pulse is 78/min, the respiration rate is 12/min, and the blood pressure is 110/65 mm Hg. Swelling of the left inguinal area was noted; however, there were no skin changes. Several large, tense, and tender lymph nodes with a boggy consistency were palpated in the inguinal region. The right inguinal area is normal on physical exam. There was no lymphadenopathy in other areas. No abnormalities existed in the lungs, heart, and abdomen. Microscopic examination of pus from the inguinal lymph nodes revealed gram-negative Coccobacilli. Serum anti-F1 titers show a 4-fold rise. Which of the following is the most appropriate pharmacotherapy at this time?
+Options: 
+1. Azithromycin
+2. Imipenem
+3. Chloramphenicol
+4. Streptomycin
+5. No pharmacotherapy
+Correct Answer: Streptomycin
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 4 (Streptomycin)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information:** 56-year-old woman.  
+- **Chief Complaint:** Severe pain and swelling of the left inguinal area for 3 days.  
+- **Key Clinical Manifestations:**  
+  - Fever (38.6℃) and malaise.  
+  - History of several painless red papules on the left thigh during a summer trip to Madagascar a week prior.  
+  - Physical exam reveals swelling and several large, tense, tender lymph nodes with a boggy consistency in the left inguinal region.  
+  - No skin changes at the site of lymphadenopathy.  
+  - Microscopic examination of pus shows gram-negative Coccobacilli.  
+  - Serum anti-F1 titers show a 4-fold rise.
+
+**2. Analysis of Clinical Features**  
+- **Travel History:** Recent travel to Madagascar, a region where certain infectious diseases like plague are endemic.  
+- **Initial Symptoms:** Painless red papules could indicate the site of inoculation of the pathogen.  
+- **Progression:** Development of severe inguinal lymphadenopathy (buboes) with systemic symptoms suggests a systemic infection stemming from initial localized skin lesions.  
+- **Microbiological Findings:** Presence of gram-negative Coccobacilli aligns with Yersinia pestis, the causative agent of plague.  
+- **Serological Evidence:** A 4-fold rise in serum anti-F1 titers is highly specific for Yersinia pestis infection, as the F1 antigen is a unique virulence factor of this bacterium.  
+- **Exclusion of Other Systems:** No abnormalities in lungs, heart, or abdomen, and no lymphadenopathy in other regions, supporting a localized form of infection like bubonic plague rather than septicemic or pneumonic forms.
+
+**3. Differential Diagnosis Analysis**  
+- **Plague (Yersinia pestis):** Highly consistent with clinical presentation—travel to an endemic area, initial skin lesions, subsequent tender buboes, gram-negative Coccobacilli, and elevated anti-F1 titers.  
+- **Other Gram-negative Infections:** Conditions like tularemia or certain sexually transmitted infections could present with inguinal lymphadenopathy, but the serological evidence specifically points to plague.  
+- **Abscess or Localized Bacterial Lymphadenitis:** While possible, the systemic symptoms and serological findings strongly indicate an infectious etiology like plague.  
+- **Option Evaluation:**  
+  - **Azithromycin:** Typically used for atypical pneumonia and some other bacterial infections but not first-line for plague.  
+  - **Imipenem:** A broad-spectrum antibiotic used for severe or resistant infections but not specifically indicated for plague.  
+  - **Chloramphenicol:** An alternative treatment for plague, especially in cases of allergies to first-line agents, but it has significant side effects.  
+  - **Streptomycin:** Considered the first-line treatment for plague with proven efficacy.  
+  - **No Pharmacotherapy:** Inappropriate given the severity and potential lethality of plague.
+
+**4. Final Selection**  
+**My final selection is: Option 4 (Streptomycin)(链霉素)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 4 (Streptomycin)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 56-year-old woman presents with 3 days of severe left inguinal pain, swelling, fever (38.6°C), and malaise.  
+- Key symptoms include tender, boggy inguinal lymphadenopathy (left-sided), a history of painless red papules on the left thigh a week prior (during a trip to Madagascar), and systemic signs of infection.  
+- Diagnostic clues: Gram-negative coccobacilli in lymph node pus and a 4-fold rise in serum anti-F1 antibody titers.  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**: Skin lesions (likely flea bites) occurred a week before lymphadenopathy, consistent with the incubation period of *Yersinia pestis* (1–6 days).  
+- **Lymphadenopathy**: Large, tender, boggy lymph nodes in the inguinal region (classic "bubo" of bubonic plague).  
+- **Laboratory Findings**:  
+  - Gram stain showing gram-negative coccobacilli aligns with *Y. pestis*.  
+  - Anti-F1 antibody titer rise confirms exposure to *Y. pestis* (F1 antigen is specific to plague).  
+- **Epidemiology**: Travel to Madagascar, an endemic region for plague, strongly supports the diagnosis.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1 (Azithromycin)**: Macrolides are not first-line for plague. While azithromycin has activity against *Y. pestis*, it is typically reserved for secondary cases or when other agents are unavailable.  
+- **Option 2 (Imipenem)**: Broad-spectrum carbapenem. Though *Y. pestis* is susceptible, imipenem is not standard for plague. It may be overkill for this localized infection.  
+- **Option 3 (Chloramphenicol)**: Historically used for plague but is now a second-line option due to potential toxicity (e.g., bone marrow suppression) and the availability of safer alternatives like streptomycin or fluoroquinolones.  
+- **Option 4 (Streptomycin)**: Aminoglycoside of choice for plague. It is bactericidal, rapidly penetrates lymph nodes, and is preferred for severe cases. Guidelines recommend streptomycin as first-line therapy when available.  
+- **Option 5 (No pharmacotherapy)**: Contraindicated, as untreated plague has a high mortality rate.  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (Streptomycin)(链霉素)**  
+- **Key evidence**: The combination of epidemiological exposure (Madagascar), clinical presentation (bubo, fever), laboratory findings (gram-negative coccobacilli, anti-F1 antibody rise), and streptomycin’s established role as first-line therapy for plague make this the definitive choice. Streptomycin’s rapid bactericidal action and lymph node penetration are critical for preventing progression to septicemia or pneumonic plague.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 4 (Streptomycin)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Profile**: 56-year-old woman with a recent trip to Madagascar.  
+- **Chief Complaint**: Severe left inguinal pain/swelling, fever, and malaise for 3 days.  
+- **Key Findings**:  
+  - Fever (38.6°C), tender/boggy left inguinal lymphadenopathy.  
+  - Painless red papules on the left thigh 1 week prior (likely inoculation site).  
+  - Gram-negative coccobacilli in lymph node pus.  
+  - **4-fold rise in serum anti-F1 titers** (specific for *Yersinia pestis*).  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**:  
+  - **7 days prior**: Painless papules (likely flea bite during travel).  
+  - **3 days prior**: Acute onset of bubonic symptoms (fever, painful lymphadenopathy).  
+- **Critical Features**:  
+  - **Inguinal buboes** with gram-negative coccobacilli: Classic for *Yersinia pestis* (plague) or *Francisella tularensis* (tularemia).  
+  - **Anti-F1 titer rise**: Pathognomonic for *Y. pestis* infection.  
+  - **Madagascar travel**: Endemic region for plague.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Azithromycin**: Effective for atypical pathogens (e.g., tularemia) but not first-line for plague. **Excluded**.  
+2. **Imipenem**: Broad-spectrum but lacks strong evidence for plague. **Excluded**.  
+3. **Chloramphenicol**: Used for plague complications (e.g., meningitis) but not first-line. **Possible but secondary**.  
+4. **Streptomycin**: **Gold standard** for bubonic plague; directly targets *Y. pestis*. Strongly supported by guidelines.  
+5. **No pharmacotherapy**: Untreated plague has >50% mortality. **Contraindicated**.  
+
+**4. Final Selection**  
+**My final selection is: Option 4 (Streptomycin)(链霉素)**  
+- **Key Evidence**:  
+  - Gram-negative coccobacilli + anti-F1 titer rise confirm *Y. pestis* infection.  
+  - Streptomycin is WHO-recommended first-line therapy for plague.  
+  - Untreated plague is fatal; prompt treatment is critical.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 4 (Streptomycin)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option4
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option4 - Streptomycin
+Correct Answer: - Streptomycin
+
+Is the final diagnosis correct? ✓ Correct
+
