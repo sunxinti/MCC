@@ -1,0 +1,129 @@
+案例ID: professional_medicine_91
+类别: professional_medicine
+问题: 
+A randomized controlled trial is conducted to assess the effectiveness of a new combination-drug antihypertensive therapy (Drug X) compared with a standard antihypertensive single-drug therapy. Study participants include 140 women (70%) and 60 men (30%) ages 30 to 60 years, with baseline blood pressure measurements of 150/95 mm Hg or higher. The investigators defined antihypertensive therapy as effective if the treatment resulted in a blood pressure measurement below 140/90 mm Hg. When designing the study, the investigators set the probability of wrongly finding that Drug X is more effective than the standard therapy as 1%; they set the probability of wrongly finding that the effectiveness of the two drugs is the same as 10%. Which of the following is the most accurate estimate of the statistical power in this study?
+选项: 
+1. 1%
+2. 10%
+3. 40%
+4. 90%
+正确答案索引: 3 (对应选项编号: 4)
+==================================================
+开始专业医学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 6.88秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+GPT的选择:
+选择: 选项 4 (90%)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question assesses the understanding of statistical power in the context of a randomized controlled trial comparing a new antihypertensive therapy (Drug X) with a standard therapy.
+- It provides information about the study design, including sample size, participant demographics, baseline measurements, and outcome criteria.
+- It specifically mentions the probabilities set by the investigators for wrong conclusions: a 1% chance of falsely claiming Drug X is more effective (Type I error) and a 10% chance of falsely concluding there is no difference between the drugs (Type II error).
+- The question asks for the most accurate estimate of the statistical power of the study based on this information.
+
+**2. Key Medical Considerations**  
+- **Statistical Power**: The probability that a study will detect an effect if there is an actual effect to be detected. It is calculated as 1 minus the probability of a Type II error (Power = 1 - β).
+- **Type I Error (α)**: The probability of rejecting the null hypothesis when it is actually true (false positive). In this study, α is set at 1%.
+- **Type II Error (β)**: The probability of failing to reject the null hypothesis when it is false (false negative). In this study, β is set at 10%.
+- **Clinical Significance**: Understanding statistical power is crucial in clinical trials to ensure that the study is adequately powered to detect meaningful differences between treatments.
+
+**3. Analysis of Options**  
+- **Option 1. 1%**
+  - This represents the Type I error rate (α), not the power. Therefore, incorrect.
+- **Option 2. 10%**
+  - This represents the Type II error rate (β). Power is calculated as 1 - β, so this is not the correct estimate of power. Therefore, incorrect.
+- **Option 3. 40%**
+  - While possible in some studies, based on the given β of 10%, the power would be higher. Therefore, incorrect.
+- **Option 4. 90%**
+  - Power is calculated as 1 - β. Given that β is 10%, the power would be 90%. This aligns with standard statistical calculations for power. Therefore, correct.
+
+**4. Final Selection**  
+**My final selection is: Option 4**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 20.79秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+Qwen的选择:
+选择: 选项 4 (90%)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks for the statistical power of a randomized controlled trial comparing a new antihypertensive therapy (Drug X) with a standard therapy. The key is to identify the statistical power based on the defined error probabilities (Type I and Type II errors).  
+
+**2. Key Medical Considerations**  
+- **Statistical Power**: Defined as the probability of correctly rejecting the null hypothesis (i.e., detecting a true effect). It is calculated as **1 - β**, where β is the probability of a Type II error (failing to detect a true effect).  
+- **Type I Error (α)**: The probability of incorrectly rejecting the null hypothesis (concluding Drug X is more effective when it is not). The question specifies this as 1% (α = 0.01).  
+- **Type II Error (β)**: The probability of incorrectly failing to reject the null hypothesis (concluding no difference when there is one). The question specifies this as 10% (β = 0.10).  
+
+**3. Analysis of Options**  
+- **Option 1 (1%)**: This represents the **Type I error rate (α)**, not the statistical power. Incorrect.  
+- **Option 2 (10%)**: This represents the **Type II error rate (β)**, not the statistical power. Incorrect.  
+- **Option 3 (40%)**: This value is not mentioned or implied in the question. Incorrect.  
+- **Option 4 (90%)**: Calculated as **1 - β (1 - 0.10 = 0.90)**, which matches the question’s description of β = 10%. Correct.  
+
+**4. Final Selection**  
+**My final selection is: Option 4**  
+
+Statistical power is defined as the probability of correctly detecting a true effect, calculated as **1 - β**. Since the question specifies the Type II error rate (β) as 10%, the power is **90%**. The other options incorrectly reference α (Type I error) or β directly, or an unrelated value.
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 77.94秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+DeepSeek的选择:
+选择: 选项 4 (90%)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks for the statistical power of a study based on predefined probabilities of Type I (α) and Type II (β) errors. Understanding the relationship between these errors and statistical power (1 - β) is critical.  
+
+**2. Key Medical Considerations**  
+- **Type I error (α)**: Probability of falsely rejecting the null hypothesis (here, set at 1% or 0.01).  
+- **Type II error (β)**: Probability of failing to reject the null hypothesis when it is false (here, set at 10% or 0.10).  
+- **Statistical power**: Defined as 1 - β, representing the probability of correctly detecting a true effect.  
+
+**3. Analysis of Options**  
+- **Option 1 (1%)**: Incorrect. This represents α (Type I error rate), not power.  
+- **Option 2 (10%)**: Incorrect. This represents β (Type II error rate), not power.  
+- **Option 3 (40%)**: Incorrect. No connection to the given parameters (α = 1%, β = 10%).  
+- **Option 4 (90%)**: Correct. Power = 1 - β = 1 - 0.10 = 0.90 (90%).  
+
+**4. Final Selection**  
+The statistical power is directly derived from the pre-specified β (10%). Subtracting β from 1 gives 90%, aligning with Option 4.  
+
+**My final selection is: Option 4**
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项4
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项4 - 90%
+正确答案: 选项4
+最终选择是否正确: ✓ 正确
+
+案例 91 的辩论结果已保存到 debate_results/professional_medicine_debate_result_case_91.json
+
+==================================================
+处理案例 93/100 (索引: 92)
+==================================================
+正在处理单个案例辩论（索引: 92）...
+成功加载数据集，共 272 条记录
