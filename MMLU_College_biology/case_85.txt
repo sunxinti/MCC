@@ -1,0 +1,130 @@
+案例ID: college_biology_85
+类别: college_biology
+问题: 
+Mammals are homeostatic for all of the following EXCEPT
+选项: 
+1. body temperature
+2. blood glucose concentration
+3. blood pH
+4. metabolic rate
+正确答案索引: 3 (对应选项编号: 4)
+==================================================
+开始大学生物学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 6.82秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+GPT的选择:
+选择: 选项 4 (metabolic rate)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**  
+- **Objective:** Determine which of the listed physiological parameters is **not** maintained through homeostasis in mammals.
+- **Focus:** Understanding the scope of homeostatic regulation in mammalian physiology and identifying the exception among the given options.
+
+**2. Key Biological Considerations**  
+- **Homeostasis:** A fundamental biological process wherein organisms maintain internal stability despite external changes. Key parameters typically regulated include:
+  - **Body Temperature:** Mammals regulate their internal temperature through mechanisms like sweating, shivering, and altering blood flow.
+  - **Blood Glucose Concentration:** Maintained via insulin and glucagon to ensure energy availability.
+  - **Blood pH:** Controlled through buffer systems, respiration, and renal function to maintain acid-base balance.
+- **Metabolic Rate:** Refers to the rate at which the body consumes energy. While it is influenced by various factors (e.g., activity level, hormonal balance), it is not maintained at a constant level but rather adjusts according to the body's needs.
+
+**3. Analysis of Options**  
+- **Option 1: Body Temperature**
+  - **Assessment:** Correctly maintained through homeostatic mechanisms.
+  - **Conclusion:** Not the exception.
+  
+- **Option 2: Blood Glucose Concentration**
+  - **Assessment:** Precisely regulated to maintain energy homeostasis.
+  - **Conclusion:** Not the exception.
+  
+- **Option 3: Blood pH**
+  - **Assessment:** Tightly controlled to ensure proper physiological function.
+  - **Conclusion:** Not the exception.
+  
+- **Option 4: Metabolic Rate**
+  - **Assessment:** Fluctuates based on activity, environmental conditions, and physiological states; not maintained at a constant level.
+  - **Conclusion:** Serves as the exception among the listed parameters.
+
+**4. Final Selection**  
+**My final selection is: Option 4**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 36.94秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+Qwen的选择:
+选择: 选项 4 (metabolic rate)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks which of the listed factors is NOT regulated by mammals through homeostasis. Homeostasis involves maintaining internal stability despite external changes. The options include body temperature, blood glucose, blood pH, and metabolic rate. The task is to identify the exception.  
+
+**2. Key Biological Considerations**  
+- **Homeostasis** refers to the regulation of internal conditions (e.g., temperature, pH, glucose levels) within narrow ranges.  
+- **Body temperature**: Mammals are **homeothermic**, meaning they actively regulate body temperature via mechanisms like shivering, sweating, and adjusting metabolic rate.  
+- **Blood glucose**: Regulated by hormones (insulin, glucagon) to maintain stable levels.  
+- **Blood pH**: Maintained through buffer systems (e.g., bicarbonate), respiratory adjustments (CO₂ exhalation), and renal regulation.  
+- **Metabolic rate**: While mammals have a **basal metabolic rate**, it is generally not actively regulated in real-time like the other factors. Metabolic rate can vary with activity or hormonal changes (e.g., thyroid hormones), but it is not strictly maintained within a narrow range as part of homeostasis.  
+
+**3. Analysis of Options**  
+- **Option 1 (body temperature):** Mammals are homeothermic, so this is regulated. **Correctly regulated (not the answer).**  
+- **Option 2 (blood glucose):** Regulated via hormonal feedback loops. **Correctly regulated (not the answer).**  
+- **Option 3 (blood pH):** Maintained through multiple systems. **Correctly regulated (not the answer).**  
+- **Option 4 (metabolic rate):** While metabolic rate is influenced by factors like thyroid hormones, it is not actively maintained within a strict homeostatic range. Fluctuations occur naturally (e.g., during exercise) without direct homeostatic correction. **This is the exception.**  
+
+**4. Final Selection**  
+**My final selection is: Option 4**
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 37.14秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+DeepSeek的选择:
+选择: 选项 4 (metabolic rate)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks which physiological parameter mammals do NOT maintain through homeostasis. Homeostasis involves maintaining stable internal conditions despite external changes. The task is to identify the exception among the listed options.
+
+**2. Key Biological Considerations**  
+- Mammals are endotherms, regulating body temperature internally.  
+- Blood glucose is controlled via insulin and glucagon.  
+- Blood pH is regulated by buffering systems (e.g., bicarbonate), kidneys, and respiration.  
+- Metabolic rate reflects energy expenditure and varies with activity, environment, and physiological demands. Unlike temperature, glucose, or pH, metabolic rate is not a static parameter but adjusts dynamically to meet energy needs.
+
+**3. Analysis of Options**  
+- **Option 1 (Body temperature):** Correctly regulated via thermoregulation (e.g., sweating, shivering). **Incorrect** (not the exception).  
+- **Option 2 (Blood glucose):** Tightly controlled by hormonal feedback. **Incorrect** (not the exception).  
+- **Option 3 (Blood pH):** Maintained through buffering and organ systems. **Incorrect** (not the exception).  
+- **Option 4 (Metabolic rate):** Not held constant; fluctuates with activity, thermogenesis, and other factors. **Correct** (the exception).
+
+**4. Final Selection**  
+The exception is **metabolic rate**, as mammals dynamically adjust it rather than maintaining a fixed rate. Homeostasis applies to specific variables (temperature, glucose, pH), not energy expenditure rates.  
+
+**My final selection is: Option 4**
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项4
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项4 - metabolic rate
+正确答案: 选项4
+最终选择是否正确: ✓ 正确
+
+案例 85 的辩论结果已保存到 debate_results/college_biology_debate_result_case_85.json
