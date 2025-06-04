@@ -1,0 +1,128 @@
+案例ID: clinical_knowledge_114
+类别: clinical_knowledge
+问题: 
+An allele that is masked is referred to as:
+选项: 
+1. recessive.
+2. redundant.
+3. repressed.
+4. reclusive.
+正确答案索引: 0 (对应选项编号: 1)
+==================================================
+开始专业医学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 11.37秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项1
+
+GPT的选择:
+选择: 选项 1 (recessive.)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**
+
+- The question is focused on genetic terminology, specifically the concept of allele interactions. It asks for the term used to describe an allele that is "masked" by another allele in a gene pair.
+
+**2. Key Clinical Considerations**
+
+- In genetics, alleles are different versions of a gene that determine specific traits.
+- Allele interactions can be dominant, recessive, codominant, etc.
+- A dominant allele is one that expresses its trait even when only one copy is present.
+- A recessive allele is one whose trait is masked by the dominant allele when both are present.
+- Understanding these interactions is crucial in predicting phenotypic outcomes in genetic counseling and disease inheritance.
+
+**3. Analysis of Options**
+
+1. **Recessive.**
+   - **Correct.** A recessive allele is masked by a dominant allele in a heterozygous pair, meaning its trait does not appear in the phenotype when a dominant allele is present.
+   
+2. **Redundant.**
+   - **Incorrect.** In genetics, "redundant" is not a standard term used to describe allele interactions. It generally means something that is no longer needed or superfluous.
+   
+3. **Repressed.**
+   - **Incorrect.** While "repressed" can refer to the downregulation of gene expression, it does not specifically describe an allele being masked by another allele in the context of dominance and recessiveness.
+   
+4. **Reclusive.**
+   - **Incorrect.** "Reclusive" pertains to behavior, describing someone who avoids the company of others, and is not relevant to genetic allele interactions.
+
+**4. Final Selection**
+
+**My final selection is: Option 1**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 16.42秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项1
+
+Qwen的选择:
+选择: 选项 1 (recessive.)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks for the term that describes an allele that is "masked," meaning its expression is not observed in an organism. This relates to fundamental genetics and the concept of dominant-recessive allele interactions.  
+
+**2. Key Clinical Considerations**  
+- In Mendelian genetics, alleles can be **dominant** or **recessive**. A recessive allele’s phenotype is only expressed when an organism has two copies of that allele (homozygous recessive). In heterozygous individuals (one dominant, one recessive allele), the dominant allele masks the recessive allele’s expression.  
+- Terms like "recessive" directly describe this phenomenon. Other options (redundant, repressed, reclusive) are not standard genetic terms for masked alleles.  
+
+**3. Analysis of Options**  
+- **Option 1 (recessive):** Correct. A recessive allele is masked in the presence of a dominant allele. This is the foundational principle of Mendelian inheritance.  
+- **Option 2 (redundant):** Incorrect. "Redundant" implies unnecessary duplication and is unrelated to allele masking.  
+- **Option 3 (repressed):** Incorrect. "Repressed" refers to epigenetic or regulatory mechanisms that silence gene expression but does not specifically describe a masked allele.  
+- **Option 4 (reclusive):** Incorrect. This term has no standard genetic meaning in this context.  
+
+**4. Final Selection**  
+**My final selection is: Option 1**
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 109.29秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项1
+
+DeepSeek的选择:
+选择: 选项 1 (recessive.)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks for the term describing an allele that is masked (i.e., not phenotypically expressed when paired with another allele).  
+
+**2. Key Clinical Considerations**  
+- In genetics, alleles are variants of a gene.  
+- Dominant alleles mask the phenotypic expression of other alleles when present.  
+- A masked allele is only expressed in the absence of a dominant allele.  
+
+**3. Analysis of Options**  
+- **Option 1: recessive**  
+  Correct. Recessive alleles are masked by dominant alleles in heterozygous individuals (e.g., "Aa" genotype). Their effects are only observed in homozygous recessive states ("aa").  
+- **Option 2: redundant**  
+  Incorrect. "Redundant" implies unnecessary duplication, which is unrelated to allele expression dynamics.  
+- **Option 3: repressed**  
+  Incorrect. "Repressed" refers to active suppression of gene expression (e.g., epigenetic silencing), not Mendelian dominance/recessiveness.  
+- **Option 4: reclusive**  
+  Incorrect. "Reclusive" describes social behavior, not genetic traits.  
+
+**4. Final Selection**  
+- **My final selection is: Option 1**  
+  "Recessive" is the standard genetic term for an allele whose phenotypic effect is masked by a dominant allele. This aligns with foundational Mendelian principles.
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项1
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项1 - recessive.
+正确答案: 选项1
+最终选择是否正确: ✓ 正确
+
+案例 114 的辩论结果已保存到 debate_results/clinical_knowledge_debate_result_case_114.json
