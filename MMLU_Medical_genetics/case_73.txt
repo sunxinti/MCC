@@ -1,0 +1,119 @@
+案例ID: medical_genetics_73
+类别: medical_genetics
+问题: 
+The normal human chromosome diploid number is:
+选项: 
+1. 23
+2. 24
+3. 46
+4. 48
+正确答案索引: 2 (对应选项编号: 3)
+==================================================
+开始医学遗传学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 7.13秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+GPT的选择:
+选择: 选项 3 (46)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**
+- The question is inquiring about the normal diploid chromosome number in humans. Specifically, it seeks to identify the total number of chromosomes present in a typical human somatic (body) cell.
+
+**2. Key Genetic Considerations**
+- **Diploid Number (2n):** In humans, diploid cells contain two sets of chromosomes, one inherited from each parent. 
+- **Chromosome Count:** Humans have 23 pairs of chromosomes, totaling 46 chromosomes in diploid cells.
+- **Haploid Number (n):** Gametes (sperm and egg cells) are haploid, containing 23 unpaired chromosomes.
+- **Significance:** Understanding the diploid number is fundamental in genetics for concepts like inheritance patterns, genetic disorders, and cell division processes (mitosis and meiosis).
+
+**3. Analysis of Options**
+1. **23**
+   - **Incorrect.** This represents the haploid number of chromosomes in human gametes, not the diploid number.
+2. **24**
+   - **Incorrect.** This number does not correspond to the standard chromosome count in humans.
+3. **46**
+   - **Correct.** Humans have 46 chromosomes in their diploid cells, consisting of 23 pairs.
+4. **48**
+   - **Incorrect.** This number is not associated with the normal chromosome count in humans; it may relate to other species.
+
+**4. Final Selection**
+**My final selection is: Option 3**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 22.13秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+Qwen的选择:
+选择: 选项 3 (46)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks for the normal human chromosome diploid number. This requires understanding the difference between haploid and diploid chromosome counts and the standard human karyotype.  
+
+**2. Key Genetic Considerations**  
+- **Diploid vs. Haploid**:  
+  - **Diploid (2n)**: The total number of chromosomes in somatic (body) cells, which receive one set from each parent.  
+  - **Haploid (n)**: The number of chromosomes in gametes (sperm and eggs), which contain half the diploid number.  
+- **Human Chromosome Number**: Humans have 23 pairs of chromosomes in diploid cells (total 46 chromosomes). This includes 22 pairs of autosomes and one pair of sex chromosomes (XX or XY).  
+
+**3. Analysis of Options**  
+- **Option 1 (23)**: Incorrect. This is the haploid number (n), found in gametes, not the diploid number (2n) in somatic cells.  
+- **Option 2 (24)**: Incorrect. This might arise from confusion between chromosome pairs and individual chromosomes. Humans have 23 pairs (total 46), not 24 pairs.  
+- **Option 3 (46)**: Correct. This is the standard diploid number (2n = 46), representing 23 pairs of chromosomes in somatic cells.  
+- **Option 4 (48)**: Incorrect. This is higher than the normal human chromosome count and is not consistent with established genetics.  
+
+**4. Final Selection**  
+**My final selection is: Option 3**  
+The normal human diploid chromosome number is 46, as this accounts for 23 pairs of chromosomes (22 autosomes + sex chromosomes) in somatic cells. This is a fundamental genetic fact taught in basic genetics and is consistent with cytogenetic analysis.
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 30.67秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+DeepSeek的选择:
+选择: 选项 3 (46)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks for the normal diploid chromosome number in humans, requiring knowledge of basic human karyotype structure.  
+
+**2. Key Genetic Considerations**  
+- **Diploid (2n)** refers to the total number of chromosomes in somatic cells, with two sets (one maternal, one paternal).  
+- Humans have **23 pairs of chromosomes** (22 autosomes + 1 sex chromosome pair), totaling **46 chromosomes** in diploid cells.  
+- The **haploid (n)** number (23) applies to gametes (sperm/egg), not diploid somatic cells.  
+
+**3. Analysis of Options**  
+- **Option 1 (23):** Incorrect. This is the haploid number (n), not diploid.  
+- **Option 2 (24):** Incorrect. Humans do not have 24 pairs or 48 total chromosomes.  
+- **Option 3 (46):** Correct. Matches the diploid number (2n = 23 pairs × 2 = 46).  
+- **Option 4 (48):** Incorrect. This is the diploid number in great apes (e.g., chimpanzees), not humans.  
+
+**4. Final Selection**  
+**My final selection is: Option 3**  
+The diploid number in humans is **46**, representing 23 chromosome pairs. This is a fundamental karyotype characteristic distinguishing humans from species with different chromosomal counts.
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项3
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项3 - 46
+正确答案: 选项3
+最终选择是否正确: ✓ 正确
+
+案例 73 的辩论结果已保存到 debate_results/medical_genetics_debate_result_case_73.json

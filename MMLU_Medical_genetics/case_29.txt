@@ -1,0 +1,129 @@
+案例ID: medical_genetics_29
+类别: medical_genetics
+问题: 
+If both parents are affected with the same autosomal recessive disorder then the probability that each of their children will be affected equals ___.
+选项: 
+1. 1 in 4
+2. 1 in 2
+3. 2 in 3
+4. 1
+正确答案索引: 3 (对应选项编号: 4)
+==================================================
+开始医学遗传学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 8.44秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+GPT的选择:
+选择: 选项 4 (1)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question addresses the probability that each child will be affected by an autosomal recessive disorder when both parents are affected. It requires understanding of autosomal recessive inheritance patterns and how they influence the likelihood of offspring being affected.
+
+**2. Key Genetic Considerations**  
+- **Autosomal Recessive Inheritance**: For a disorder to manifest in an individual, two copies of the recessive allele (one from each parent) are necessary.  
+- **Parental Genotypes**: If both parents are affected by an autosomal recessive disorder, their genotypes must be homozygous recessive (aa).  
+- **Gamete Contribution**: Each parent can only pass the recessive allele (a) to their offspring since they are both aa.  
+- **Offspring Genotype**: Receiving an 'a' from each parent results in the genotype aa, meaning the child will also be affected by the disorder.
+
+**3. Analysis of Options**  
+1. **1 in 4**  
+   - **Typically Applicable When**: Both parents are carriers (Aa) of an autosomal recessive disorder.  
+   - **Relevance**: Not applicable here since both parents are affected (aa), not just carriers.  
+   - **Conclusion**: Incorrect.
+
+2. **1 in 2**  
+   - **Typically Applicable When**: One parent is affected (aa) and the other is a carrier (Aa).  
+   - **Relevance**: Not applicable in this scenario where both parents are affected (aa).  
+   - **Conclusion**: Incorrect.
+
+3. **2 in 3**  
+   - **Typically Applicable When**: Considering the probability of being a carrier if one parent is affected.  
+   - **Relevance**: Irrelevant in this context as both parents are already affected (aa).  
+   - **Conclusion**: Incorrect.
+
+4. **1**  
+   - **Explanation**: Since both parents are homozygous recessive (aa), every child will inherit the recessive allele from both parents, resulting in the genotype aa.  
+   - **Conclusion**: Correct.
+
+**4. Final Selection**  
+**My final selection is: Option 4**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 21.97秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+Qwen的选择:
+选择: 选项 4 (1)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks for the probability of each child being affected when both parents have the same autosomal recessive disorder.  
+- Key concepts involve understanding autosomal recessive inheritance patterns and the implications of both parents being affected.  
+
+**2. Key Genetic Considerations**  
+- **Autosomal Recessive Inheritance**: For an autosomal recessive disorder, an individual must inherit two copies of the mutated allele (one from each parent) to be affected. Carriers (heterozygotes) have one normal and one mutated allele and are typically unaffected.  
+- **Parental Genotypes**: Since both parents are affected, they must each be homozygous recessive (aa) for the disorder. This is because heterozygotes (Aa) would not express the recessive phenotype.  
+- **Punnett Square Analysis**: When two homozygous recessive parents (aa × aa) conceive a child, all possible combinations result in offspring inheriting one "a" allele from each parent. Thus, all children will be homozygous recessive (aa) and affected.  
+
+**3. Analysis of Options**  
+- **Option 1 (1 in 4)**: Incorrect. This is the probability for an autosomal recessive disorder when both parents are carriers (Aa × Aa). However, in this scenario, both parents are affected (aa), so this probability does not apply.  
+- **Option 2 (1 in 2)**: Incorrect. This would apply if one parent were homozygous recessive (aa) and the other were a carrier (Aa), but both parents here are aa.  
+- **Option 3 (2 in 3)**: Incorrect. This probability is associated with conditions like X-linked dominant disorders or specific scenarios involving incomplete penetrance, which are not relevant here.  
+- **Option 4 (1)**: Correct. Since both parents are homozygous recessive (aa), all their children will inherit two copies of the recessive allele and thus be affected.  
+
+**4. Final Selection**  
+**My final selection is: Option 4**
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 42.12秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项4
+
+DeepSeek的选择:
+选择: 选项 4 (1)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks for the probability that children of two parents affected by the same autosomal recessive disorder will also be affected. This requires understanding how autosomal recessive inheritance works when both parents are phenotypically affected.
+
+**2. Key Genetic Considerations**  
+- **Autosomal recessive inheritance**: Affected individuals must be homozygous recessive (genotype *aa*).  
+- **Parental genotypes**: If both parents are affected, they must both be *aa*.  
+- **Gamete contribution**: Each parent can only transmit the recessive allele (*a*) to offspring.  
+- **Offspring probability**: All children will inherit one *a* allele from each parent, resulting in *aa* genotype (100% affected).
+
+**3. Analysis of Options**  
+- **Option 1 (1 in 4)**: Incorrect. This applies when both parents are *carriers* (heterozygous, *Aa*), not affected.  
+- **Option 2 (1 in 2)**: Incorrect. This applies in autosomal dominant scenarios or specific carrier scenarios, not when both parents are *aa*.  
+- **Option 3 (2 in 3)**: Incorrect. This ratio is relevant for conditional probabilities in unaffected siblings of an affected child in autosomal recessive inheritance, not here.  
+- **Option 4 (1)**: Correct. Affected parents (*aa*) can only pass the *a* allele, so all offspring will be *aa* and affected.
+
+**4. Final Selection**  
+**My final selection is: Option 4**  
+Both affected parents are homozygous recessive (*aa*), ensuring all offspring inherit two recessive alleles (*aa*). Thus, the probability of being affected is 100% (1).
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项4
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项4 - 1
+正确答案: 选项4
+最终选择是否正确: ✓ 正确
+
+案例 29 的辩论结果已保存到 debate_results/medical_genetics_debate_result_case_29.json

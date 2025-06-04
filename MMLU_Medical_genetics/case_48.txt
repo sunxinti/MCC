@@ -1,0 +1,126 @@
+案例ID: medical_genetics_48
+类别: medical_genetics
+问题: 
+The proportion of genes shared by first cousins is on average ___.
+选项: 
+1. 1.0/2
+2. 1.0/4
+3. 1.0/8
+4. 1.0/16
+正确答案索引: 2 (对应选项编号: 3)
+==================================================
+开始医学遗传学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 7.71秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+GPT的选择:
+选择: 选项 3 (1.0/8)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question is assessing the understanding of genetic relatedness, specifically the average proportion of genes shared between first cousins. It requires knowledge of inheritance patterns and how genetic material is passed through generations.
+
+**2. Key Genetic Considerations**  
+- **Genetic Relatedness:** The coefficient of relatedness quantifies the probability that two individuals share a particular gene inherited from a common ancestor.
+- **Inheritance Patterns:** First cousins share a set of grandparents. The genetic material is passed down from grandparents to parents (each parent receives approximately half of their genes from each grandparent) and then from parents to their children.
+- **Calculation of Shared Genes:** For first cousins, the relatedness coefficient is calculated as follows:
+  - Each parent shares 1/2 of their genes with their child.
+  - First cousins receive 1/4 of their genes from each grandparent (since each parent contributes 1/2 of their genes).
+  - Therefore, the combined relatedness is 1/8 (1/4 from one grandparent pair and 1/4 from the other grandparent pair, but since cousins share both grandparents, the total is 1/8).
+
+**3. Analysis of Options**  
+1. **1.0/2**  
+   - This represents the relatedness of identical twins or parent-child, not first cousins. **Incorrect.**
+2. **1.0/4**  
+   - This is the relatedness of half-siblings or grandparent-grandchild. Not applicable to first cousins. **Incorrect.**
+3. **1.0/8**  
+   - This accurately represents the average proportion of genes shared by first cousins. **Correct.**
+4. **1.0/16**  
+   - This is the relatedness of second cousins or more distant relatives. Not applicable to first cousins. **Incorrect.**
+
+**4. Final Selection**  
+**My final selection is: Option 3**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 33.72秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+Qwen的选择:
+选择: 选项 3 (1.0/8)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+- The question asks about the average proportion of genes shared between first cousins.  
+- This relates to genetic relatedness, inheritance patterns, and the concept of coefficient of relationship.  
+
+**2. Key Genetic Considerations**  
+- **Coefficient of Relationship**: The proportion of genes shared between two individuals due to identity by descent. For first cousins, this is calculated based on their shared common ancestors (grandparents).  
+- **Genetic Inheritance Mechanism**: Each parent contributes 50% of their genes to their offspring. First cousins share two grandparents, so the shared genetic contribution from these grandparents must be calculated.  
+- **Path Analysis**: The genetic contribution from each grandparent to a cousin is halved at each generation. The path from grandparent → parent of cousin → cousin involves two generations, so each path contributes (1/2)² = 1/4. Since there are two grandparents (maternal and paternal), the total shared proportion is 2 × (1/2)^4 = 1/8.  
+
+**3. Analysis of Options**  
+- **Option 1 (1/2)**: Incorrect. This represents the genetic sharing between parent and child or full siblings, not first cousins.  
+- **Option 2 (1/4)**: Incorrect. This would apply to half-siblings or aunt/uncle and niece/nephew, not first cousins.  
+- **Option 3 (1/8)**: Correct. This aligns with the calculated coefficient of relationship for first cousins.  
+- **Option 4 (1/16)**: Incorrect. This would apply to more distant relatives, such as second cousins.  
+
+**4. Final Selection**  
+**My final selection is: Option 3**  
+
+The proportion of genes shared by first cousins is 1/8. This is derived from the coefficient of relationship formula, which accounts for the two shared grandparents and the halving of genetic contribution at each generation. Each path from a grandparent to a cousin involves two generations (grandparent → parent → cousin), resulting in (1/2)^4 per grandparent. Summing over both grandparents gives 2 × (1/16) = 1/8.
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 45.23秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项3
+
+DeepSeek的选择:
+选择: 选项 3 (1.0/8)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks for the average proportion of genes shared between first cousins. This requires understanding autosomal inheritance patterns and calculating relatedness coefficients based on familial relationships.
+
+**2. Key Genetic Considerations**  
+- **Coefficient of Relationship (r):** Measures the proportion of genes shared between two individuals due to common ancestry.  
+- **Inheritance Steps:** Each parent contributes 50% (1/2) of their genes to a child. First cousins share one set of grandparents. Their relatedness is determined through their parents (who are siblings).  
+- **Calculation:**  
+  - Siblings (parents of the cousins) share 50% (1/2) of their genes.  
+  - Each cousin inherits 50% (1/2) of their parent’s genes.  
+  - Shared genes between cousins: \( \frac{1}{2} \times \frac{1}{2} \times \frac{1}{2} = \frac{1}{8} \).  
+
+**3. Analysis of Options**  
+- **Option 1 (1.0/2):** Incorrect. This represents parent-child or sibling relationships (50% shared genes).  
+- **Option 2 (1.0/4):** Incorrect. This applies to grandparent-grandchild or half-sibling relationships (25% shared genes).  
+- **Option 3 (1.0/8):** Correct. First cousins share \( \frac{1}{8} \) (12.5%) of their genes on average.  
+- **Option 4 (1.0/16):** Incorrect. This corresponds to second cousins (6.25% shared genes).  
+
+**4. Final Selection**  
+The correct answer is derived from the coefficient of relationship calculation for first cousins, which is \( \frac{1}{8} \).  
+
+**My final selection is: Option 3**
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项3
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项3 - 1.0/8
+正确答案: 选项3
+最终选择是否正确: ✓ 正确
+
+案例 48 的辩论结果已保存到 debate_results/medical_genetics_debate_result_case_48.json
