@@ -1,0 +1,121 @@
+案例ID: clinical_knowledge_98
+类别: clinical_knowledge
+问题: 
+The ATP store in muscle can only supply energy in high intensity exercise for about:
+选项: 
+1. 2 milliseconds.
+2. 2 seconds.
+3. 10 seconds.
+4. 20 seconds.
+正确答案索引: 1 (对应选项编号: 2)
+==================================================
+开始专业医学多选题辩论
+================================================================================
+GPT正在推理答案...
+正在发送请求到GPT API...
+GPT API响应状态码: 200
+GPT生成答案完成，耗时 6.30秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项2
+
+GPT的选择:
+选择: 选项 2 (2 seconds.)
+
+GPT的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question is inquiring about the duration for which the ATP (adenosine triphosphate) stores in muscle can provide energy during high-intensity exercise. It focuses on understanding the immediate energy sources utilized by muscles during short bursts of intense activity.
+
+**2. Key Clinical Considerations**  
+- **ATP-As Immediate Energy Source:** ATP is the primary energy currency in muscle cells, used for muscle contractions.
+- **ATP Store Duration:** Muscle cells contain only enough ATP to sustain high-intensity muscle activity for a very short period.
+- **Energy Systems Hierarchy:** After the immediate ATP stores are depleted, muscles rely on other energy systems like the creatine phosphate system and anaerobic glycolysis to continue producing ATP.
+- **Physiological Timeframes:** Understanding the specific durations each energy system can sustain activity is crucial for determining which energy source is predominant at various times during exercise.
+
+**3. Analysis of Options**  
+1. **2 milliseconds:**  
+   - **Incorrect.** ATP acts almost instantaneously to provide energy for muscle contractions, but the storage of ATP in muscles refers to a longer duration than milliseconds.
+   
+2. **2 seconds:**  
+   - **Correct.** Muscle ATP stores can supply energy for high-intensity activities for approximately 2-3 seconds before depletion occurs, necessitating the use of other energy sources.
+   
+3. **10 seconds:**  
+   - **Incorrect.** The creatine phosphate system, which regenerates ATP, can sustain energy production for about 10 seconds, but the initial ATP store is depleted much sooner.
+   
+4. **20 seconds:**  
+   - **Incorrect.** This duration exceeds the capacity of both the immediate ATP stores and the creatine phosphate system combined, which generally supports energy needs for up to around 12 seconds in total.
+
+**4. Final Selection**  
+**My final selection is: Option 2**
+================================================================================
+Qwen正在生成答案...
+正在发送请求到Qwen API...
+Qwen生成答案完成，耗时 20.89秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项2
+
+Qwen的选择:
+选择: 选项 2 (2 seconds.)
+
+Qwen的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks about the duration for which the stored ATP in muscles can supply energy during high-intensity exercise. This relates to the understanding of energy systems in muscle physiology, specifically the immediate energy source (ATP) and its limited availability.
+
+**2. Key Clinical Considerations**  
+- **ATP as the Immediate Energy Source:** ATP is the direct energy currency for muscle contraction. However, muscles store only a small amount of ATP (about 5-8 mg per gram of muscle).  
+- **ATP Depletion Rate:** During maximal exercise, ATP is depleted rapidly. Without replenishment, the stored ATP is sufficient for only a few seconds (~2-3 seconds).  
+- **Phosphocreatine (PC) System:** While the ATP-PC system (combining stored ATP and phosphocreatine) can regenerate ATP anaerobically for ~10 seconds, the question specifically refers to the *ATP store alone*, not the PC system.  
+
+**3. Analysis of Options**  
+- **Option 1 (2 milliseconds):** Incorrect. ATP stores last much longer than milliseconds. Even at maximal depletion rates, milliseconds are too short.  
+- **Option 2 (2 seconds):** Correct. The limited ATP stores are depleted within ~2-3 seconds during high-intensity exercise.  
+- **Option 3 (10 seconds):** Incorrect. This duration includes the contribution of the phosphocreatine system, which regenerates ATP beyond the initial ATP store.  
+- **Option 4 (20 seconds):** Incorrect. This would require aerobic or anaerobic glycolysis, which are slower processes and not solely dependent on stored ATP.  
+
+**4. Final Selection**  
+**My final selection is: Option 2**
+================================================================================
+DeepSeek正在生成答案...
+DeepSeek生成答案完成，耗时 64.82秒
+
+开始提取模型选择...
+【提取】找到最终选择: 选项2
+
+DeepSeek的选择:
+选择: 选项 2 (2 seconds.)
+
+DeepSeek的完整回答:
+================================================================================
+**1. Question Analysis**  
+The question asks about the duration that stored ATP in muscles can sustain high-intensity exercise. This requires understanding the body's immediate energy systems and the metabolic pathways involved in ATP production during rapid, strenuous activity.
+
+**2. Key Clinical Considerations**  
+- **ATP as Immediate Energy Source**: ATP stored in muscles is the primary energy source for immediate, high-intensity efforts but is limited in quantity.  
+- **Energy Systems**: After ATP depletion, the phosphocreatine (PCr) system regenerates ATP for an additional 5–10 seconds. Glycolysis then becomes the dominant pathway.  
+- **Duration of ATP Stores**: Direct ATP reserves are sufficient for only 2–3 seconds of maximal exertion before requiring replenishment via PCr or other pathways.
+
+**3. Analysis of Options**  
+- **Option 1 (2 milliseconds)**: Incorrect. Milliseconds are too brief; even a single muscle contraction cycle lasts longer.  
+- **Option 2 (2 seconds)**: Correct. Muscle ATP stores are exhausted within ~2–3 seconds of maximal effort.  
+- **Option 3 (10 seconds)**: Incorrect. This timeframe includes ATP and PCr combined (total ~10 seconds). The question specifies ATP alone.  
+- **Option 4 (20 seconds)**: Incorrect. This exceeds the combined ATP-PCr capacity and aligns more with anaerobic glycolysis.  
+
+**4. Final Selection**  
+The ATP stored in muscles is depleted within approximately 2–3 seconds of high-intensity exercise. The correct answer distinguishes ATP reserves from subsequent PCr-dependent ATP regeneration.  
+
+**My final selection is: Option 2**
+================================================================================
+
+三个模型初始选择已达成一致！
+
+三个模型初始选择已达成一致！所有模型都选择了选项2
+
+========= 最终辩论结果 =========
+GPT，Qwen与DeepSeek达成共识！最终选择：选项2 - 2 seconds.
+正确答案: 选项2
+最终选择是否正确: ✓ 正确
+
+案例 98 的辩论结果已保存到 debate_results/clinical_knowledge_debate_result_case_98.json
