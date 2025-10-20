@@ -1,0 +1,92 @@
+
+PMID: 27338535 =======================
+Question: Do risk calculators accurately predict surgical site occurrences?
+
+======================= Launch the MCC process =======================
+PMID: 27338535
+Question: Do risk calculators accurately predict surgical site occurrences?
+Correct Answer: no
+
+
+PMID: 27338535
+Question: Do risk calculators accurately predict surgical site occurrences?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+**1. Question Analysis**
+
+The question asks whether risk calculators **accurately predict surgical site occurrences (SSO)**. Key terms include:
+
+- **Risk calculators**: Tools or models used to estimate the probability of a patient experiencing SSO.
+- **Accurately predict**: Refers to the ability of these calculators to reliably forecast SSO events with high precision and validity.
+
+**2. Evidence Evaluation**
+
+The abstract evaluates several risk assessment models for predicting SSO and surgical site infections (SSI) after open ventral hernia repair (VHR). Key findings include:
+
+- **Predictive Performance (AUC Values)**:
+  - **Ventral Hernia Outcomes Collaborative database**:
+    - SSO AUCs ranged from 0.52 to 0.60.
+    - SSI AUCs ranged from 0.50 to 0.58.
+  - **Prospective database**:
+    - SSO AUCs ranged from 0.50 to 0.69.
+    - SSI AUCs ranged from 0.55 to 0.81.
+  - **Interpretation**: AUC values closer to 1 indicate better predictive accuracy. The reported AUCs are generally low, suggesting poor predictive performance.
+
+- **Risk Stratification**:
+  - Some models (e.g., VHRS, HW-RAT, ACS-NSQIP) could stratify patients into different risk tiers statistically. However, the overall low AUCs indicate that while stratification is possible, the precision of these predictions is limited.
+
+- **Risk Estimation Bias**:
+  - Models like VHRS, VHWG, and CDC overestimated the risk of SSO and SSI.
+  - Models like HW-RAT and ACS-NSQIP underestimated the risk across all groups.
+  - **Implication**: Both overestimation and underestimation reduce the reliability of these calculators in accurately predicting actual SSO events.
+
+**3. Conclusion**
+
+The evidence from the abstract indicates that existing risk calculators have low to modest predictive accuracy (as evidenced by low AUC values) and show biases in risk estimation (both overestimation and underestimation). These factors collectively suggest that risk calculators **do not** accurately predict surgical site occurrences with high reliability.
+
+**4. Final Answer**
+
+**My final choice is: "no"**
+GPT selected: no
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+**1. Question Analysis**  
+The question asks whether risk calculators accurately predict surgical site occurrences (SSO) based on the provided abstract. Key terms include "accurately predict" and "surgical site occurrences," focusing on the predictive validity of existing models for SSO (and SSI) in open ventral hernia repair. The emphasis is on whether the models reliably forecast these outcomes.
+
+**2. Evidence Evaluation**  
+- **Predictive Accuracy (AUC):** The abstract reports low AUC values for SSO (range 0.50–0.69) and SSI (range 0.50–0.81) across all models. For SSO, most AUCs were below 0.6, indicating poor discrimination. Even the highest SSI AUC (0.81) in one dataset is modest, not exceptional.  
+- **Risk Stratification:** While some models (e.g., VHRS, HW-RAT, ACS-NSQIP) stratified patients into groups with statistically different SSO/SSI rates, this does not guarantee clinical accuracy. The abstract explicitly states that models either **overestimated** (VHRS, VHWG, CDC) or **underestimated** (HW-RAT, ACS-NSQIP) SSO/SSI risks across all groups, indicating systematic inaccuracies.  
+- **External Validation:** The abstract highlights that existing models lack robust external validation, further undermining their reliability.  
+
+**3. Conclusion**  
+The evidence shows that risk calculators for SSO/SSI in open ventral hernia repair have **poor predictive accuracy** (low AUCs) and exhibit significant overestimation or underestimation of risk. While some models stratify patients into risk groups statistically, their inability to reliably predict actual outcomes (due to biased risk estimates and limited validation) means they do not "accurately predict" SSO. The abstract’s conclusion reinforces this by emphasizing the models’ limitations.  
+
+**4. Final Answer:**  
+**My final choice is: "no"**
+Qwen selected: no
+
+----- DeepSeek's initial response -----
+DeepSeek is reasoning the answer...
+**1. Question Analysis**  
+The question asks whether risk calculators accurately predict surgical site occurrences (SSOs). The key term is "accurately," which in a medical context implies a high degree of predictive precision, reliability, and clinical utility, typically assessed through metrics like area under the receiver operating characteristic curve (AUC) and calibration. The focus is on the overall performance of these calculators, not merely their ability to stratify risk or show statistical associations.
+
+**2. Evidence Evaluation**  
+The abstract from PMID: 27338535 evaluates multiple risk models (VHRS, VHWG, CDC Wound Class, HW-RAT, and ACS-NSQIP) for predicting SSO and surgical site infection (SSI) after open ventral hernia repair. Key findings include:
+- AUC values for SSO prediction are consistently low across databases: ranging from 0.50 to 0.69, with most below 0.70 (the threshold often considered acceptable for clinical prediction models). For example, in the larger database (n=795), AUCs for SSO were 0.56, 0.54, 0.52, and 0.60.
+- For SSI, AUCs are modest in one smaller database (n=88), with values up to 0.81, but this is not consistent across models or databases (e.g., other AUCs for SSI are as low as 0.55).
+- The models show calibration issues: VHRS, VHWG, and CDC overestimate risk, while HW-RAT and ACS-NSQIP underestimate risk, indicating poor accuracy in actual risk prediction.
+- While some models achieve statistical significance in risk stratification (e.g., p<0.05 for certain models), this does not equate to accurate prediction, as stratification alone does not ensure precision in individual risk estimation.
+
+The evidence demonstrates that the models have low discriminatory power (AUCs near or below 0.70) and poor calibration, meaning they do not reliably or accurately predict SSOs. The abstract explicitly notes "limited external validation" and low predictive accuracy, supporting a conclusion against accurate prediction.
+
+**3. Conclusion**  
+Based on the abstract, risk calculators for SSO prediction exhibit insufficient accuracy due to low AUC values and calibration errors. The evidence is clear and consistent across databases and models, indicating that these tools do not meet the standard for accurate prediction in a clinical context. Therefore, the answer is "no."
+
+**4. Final Answer**  
+**My final choice is: "no"**
+DeepSeek selected: no
+
+Initial consensus: All models selected no
+

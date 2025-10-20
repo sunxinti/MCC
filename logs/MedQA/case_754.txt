@@ -1,0 +1,162 @@
+Case_id: case_754
+Case_description: 
+A 38-year-old woman is brought to the emergency department because of three 1-hour episodes of severe, sharp, penetrating abdominal pain in the right upper quadrant. During these episodes, she has had nausea and vomiting. She has no diarrhea, dysuria, or hematuria and is asymptomatic between episodes. She has hypertension and hyperlipidemia. Seven years ago, she underwent resection of the terminal ileum because of severe Crohn's disease. She is 155 cm (5 ft 2 in) tall and weighs 79 kg (175 lb); BMI is 32 kg/m2. Her temperature is 36.9°C (98.5°F), pulse is 80/min, and blood pressure is 130/95 mm Hg. There is mild scleral icterus. Cardiopulmonary examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the right upper quadrant without guarding or rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Laboratory studies show:
+Hemoglobin 12.5 g/dL
+Leukocyte count 9,500 mm3
+Platelet count 170,000 mm3
+Serum
+Total bilirubin 4.1 mg/dL
+Alkaline phosphatase 348 U/L
+AST 187 U/L
+ALT 260 U/L
+Abdominal ultrasonography shows a normal liver, a common bile duct caliber of 10 mm (normal < 6 mm) and a gallbladder with multiple gallstones and no wall thickening or pericholecystic fluid. Which of the following is the most likely cause of these findings?"
+Options: 
+1. Acute hepatitis A
+2. Choledocholithiasis
+3. Autoimmune hepatitis
+4. Cholecystitis
+5. Pancreatitis
+Correct Answer: Choledocholithiasis
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 2 (Choledocholithiasis)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information:** A 38-year-old obese woman (BMI 32 kg/m²) with a history of hypertension, hyperlipidemia, and previous terminal ileum resection due to severe Crohn's disease.  
+- **Chief Complaint:** Three episodes of severe, sharp, penetrating right upper quadrant (RUQ) abdominal pain lasting 1 hour each, associated with nausea and vomiting.  
+- **Key Clinical Manifestations:**  
+  - Mild scleral icterus  
+  - Tenderness in the RUQ without guarding or rebound  
+  - Laboratory findings showing elevated total bilirubin (4.1 mg/dL), alkaline phosphatase (348 U/L), AST (187 U/L), and ALT (260 U/L)  
+  - Abdominal ultrasonography revealing a common bile duct (CBD) diameter of 10 mm (enlarged) and multiple gallstones in the gallbladder without signs of acute cholecystitis
+
+**2. Analysis of Clinical Features**  
+- **Pain Characteristics:** The episodic, severe RUQ pain with a sharp, penetrating nature suggests biliary colic, commonly associated with gallstones.  
+- **Scleral Icterus:** Indicates hyperbilirubinemia, which can result from hemolysis, hepatic dysfunction, or biliary obstruction.  
+- **Laboratory Abnormalities:** Elevated bilirubin and liver enzymes (AST, ALT, alkaline phosphatase) point towards hepatobiliary pathology. The AST and ALT are moderately elevated, which can occur in hepatic inflammation or biliary obstruction.  
+- **Ultrasonography Findings:** An enlarged CBD (10 mm) with gallstones suggests possible choledocholithiasis. The absence of gallbladder wall thickening or pericholecystic fluid makes acute cholecystitis less likely.  
+- **History of Crohn’s Disease:** Patients with a history of Crohn’s, especially with ileal resection, are at increased risk for gallstone formation due to bile salt malabsorption.
+
+**3. Differential Diagnosis Analysis**
+
+1. **Acute Hepatitis A:**  
+   - **Likelihood:** Low  
+   - **Reasoning:** Acute hepatitis A typically presents with systemic symptoms such as fever, malaise, anorexia, and jaundice, which are not prominent here. Additionally, there is no mention of recent exposure or travel history.
+
+2. **Choledocholithiasis:**  
+   - **Likelihood:** High  
+   - **Reasoning:** The presence of gallstones, an enlarged CBD on ultrasonography, and elevations in bilirubin and liver enzymes are highly suggestive of choledocholithiasis. The pain pattern is consistent with biliary colic, and there is no evidence of acute cholecystitis.
+
+3. **Autoimmune Hepatitis:**  
+   - **Likelihood:** Low  
+   - **Reasoning:** Autoimmune hepatitis typically presents with more chronic symptoms, possible joint pain, and other autoimmune features. The acute presentation with RUQ pain and gallstones makes this less likely.
+
+4. **Cholecystitis:**  
+   - **Likelihood:** Low  
+   - **Reasoning:** Acute cholecystitis usually presents with persistent RUQ pain, fever, and positive Murphy’s sign. The ultrasonography does not show gallbladder wall thickening or pericholecystic fluid, making this diagnosis unlikely.
+
+5. **Pancreatitis:**  
+   - **Likelihood:** Low  
+   - **Reasoning:** Pancreatitis typically presents with epigastric pain radiating to the back, elevated amylase/lipase levels, and may have systemic signs. This patient’s presentation is more localized to the RUQ with no indication of pancreatic involvement.
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Choledocholithiasis)(胆总管结石)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 2 (Choledocholithiasis)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 38-year-old woman with a history of terminal ileum resection due to Crohn’s disease presents with episodic severe right upper quadrant (RUQ) pain, nausea, and vomiting. Symptoms resolve between episodes.  
+- Key findings: Mild scleral icterus, elevated total bilirubin (4.1 mg/dL), alkaline phosphatase (348 U/L), and transaminases (AST 187 U/L, ALT 260 U/L). Abdominal ultrasound shows a dilated common bile duct (CBD, 10 mm) and gallbladder with multiple stones, but no gallbladder wall thickening or pericholecystic fluid.  
+
+**2. Analysis of Clinical Features**  
+- **Episodic pain**: Suggests intermittent obstruction (e.g., gallstone migration causing transient CBD blockage), consistent with biliary colic.  
+- **Laboratory abnormalities**: Elevated cholestasis markers (ALP, bilirubin) and transaminases indicate bile duct obstruction. The ALP elevation is more pronounced than AST/ALT, favoring cholestasis over hepatocellular injury.  
+- **Ultrasound findings**: Gallstones and dilated CBD (≥10 mm) strongly suggest common bile duct obstruction. The absence of gallbladder wall thickening or fluid rules out acute cholecystitis.  
+- **Symptom-free intervals**: Exclude continuous processes like pancreatitis or chronic hepatitis.  
+
+**3. Differential Diagnosis Analysis**  
+- **1. Acute hepatitis A**: Unlikely. Hepatitis A typically causes hepatocellular injury (AST/ALT > ALP) and systemic symptoms (fever, malaise). The episodic pain and CBD dilation are inconsistent.  
+- **2. Choledocholithiasis**: Most consistent. Gallstones in the CBD explain the dilated duct, cholestasis labs, and episodic biliary colic. The normal gallbladder ultrasound supports stones migrating into the CBD rather than remaining in the gallbladder.  
+- **3. Autoimmune hepatitis**: Unlikely. Autoimmune hepatitis usually presents with chronic symptoms, elevated immunoglobulins, and hepatocellular injury (AST/ALT dominance). No autoantibody data are provided, and the episodic pain does not align.  
+- **4. Cholecystitis**: Excluded by normal gallbladder ultrasound (no wall thickening or fluid) and absence of persistent RUQ pain.  
+- **5. Pancreatitis**: Unlikely. No elevated lipase, epigastric pain, or pancreatic ultrasound abnormalities.  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Choledocholithiasis)(胆总管结石)**  
+
+Key evidence supporting this choice:  
+- Gallstones documented on ultrasound.  
+- Dilated CBD (10 mm) due to obstruction.  
+- Episodic RUQ pain consistent with biliary colic.  
+- Cholestatic lab pattern (elevated ALP and bilirubin).  
+- Normal gallbladder ultrasound rules out acute cholecystitis.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 2 (Choledocholithiasis)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Basic Information**: 38-year-old woman with hypertension, hyperlipidemia, and a history of Crohn’s disease (terminal ileum resection 7 years ago). BMI 32 kg/m² (obese).  
+- **Chief Complaint**: Three episodes of severe, sharp, right upper quadrant (RUQ) abdominal pain lasting 1 hour each, with nausea/vomiting. Asymptomatic between episodes.  
+- **Key Clinical Manifestations**:  
+  - **Symptoms**: Episodic RUQ pain, nausea/vomiting, no diarrhea/dysuria/hematuria.  
+  - **Signs**: Mild scleral icterus, RUQ tenderness (no guarding/rebound), normal bowel sounds.  
+  - **Lab Findings**: Elevated total bilirubin (4.1 mg/dL), alkaline phosphatase (348 U/L), AST/ALT (187/260 U/L), dilated common bile duct (CBD: 10 mm), gallbladder gallstones.  
+
+**2. Analysis of Clinical Features**  
+- **Timeline/Characteristics**: Episodic, colicky RUQ pain aligns with transient biliary obstruction. Elevated bilirubin, ALP, and transaminases indicate cholestasis with hepatocellular injury.  
+- **Supporting Features**:  
+  - **Choledocholithiasis**: Dilated CBD, gallstones, scleral icterus, and cholestatic liver enzymes.  
+  - **Crohn’s/ileal resection**: Risk factor for gallstones (impaired bile salt reabsorption → cholesterol supersaturation).  
+- **Opposing Features**:  
+  - **Cholecystitis**: Absent gallbladder wall thickening/pericholecystic fluid.  
+  - **Pancreatitis**: No reported lipase/amylase elevation.  
+  - **Hepatitis A/Autoimmune Hepatitis**: No prodromal symptoms (e.g., fever, fatigue) or autoimmune markers.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Acute Hepatitis A**: Unlikely. Typically causes diffuse hepatocellular injury (ALT > AST) with prodromal symptoms (fever, malaise). No risk factors (travel/exposure) noted.  
+2. **Choledocholithiasis**: Highly likely. Episodic RUQ pain, cholestatic labs, dilated CBD, and gallstones strongly support CBD obstruction.  
+3. **Autoimmune Hepatitis**: Unlikely. Chronic presentation with autoantibodies (e.g., ANA, anti-LKM1) and hypergammaglobulinemia expected. Acute episodic pain atypical.  
+4. **Cholecystitis**: Unlikely. Requires persistent pain, fever, and sonographic signs (e.g., wall thickening). Patient lacks these features.  
+5. **Pancreatitis**: Unlikely. No epigastric/back pain or elevated pancreatic enzymes.  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Choledocholithiasis)(胆总管结石病)**  
+- **Key Evidence**:  
+  - Episodic RUQ pain + cholestatic jaundice (scleral icterus, elevated bilirubin/ALP).  
+  - Dilated CBD (10 mm) with gallstones on ultrasound.  
+  - Risk factors: Obesity, ileal resection (Crohn’s disease → bile salt loss → cholesterol gallstones).  
+  - Absence of features supporting other diagnoses (e.g., cholecystitis, pancreatitis).
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 2 (Choledocholithiasis)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option2
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option2 - Choledocholithiasis
+Correct Answer: - Choledocholithiasis
+
+Is the final diagnosis correct? ✓ Correct
+

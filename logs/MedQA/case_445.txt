@@ -1,0 +1,156 @@
+Case_id: case_445
+Case_description: 
+Three days after undergoing a laparoscopic Whipple's procedure, a 43-year-old woman has swelling of her right leg. She does not have pain. She has nausea but has not vomited. She was diagnosed with pancreatic cancer 1 month ago. She has been using an incentive spirometer every 6 hours since recovering from her surgery. Prior to admission, her only medications were a multivitamin and an herbal weight-loss preparation. She appears uncomfortable. Her temperature is 38°C (100.4°F), pulse is 90/min, and blood pressure is 118/78 mm Hg. Examination shows mild swelling of the right thigh to the ankle; there is no erythema or pitting edema. Homan's sign is negative. The abdomen is soft and shows diffuse tenderness to palpation. There are five abdominal laparoscopic incisions with no erythema or discharge. The lungs are clear to auscultation. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?
+Options: 
+1. CT pulmonary angiography
+2. Compression ultrasonography
+3. Vancomycin therapy
+4. D-dimer level
+5. 2 sets of blood cultures
+"
+Correct Answer: Compression ultrasonography
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 2 (Compression ultrasonography)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information:**  
+  - 43-year-old woman  
+  - Diagnosed with pancreatic cancer 1 month ago  
+  - Underwent a laparoscopic Whipple's procedure 3 days prior  
+- **Chief Complaint:**  
+  - Swelling of the right leg  
+- **Key Clinical Manifestations:**  
+  - Right leg swelling from thigh to ankle  
+  - No pain associated with the swelling  
+  - No erythema or pitting edema  
+  - Negative Homan's sign  
+  - Nausea without vomiting  
+  - Low-grade fever (38°C / 100.4°F)  
+  - Diffuse abdominal tenderness  
+  - No signs of surgical site infection  
+  - Uses incentive spirometer every 6 hours  
+  - Vital signs: Pulse 90/min, BP 118/78 mm Hg
+
+**2. Analysis of Clinical Features**  
+- **Postoperative Status:** The patient is in the early postoperative period following a major abdominal surgery (Whipple's procedure), which increases the risk for thromboembolic events such as deep vein thrombosis (DVT).  
+- **Leg Swelling:** Unilateral leg swelling without pain, erythema, or pitting edema is atypical for DVT, which usually presents with pain, redness, and possibly pitting edema. However, absence of pain does not rule out DVT, especially in postoperative patients who may have reduced mobility and analgesia.  
+- **Nausea and Low-Grade Fever:** These nonspecific symptoms could be related to postoperative ileus, infection, or a thromboembolic event with systemic effects.  
+- **Abdominal Tenderness:** Diffuse tenderness could suggest postoperative complications such as infection, abscess, or pancreatitis, but there are no signs of surgical site infection.  
+- **Negative Homan's Sign:** While not highly sensitive or specific, a negative Homan's sign slightly lowers the immediate suspicion for DVT but does not exclude it.
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: CT Pulmonary Angiography**  
+  - **Use:** Diagnoses pulmonary embolism (PE)  
+  - **Assessment:** The patient does not present with respiratory symptoms (e.g., shortness of breath, chest pain) typical of PE. Unlikely the immediate next step.
+
+- **Option 2: Compression Ultrasonography**  
+  - **Use:** Diagnoses DVT  
+  - **Assessment:** Given the patient's postoperative status and unilateral leg swelling, DVT remains a significant concern despite the absence of classic symptoms. Compression ultrasonography is a non-invasive and appropriate next step to evaluate for DVT.
+
+- **Option 3: Vancomycin Therapy**  
+  - **Use:** Treats suspected Gram-positive infections  
+  - **Assessment:** There is insufficient evidence of a bacterial infection requiring vancomycin, as there are no signs of surgical site infection or other focal infections.
+
+- **Option 4: D-dimer Level**  
+  - **Use:** Screens for thromboembolic events  
+  - **Assessment:** Postoperative patients often have elevated D-dimer levels, reducing the specificity of the test. Therefore, it is less useful in this context.
+
+- **Option 5: 2 Sets of Blood Cultures**  
+  - **Use:** Diagnoses bloodstream infections or sepsis  
+  - **Assessment:** The patient has a low-grade fever and abdominal tenderness, but without other signs of systemic infection or sepsis, blood cultures are not the most immediate next step.
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Compression ultrasonography)（压缩超声检查）**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 2 (Compression ultrasonography)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 43-year-old woman, three days post-laparoscopic Whipple procedure, presents with unilateral right leg swelling (thigh to ankle) without pain, fever (38°C), nausea, and diffuse abdominal tenderness.  
+- Key features: Post-major abdominal surgery, unilateral leg swelling without erythema or pitting edema, negative Homan’s sign, and elevated temperature.  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**: Symptoms emerged three days post-surgery, consistent with potential postoperative complications.  
+- **Leg Swelling**: Unilateral, non-pitting, and without erythema or Homan’s sign. While Homan’s sign is unreliable, the absence of pitting edema and erythema reduces the likelihood of cellulitis or lymphedema. However, the timing and surgical history raise concern for deep vein thrombosis (DVT).  
+- **Fever and Abdominal Tenderness**: Fever and diffuse abdominal tenderness suggest possible intra-abdominal infection or abscess, but these symptoms are separate from the leg swelling.  
+- **Risk Factors**: Major abdominal surgery (Whipple procedure) is a significant risk factor for venous thromboembolism (VTE).  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1 (CT Pulmonary Angiography)**: Indicates suspected pulmonary embolism (PE). However, the patient lacks classic PE symptoms (e.g., dyspnea, pleuritic chest pain). Leg swelling alone does not justify immediate CTPA without first assessing for DVT.  
+- **Option 2 (Compression Ultrasonography)**: Directly evaluates for DVT in the right leg. Given the postoperative state and unilateral leg swelling, this is the standard initial test for suspected DVT. Negative Homan’s sign does not exclude DVT.  
+- **Option 3 (Vancomycin Therapy)**: Implies suspected sepsis or severe infection. While fever and abdominal tenderness exist, there is no evidence of systemic sepsis (e.g., hypotension, tachycardia beyond 90/min). Abdominal imaging or cultures would precede empiric antibiotics.  
+- **Option 4 (D-dimer Level)**: A screening test for VTE. However, D-dimer is nonspecific and often elevated post-surgery, limiting its utility in this context. A negative result might rule out VTE, but a positive result would still require imaging.  
+- **Option 5 (2 Sets of Blood Cultures)**: Indicates suspected bacteremia/sepsis. While fever and abdominal tenderness are present, blood cultures are more appropriate if systemic sepsis is suspected or if intra-abdominal infection is confirmed.  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Compression ultrasonography)(压迫超声)**  
+**Key Evidence**:  
+- Post-major abdominal surgery places the patient at high risk for DVT.  
+- Unilateral leg swelling, even without classic signs (erythema/pitting edema), warrants imaging to exclude DVT.  
+- Compression ultrasonography is the gold standard for diagnosing DVT and avoids unnecessary radiation (CTPA) or nonspecific testing (D-dimer).  
+- Fever and abdominal tenderness likely represent a separate intra-abdominal issue (e.g., postoperative ileus, abscess) and do not preclude concurrent DVT.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 2 (Compression ultrasonography)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient**: 43-year-old woman, 3 days post-laparoscopic Whipple procedure for pancreatic cancer.  
+- **Chief Complaint**: Swelling of the right leg (thigh to ankle) without pain.  
+- **Key Symptoms/Signs**:  
+  - Unilateral leg swelling (no erythema, pitting edema, or Homan’s sign).  
+  - Low-grade fever (38°C), mild abdominal tenderness, clear lungs.  
+  - Postoperative state with incentive spirometer use and no signs of surgical site infection.  
+
+**2. Analysis of Clinical Features**  
+- **Unilateral Leg Swelling**: Highly suggestive of deep vein thrombosis (DVT) in a postoperative patient, despite the absence of classic signs (e.g., pain, Homan’s sign). DVT risk is elevated after major abdominal surgery, especially in cancer patients.  
+- **Fever**: May reflect postoperative inflammation, atelectasis, or early infection, but no localizing signs (e.g., clean incisions, clear lungs) reduce suspicion for sepsis or pneumonia.  
+- **Negative Homan’s Sign**: Insensitive for DVT; its absence does not exclude the diagnosis.  
+- **No Erythema/Pitting Edema**: Opposes cellulitis or superficial thrombophlebitis.  
+
+**3. Differential Diagnosis Analysis**  
+1. **CT Pulmonary Angiography (Option 1)**: Indicated for suspected pulmonary embolism (PE), but the patient lacks respiratory symptoms (e.g., dyspnea, hypoxia). Premature without first evaluating for DVT.  
+2. **Compression Ultrasonography (Option 2)**: First-line test for DVT. Unilateral leg swelling in a high-risk postoperative patient warrants immediate imaging.  
+3. **Vancomycin Therapy (Option 3)**: Unsupported; no evidence of soft tissue infection (no erythema, warmth, purulence) or sepsis.  
+4. **D-dimer Level (Option 4)**: Nonspecific postoperatively and in cancer patients. Not reliable to rule out DVT in this context.  
+5. **Blood Cultures (Option 5)**: Low yield without clear sepsis source (e.g., normal incisions, no rigors). Fever may resolve with DVT treatment.  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Compression ultrasonography)(加压超声检查)**  
+- **Key Evidence**:  
+  - Unilateral leg swelling in a postoperative, high-risk cancer patient strongly suggests DVT.  
+  - Compression ultrasonography is the gold standard for diagnosing DVT and must be prioritized before considering PE evaluation or empiric therapy.  
+  - Negative Homan’s sign and absence of pain do not exclude DVT; clinical suspicion alone justifies imaging.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 2 (Compression ultrasonography)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option2
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option2 - Compression ultrasonography
+Correct Answer: - Compression ultrasonography
+
+Is the final diagnosis correct? ✓ Correct
+

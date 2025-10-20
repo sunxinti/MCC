@@ -1,0 +1,78 @@
+
+PMID: 22522271 =======================
+Question: Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?
+
+======================= Launch the MCC process =======================
+PMID: 22522271
+Question: Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?
+Correct Answer: no
+
+
+PMID: 22522271
+Question: Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?
+
+----- GPT's initial response -----
+GPT is reasoning the answer...
+**1. Question Analysis**
+The question seeks to determine whether late-night salivary cortisol is a superior screening test for detecting cortisol excess compared to standard screening tests in obese patients with Type 2 diabetes. Key concepts include:
+- **Late-night salivary cortisol**: A non-invasive test measuring cortisol levels at night.
+- **Standard screening tests**: In this context, likely referring to 24-hour urinary free cortisol (UFC) and the 1mg dexamethasone suppression test (DST).
+- **Better screening test**: Implies higher specificity (fewer false positives), sensitivity, practicality, or overall diagnostic accuracy.
+
+**2. Evidence Evaluation**
+The abstract presents a study comparing the specificity of late-night salivary cortisol with 24-hour UFC and 1mg DST in obese patients with Type 2 diabetes:
+- **Late-night salivary cortisol**: Specificity of 70% (95% CI 53-83%).
+- **24-hour UFC**: Specificity of 90% (76-97%), significantly higher than late-night salivary cortisol (P=0.039).
+- **1mg DST**: Specificity of 72% (55-85%), not significantly different from late-night salivary cortisol (P>0.99).
+
+The study indicates that late-night salivary cortisol has lower specificity than 24-hour UFC and comparable specificity to the 1mg DST. Since 24-hour UFC is considered a standard screening test with higher specificity, late-night salivary cortisol does not outperform it.
+
+**3. Conclusion**
+Based on the abstract, late-night salivary cortisol is less specific than 24-hour UFC and no better than the 1mg DST in screening for cortisol excess in the studied population. Therefore, it does not represent a better screening test compared to the standard methods evaluated.
+
+**4. Final Answer:**
+**no**
+GPT selected: no
+
+----- Qwen's initial response -----
+Qwen is reasoning the answer...
+**1. Question Analysis**  
+The question asks whether late-night salivary cortisol is a superior screening test for cortisol excess compared to standard tests (24-hour urinary free cortisol [UFC] and 1mg dexamethasone suppression test [DST]) in obese patients with Type 2 diabetes. The key focus is on whether the specificity or overall performance of late-night salivary cortisol is better than these standard tests.  
+
+**2. Evidence Evaluation**  
+The abstract compares the specificities of the three tests:  
+- **Late-night salivary cortisol (cutoff 10 nmol/L):** 70% specificity (95% CI 53–83%).  
+- **24-hour UFC (cutoff 400 nmol):** 90% specificity (95% CI 76–97%).  
+- **1mg DST (cutoff 50 nmol/L):** 72% specificity (95% CI 55–85%).  
+
+The specificity of late-night salivary cortisol was **significantly lower** than 24-hour UFC (P=0.039) but not different from 1mg DST (P>0.99). Since specificity reflects a test’s ability to correctly exclude those without the condition (minimize false positives), the 24-hour UFC outperformed salivary cortisol. The 1mg DST had comparable specificity, but no test showed superior performance to the standard 24-hour UFC.  
+
+**3. Conclusion**  
+The study directly compares the specificities of the tests and demonstrates that late-night salivary cortisol has a significantly lower specificity than the 24-hour UFC. Since the question asks whether salivary cortisol is a "better" screening test, the data clearly show it is not superior to at least one standard test (24-hour UFC). The lack of superiority over the 1mg DST also does not support a claim of being better overall.  
+
+**4. Final Answer:**  
+**My final choice is: "no"**
+Qwen selected: no
+
+----- DeepSeek's initial response -----
+DeepSeek is reasoning the answer...
+**1. Question Analysis**  
+The question asks whether late-night salivary cortisol (LNSC) is a *better* screening test for possible cortisol excess than standard screening tests (specifically 24-hour urinary free cortisol [UFC] and 1mg dexamethasone suppression test [DST]) in obese patients with Type 2 diabetes (T2DM). "Better" implies superior diagnostic performance, likely in terms of specificity, sensitivity, or overall accuracy, though the abstract only reports specificity. The context is screening, where high specificity is critical to minimize false positives.
+
+**2. Evidence Evaluation**  
+The abstract describes a study of 40 obese T2DM patients without clinical Cushing's syndrome, assuming none had hypercortisolism (to calculate specificity). The specificities reported are:  
+- LNSC (cutoff 10 nmol/L): 70% (95% CI 53–83%)  
+- 24hr UFC (cutoff 400 nmol): 90% (76–97%)  
+- 1mg DST (cutoff 50 nmol/L): 72% (55–85%)  
+
+Statistical comparisons show LNSC specificity is *significantly lower* than 24hr UFC (p=0.039) and not significantly different from 1mg DST (p>0.99). Since screening tests prioritize high specificity to rule out false positives, LNSC underperforms compared to UFC and is comparable to DST. The abstract does not report sensitivity or other metrics, but based on specificity alone, LNSC is not superior. The study design (assuming no true cases) is valid for specificity calculation but limits assessment of overall diagnostic utility.
+
+**3. Conclusion**  
+The evidence directly contradicts LNSC being "better" than standard tests. It has significantly worse specificity than UFC and similar specificity to DST. For screening, higher specificity is desirable to avoid unnecessary follow-up testing. Thus, LNSC is not superior to standard tests in this population based on the provided data.
+
+**4. Final Answer**  
+**My final choice is: "no"**
+DeepSeek selected: no
+
+Initial consensus: All models selected no
+

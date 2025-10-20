@@ -1,0 +1,15 @@
+# API Configuration Template
+# Copy this file to 'api_config.ini' and fill in your actual API keys
+
+[GPT]
+api_key = your_openai_api_key_here
+api_url = https://api.openai.com/v1/chat/completions
+
+[QWEN]
+api_key = your_qwen_api_key_here
+api_url = your_qwen_api_url_here
+
+[DEEPSEEK]
+api_key = your_deepseek_api_key_here
+api_url = your_deepseek_api_url_here
+

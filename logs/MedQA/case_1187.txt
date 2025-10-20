@@ -1,0 +1,154 @@
+Case_id: case_1187
+Case_description: 
+A 15-year-old boy is brought to the emergency department because of severe abdominal pain and vomiting for 8 hours. He has had around 3–4 episodes of greenish colored vomit during this period. He has major depressive disorder with psychosis. His mother has Graves' disease. Current medications include sertraline and haloperidol. He appears uncomfortable. His temperature is 37.3°C (99.1°F), pulse is 87/min, and blood pressure is 118/72 mm Hg. He is diagnosed with acute appendicitis and is taken to the operating room for an emergency laparoscopic appendectomy. The appendix is gangrenous and perforated with purulent fluid in the pelvis. Just after the appendiceal base is ligated, the patient shows muscle rigidity and profuse diaphoresis. His temperature is 39.1°C (102.4°F), pulse is 130/min, and blood pressure is 146/70 mm Hg. The pupils are equal and reactive to light. The end-tidal CO2 is 85 mm Hg. Which of the following is the most appropriate treatment for this patient's condition?
+Options: 
+1. Propranolol
+2. Dantrolene
+3. Bromocriptine
+4. Cyproheptadine
+5. Surgical embolectomy
+Correct Answer: Dantrolene
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 2 (Dantrolene)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information:** 15-year-old male with a history of major depressive disorder with psychosis.  
+- **Chief Complaint:** Severe abdominal pain and vomiting for 8 hours.  
+- **Clinical Manifestations:** During an emergency laparoscopic appendectomy for gangrenous and perforated appendicitis, immediately after ligation of the appendiceal base, the patient exhibits:
+  - **Neuromuscular Symptoms:** Muscle rigidity
+  - **Autonomic Symptoms:** Profuse diaphoresis, elevated temperature (39.1°C), increased pulse (130/min), elevated blood pressure (146/70 mm Hg)
+  - **Respiratory Signs:** Increased end-tidal CO₂ (85 mm Hg)
+  - **Pupils:** Equal and reactive to light
+
+**2. Analysis of Clinical Features**  
+- **Onset and Timing:** The acute onset of symptoms occurred intraoperatively immediately after ligation of the appendiceal base, suggesting an intraoperative trigger.  
+- **Muscle Rigidity and Hyperthermia:** These are hallmark signs of a hypermetabolic state affecting skeletal muscles.  
+- **Autonomic Instability:** Tachycardia and hypertension indicate sympathetic overactivity.  
+- **Respiratory Changes:** Elevated end-tidal CO₂ points to increased metabolic demand and possibly impaired ventilation due to muscle rigidity.  
+- **Medication History:** The patient is on sertraline (an SSRI) and haloperidol (an antipsychotic), both of which are relevant in differential diagnoses like serotonin syndrome and neuroleptic malignant syndrome (NMS), respectively.  
+- **Temporal Association with Surgery:** The intraoperative onset makes malignant hyperthermia (MH) a strong consideration, especially given exposure to potential triggering anesthetic agents.
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: Propranolol**  
+  - **Use:** Beta-blocker for adrenergic excess  
+  - **Relevance:** Not first-line for the current presentation  
+- **Option 2: Dantrolene**  
+  - **Use:** Specific treatment for malignant hyperthermia  
+  - **Relevance:** Aligns with acute intraoperative onset, muscle rigidity, hyperthermia, and elevated end-tidal CO₂  
+- **Option 3: Bromocriptine**  
+  - **Use:** Treatment for neuroleptic malignant syndrome (NMS)  
+  - **Relevance:** NMS typically develops over days to weeks, not acutely intraoperatively  
+- **Option 4: Cyproheptadine**  
+  - **Use:** Treatment for serotonin syndrome  
+  - **Relevance:** Although relevant given medication history, the acute intraoperative onset is less consistent with serotonin syndrome  
+- **Option 5: Surgical Embolectomy**  
+  - **Use:** Treatment for acute embolic events  
+  - **Relevance:** Not relevant to the current presentation
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Dantrolene)(丹曲林)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 2 (Dantrolene)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient**: 15-year-old male with major depressive disorder with psychosis, on sertraline and haloperidol. Mother has Graves' disease.  
+- **Chief Complaint**: Severe abdominal pain and vomiting (greenish) for 8 hours.  
+- **Key Symptoms During Surgery**:  
+  - After ligation of the gangrenous perforated appendix, the patient developed **muscle rigidity**, **profuse diaphoresis**, **hyperthermia (39.1°C)**, **tachycardia (130/min)**, and **hypertension (146/70 mm Hg)**.  
+  - Elevated end-tidal CO₂ (85 mm Hg).  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**: Symptoms emerged **immediately after ligating the appendix**, suggesting a perioperative complication.  
+- **Key Features**:  
+  - **Muscle rigidity** and **hyperthermia** are hallmark signs of **malignant hyperthermia**.  
+  - **Elevated end-tidal CO₂** (85 mm Hg) indicates metabolic acidosis and increased CO₂ production due to uncontrolled muscle metabolism.  
+  - **Tachycardia and hypertension** align with the hypermetabolic state of malignant hyperthermia.  
+- **Exclusion of Alternatives**:  
+  - Neuroleptic malignant syndrome (NMS) is less likely given the acute onset during surgery and lack of prolonged haloperidol use.  
+  - Sepsis from perforated appendicitis would present with gradual worsening, not abrupt rigidity and hyperthermia post-ligation.  
+
+**3. Differential Diagnosis Analysis**  
+- **Option 1: Propranolol**  
+  - A β-blocker may reduce tachycardia but exacerbate muscle rigidity in malignant hyperthermia. **Not appropriate**.  
+- **Option 2: Dantrolene**  
+  - **Gold-standard treatment for malignant hyperthermia**, directly targeting the ryanodine receptor dysfunction causing uncontrolled muscle contraction and hypermetabolism.  
+  - Aligns perfectly with the clinical picture: rigidity, hyperthermia, and elevated CO₂.  
+- **Option 3: Bromocriptine**  
+  - Dopamine agonist used for hyperprolactinemia or Parkinsonism. **Irrelevant to current presentation**.  
+- **Option 4: Cyproheptadine**  
+  - Antihistamine with anticholinergic properties. No role in malignant hyperthermia.  
+- **Option 5: Surgical Embolectomy**  
+  - Reserved for pulmonary embolism or thrombotic emergencies. **No evidence of thromboembolism here**.  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Dantrolene)(丹曲林)**  
+- **Key Evidence**:  
+  - Sudden onset of muscle rigidity, hyperthermia, tachycardia, hypertension, and elevated end-tidal CO₂ strongly suggest **malignant hyperthermia**, a life-threatening reaction triggered by anesthesia agents (e.g., succinylcholine, volatile anesthetics).  
+  - Dantrolene is the only specific treatment to halt the hypermetabolic crisis by blocking intracellular calcium release in skeletal muscle.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 2 (Dantrolene)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient**: 15-year-old boy with severe abdominal pain, vomiting (greenish), perforated appendicitis, and psychiatric history (major depressive disorder with psychosis). Medications: sertraline and haloperidol.  
+- **Key Symptoms**:  
+  - **Intraoperative crisis**: Sudden muscle rigidity, profuse diaphoresis, hyperthermia (39.1°C), tachycardia (130/min), hypertension (146/70 mmHg), and elevated end-tidal CO2 (85 mm Hg).  
+
+**2. Analysis of Clinical Features**  
+- **Timeline**: Symptoms occurred immediately after appendiceal ligation under general anesthesia.  
+- **Critical Features**:  
+  - **Hypermetabolic state**: Elevated temperature, tachycardia, hypertension, and hypercapnia (↑ end-tidal CO2) suggest excessive metabolic activity.  
+  - **Muscle rigidity**: Indicates abnormal skeletal muscle contractility.  
+  - **Anesthesia context**: Exposure to volatile anesthetics (e.g., sevoflurane) or succinylcholine, common triggers for malignant hyperthermia (MH).  
+- **Contradicts Other Diagnoses**:  
+  - **Serotonin syndrome**: Typically involves hyperreflexia/clonus (not observed here) and is triggered by serotonergic drugs (e.g., sertraline), but rapid intraoperative onset makes MH more likely.  
+  - **Neuroleptic malignant syndrome (NMS)**: Associated with antipsychotics (haloperidol) but usually develops over days, not acutely during surgery.  
+
+**3. Differential Diagnosis Analysis**  
+1. **Propranolol (β-blocker)**: Addresses tachycardia/hypertension but does not treat the underlying hypermetabolic etiology (e.g., MH). Contraindicated in MH due to risk of unopposed α-adrenergic activity.  
+2. **Dantrolene (Muscle relaxant)**: Directly inhibits ryanodine receptor-mediated calcium release in skeletal muscle, reversing MH pathophysiology. First-line treatment for MH.  
+3. **Bromocriptine (Dopamine agonist)**: Used for NMS but ineffective in MH. No evidence of dopamine dysfunction here.  
+4. **Cyproheptadine (Serotonin antagonist)**: Used for serotonin syndrome but irrelevant to MH.  
+5. **Surgical embolectomy**: Targets pulmonary embolism, inconsistent with clinical findings (e.g., no hypoxia/hypotension).  
+
+**4. Final Selection**  
+**My final selection is: Option 2 (Dantrolene) (丹曲林)**  
+- **Key Evidence**:  
+  - Acute intraoperative hypermetabolic crisis (rigidity, hyperthermia, hypercapnia) aligns with MH.  
+  - Dantrolene is the definitive treatment for MH, supported by guidelines (e.g., Malignant Hyperthermia Association of the United States).  
+  - Elevated end-tidal CO2 and anesthesia exposure further confirm MH over serotonin syndrome/NMS.
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 2 (Dantrolene)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option2
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option2 - Dantrolene
+Correct Answer: - Dantrolene
+
+Is the final diagnosis correct? ✓ Correct
+

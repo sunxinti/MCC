@@ -1,0 +1,154 @@
+Case_id: case_1243
+Case_description: 
+A 26-year-old man presents to the office complaining of persistent epigastric pain for the past 2 months. He states that his pain is worse a few hours after he eats. His father had similar symptoms. Past medical history is insignificant. He is a non-smoker and does not drink alcohol. The vital signs include blood pressure 120/90 mm Hg, heart rate 83/min, and temperature 37.0°C (98.6°F). Physical examination is insignificant except for mild epigastric tenderness. A metabolic panel reveals the following:
+Serum sodium 136 mEq/L
+Serum potassium 4.2 mEq/L
+Calcium 13.2 mg/dL
+Bicarbonate 26 mEq/L
+Upper gastrointestinal endoscopy reveals multiple duodenal ulcers. Which of the following is the most likely diagnosis?
+Options: 
+1. Gastroesophageal reflux disease
+2. Gastric adenocarcinoma, intestinal type
+3. H. pylori infection
+4. VIPoma
+5. MEN1
+Correct Answer: MEN1
+
+================================================================================
+Launch the MCC process
+================================================================================
+GPT is reasoning the answer...
+
+GPT's diagnostic conclusion:
+Choice: Option 5 (MEN1)
+
+GPT's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient Information**: 26-year-old male with no significant past medical history, non-smoker, non-drinker.  
+- **Chief Complaint**: Persistent epigastric pain for the past 2 months.  
+- **Clinical Manifestations**: 
+  - Pain worsens a few hours after eating.
+  - Family History: Father had similar symptoms.
+  - Physical Examination: Mild epigastric tenderness.
+  - Laboratory Findings: Elevated serum calcium (13.2 mg/dL).
+  - Upper GI Endoscopy: Multiple duodenal ulcers.
+
+**2. Analysis of Clinical Features**  
+- **Epigastric Pain Timing**: Pain occurring a few hours postprandially is characteristic of duodenal ulcers rather than gastric ulcers or GERD, which typically present with pain shortly after eating.
+- **Family History**: Suggests a possible hereditary condition.
+- **Hypercalcemia**: Elevated calcium levels are uncommon in simple peptic ulcer disease and suggest an underlying endocrine disorder, such as hyperparathyroidism.
+- **Multiple Duodenal Ulcers**: Indicates a more severe or complex pathology, potentially involving Zollinger-Ellison syndrome (gastrinoma) or familial syndromes like MEN1.
+- **Absence of Risk Factors**: Lack of NSAID use, smoking, or alcohol use makes H. pylori infection and GERD less likely as standalone causes without additional factors.
+
+**3. Differential Diagnosis Analysis**  
+1. **Gastroesophageal Reflux Disease (GERD)**: Typically presents with heartburn and acid regurgitation rather than duodenal ulcers. Pain usually occurs shortly after eating and may be associated with related symptoms like cough or hoarseness. The presence of multiple duodenal ulcers and hypercalcemia makes GERD less likely.
+
+2. **Gastric Adenocarcinoma, Intestinal Type**: Generally occurs in older individuals and is associated with weight loss, anemia, and a higher risk in smokers and alcohol users. Multiple duodenal ulcers are not a common presentation. Hypercalcemia is uncommon unless there is paraneoplastic syndrome, which is rare in this context.
+
+3. **H. pylori Infection**: A common cause of peptic ulcers, including duodenal ulcers. However, it does not explain the hypercalcemia or the family history. While it remains a possible contributor, it is unlikely to be the sole diagnosis given the additional findings.
+
+4. **VIPoma**: A pancreatic endocrine tumor that secretes vasoactive intestinal peptide, leading to watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome). The patient does not present with diarrhea or electrolyte abnormalities typical of VIPoma, making this diagnosis unlikely.
+
+5. **Multiple Endocrine Neoplasia Type 1 (MEN1)**: A hereditary syndrome characterized by the triad of pituitary tumors, parathyroid hyperplasia or adenomas (causing hypercalcemia), and pancreatic neuroendocrine tumors (such as gastrinomas leading to Zollinger-Ellison syndrome). The presence of multiple duodenal ulcers suggests excessive gastrin secretion, and hypercalcemia points towards hyperparathyroidism. The family history further supports a hereditary condition like MEN1.
+
+**4. Final Selection**  
+**My final selection is: Option 5 (MEN1)(多发性内分泌腺瘤综合征1型)**
+================================================================================
+Qwen is reasoning the answer...
+
+Qwen's diagnostic conclusion:
+Choice: Option 5 (MEN1)
+
+Qwen's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- A 26-year-old male presents with persistent epigastric pain for 2 months, worsening a few hours after eating. His father had similar symptoms. Vital signs are normal except for mild epigastric tenderness. Upper endoscopy reveals multiple duodenal ulcers.  
+- **Decisive features**:  
+  - **Postprandial pain delay** (hours after eating), suggesting a link to gastric acid secretion patterns.  
+  - **Multiple duodenal ulcers**, which are atypical for common causes like H. pylori.  
+  - **Family history of similar symptoms**, pointing to a genetic or hereditary component.  
+
+---
+
+**2. Analysis of Clinical Features**  
+- **Pain pattern**: The delay in pain after eating (hours later) is classic for **Zollinger-Ellison syndrome (ZES)**, where excessive gastrin stimulates acid secretion, causing pain when food has emptied from the stomach. This contrasts with GERD (immediate postprandial discomfort) or typical H. pylori ulcers (midnight or fasting pain).  
+- **Endoscopic findings**: Multiple duodenal ulcers are highly suggestive of ZES, as H. pylori typically causes single ulcers, and gastric adenocarcinoma would present as a mass rather than ulcers.  
+- **Family history**: The father’s similar symptoms raise suspicion for **MEN1** (multiple endocrine neoplasia type 1), which includes gastric泌素omas as a component.  
+
+---
+
+**3. Differential Diagnosis Analysis**  
+1. **Gastroesophageal reflux disease (GERD)**:  
+   - Unlikely. GERD causes heartburn and regurgitation, typically after meals, not ulceration. Endoscopy would show esophageal changes, not duodenal ulcers.  
+
+2. **Gastric adenocarcinoma, intestinal type**:  
+   - Excluded by endoscopy showing ulcers rather than a tumor mass. Pain is not typically associated with early gastric cancer.  
+
+3. **H. pylori infection**:  
+   - While H. pylori is the most common cause of peptic ulcers, multiple duodenal ulcers are uncommon. This patient’s family history and endoscopic findings argue against it.  
+
+4. **VIPoma**:  
+   - Causes watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome). The patient lacks these features (normal potassium, no diarrhea reported).  
+
+5. **MEN1**:  
+   - **Highly likely**. MEN1 includes gastric泌素omas (ZES), which cause multiple duodenal ulcers due to hypergastrinemia. Family history supports a genetic syndrome.  
+
+---
+
+**4. Final Selection**  
+**My final selection is: Option 5 (MEN1)(多发性内分泌腺瘤1型)**  
+
+**Key evidence supporting this choice**:  
+- Multiple duodenal ulcers are a hallmark of Zollinger-Ellison syndrome, which is a component of MEN1.  
+- Family history of similar symptoms aligns with the genetic nature of MEN1.  
+- The pain pattern (postprandial delay) and absence of H. pylori-related features (e.g., single ulcers) further support this diagnosis.
+================================================================================
+DeepSeek is reasoning the answer...
+
+DeepSeek's diagnostic conclusion:
+Choice: Option 5 (MEN1)
+
+DeepSeek's full response:
+================================================================================
+**1. Case Summary and Key Symptoms**  
+- **Patient**: 26-year-old man with 2 months of persistent epigastric pain, worsening postprandially (hours after eating). Family history of similar symptoms in his father. No smoking/alcohol use.  
+- **Key findings**: Mild epigastric tenderness, **elevated serum calcium (13.2 mg/dL)**, and multiple duodenal ulcers on endoscopy.  
+
+**2. Analysis of Clinical Features**  
+- **Postprandial epigastric pain and duodenal ulcers**: Classic for acid-related disease (e.g., peptic ulcer disease). However, **multiple ulcers** and **hypercalcemia** suggest a systemic disorder rather than isolated H. pylori infection.  
+- **Hypercalcemia (13.2 mg/dL)**: Significantly elevated, strongly indicating **hyperparathyroidism** or malignancy.  
+- **Family history**: Autosomal dominant inheritance pattern (father’s symptoms) raises suspicion for a genetic syndrome.  
+
+**3. Differential Diagnosis Analysis**  
+1. **GERD**: Unlikely. GERD typically causes heartburn/regurgitation, not postprandial epigastric pain or ulcers. Does not explain hypercalcemia.  
+2. **Gastric adenocarcinoma**: Unlikely. Young age, lack of weight loss/mass lesions on endoscopy, and hypercalcemia argue against this.  
+3. **H. pylori infection**: Possible cause of duodenal ulcers, but does not explain hypercalcemia or family history.  
+4. **VIPoma**: Causes watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome). Absence of diarrhea and normal bicarbonate exclude this.  
+5. **MEN1**: Best fit. MEN1 includes **hyperparathyroidism (causing hypercalcemia)**, **gastrinomas (causing multiple duodenal ulcers via Zollinger-Ellison syndrome)**, and pituitary tumors. Family history aligns with autosomal dominant inheritance.  
+
+**4. Final Selection**  
+**My final selection is: Option 5 (MEN1)(多发性内分泌腺瘤病1型)**  
+- **Key evidence**:  
+  - **Hypercalcemia** (due to primary hyperparathyroidism, a hallmark of MEN1).  
+  - **Multiple duodenal ulcers** (gastrinoma-induced acid hypersecretion).  
+  - **Family history** (autosomal dominant MEN1).  
+  - Exclusion of other options (e.g., H. pylori lacks hypercalcemia; VIPoma lacks typical symptoms).
+================================================================================
+
+The three models have reached an initial consensus!
+Correct Answer: Option 5 (MEN1)
+
+GPT's initial diagnosis is correct
+Qwen's initial diagnosis is correct
+DeepSeek's initial diagnosis is correct
+
+The three models have reached an initial consensus!All models selected Option5
+
+========= Final Debate Result =========
+GPT, Qwen, and DeepSeek-R1 have reached a consensus!
+Final diagnosis: Option5 - MEN1
+Correct Answer: - MEN1
+
+Is the final diagnosis correct? ✓ Correct
+
