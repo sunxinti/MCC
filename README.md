@@ -356,15 +356,16 @@ This directory contains reference logs output by MCC. For detailed stance change
 If you find MCC useful in your research, please cite our paper:
 
 ```bibtex
-@article{,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={}
+@article{sun2026mcc,
+  title   = {Model confrontation and collaboration: A debate intelligence framework for enhancing medical reasoning in large language models},
+  author  = {Sun, Xinti and Hong, Qiyang and Zhang, Mengyan and Li, Yuyan and Chen, Tingwei and Huang, Zigeng and Liang, Guihan and Tang, Wenjun and Xu, Sulin and Ni, Xiaolin and Pang, Junling and Wan, Peixing and Long, Erping},
+  journal = {Cell Reports Medicine},
+  volume  = {7},
+  pages   = {102547},
+  year    = {2026},
+  doi     = {10.1016/j.xcrm.2025.102547},
+  url     = {https://doi.org/10.1016/j.xcrm.2025.102547},
+  publisher = {Elsevier}
 }
 ```
 
